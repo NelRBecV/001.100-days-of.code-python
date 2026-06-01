@@ -1,5 +1,6 @@
 import random
-print("What do you choose? Type 0 for Rock, 1 Paper and 2 for Scissors")
+#it's assumed the user inputs an integer number, otherwise the program will raise an error
+print("What do you choose? Type '0' for Rock, '1' Paper and '2' for Scissors")
 human_choice = int(input())
 computer_choice = random.randint(0, 2)
 print(str(human_choice))
@@ -123,4 +124,4 @@ elif human_choice == 2 and computer_choice == 0:
                     Compuer WON!!!
     ''')
 else:
-    print("You should pick a option among 0 and 2")
+    print("You should pick up an option among '0', '1' and 2")
