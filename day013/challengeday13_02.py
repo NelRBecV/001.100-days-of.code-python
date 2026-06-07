@@ -1,7 +1,7 @@
 #DEBUGGING EXCERCISE
 #Which year do you want to check?
 
-year = input()
+#year = input()
 #Problem detectec: Non valid data input type. An integer data is required for processing data
 #                  but the variable value gotten from it was string
 
