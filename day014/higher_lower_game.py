@@ -2,7 +2,7 @@
 from hl_logo import main_logo
 from clear import clear
 from hl_data import data_choices
-from hl_classical import classical_mode
+from hl_classical import play_classical_mode
 
 high_score = 0
 
