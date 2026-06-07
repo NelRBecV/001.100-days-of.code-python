@@ -25,7 +25,7 @@ while input("Do you want to start a new game?: ").lower()[0] == "y":
         
     while not end_game:        
         clear()        
-        right_answer = classical_mode(option1, option2)
+        right_answer = play_classical_mode(option1, option2)
         
         if right_answer:
             option1 = option2
