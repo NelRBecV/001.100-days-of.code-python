@@ -24,9 +24,7 @@ while input("Do you want to start a new game?: ").lower()[0] == "y":
     option2 = data_choices()
         
     while not end_game:        
-        clear()
-        print(option1)
-        print("\n"+option2)
+        clear()        
         right_answer = classical_mode(option1, option2)
         
         if right_answer:
