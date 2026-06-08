@@ -5,9 +5,10 @@ class Snake:
     def __init__(self):
         self.body = []
         self.count = 0
-        
+
         for i in range(3):
-            self.segments()        
+            self.segments()
+
 
     def segments(self):
         section = Turtle()
@@ -20,11 +21,12 @@ class Snake:
         self.count += 1
 
     def moving(self):
-        self.body[0].forward(10)
         for s in range(len(self.body) - 1, 0, -1):
             pos_x = self.body[s - 1].xcor()
             pos_y = self.body[s - 1].ycor()
             self.body[s].goto(pos_x, pos_y)
+
+        self.body[0].forward(10)
 
     def move_up(self):
         if self.body[0].heading() != 270:
