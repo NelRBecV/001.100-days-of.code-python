@@ -5,12 +5,9 @@ class Snake:
     def __init__(self):
         self.body = []
         self.count = 0
-        self.snake()
-
-    def head(self):
+        
         for i in range(3):
-            self.segments()
-        return self.body
+            self.segments()        
 
     def segments(self):
         section = Turtle()
