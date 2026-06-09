@@ -2,7 +2,7 @@ from turtle import Turtle
 
 
 class Paddle(Turtle):
-    def __init__(self):
+    def __init__(self, x, y):
         super().__init__()
         for i in range(2):
             self.hideturtle()
@@ -13,7 +13,7 @@ class Paddle(Turtle):
             self.resizemode('user')
             self.shapesize(0.5, 3.0, 0.0)
             self.setheading(90)
-
+            self.goto(x, y)
             self.showturtle()
 
 
@@ -24,3 +24,12 @@ class Paddle(Turtle):
     def move_down(self):
         if self.ycor() > -250:
             self.backward(10)
+
+    def impact_ball(self, ball):
+        if self.distance(ball.xcor(), ball.ycor() - 20) < 20:
+            return True
+
+        if self.distance(ball.xcor(), ball.ycor() + 20) < 20:
+            return True
+
+        return False
