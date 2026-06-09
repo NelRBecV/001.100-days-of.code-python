@@ -21,7 +21,7 @@ play_ball = Ball()
 speed_x = 1
 speed_y = 1
 while not winner:
-    play_ball.set_position(0, 0)
+    play_ball.reset_position()
     field.update()
     while -520 < play_ball.xcor() < 520:
         if paddle1.impact_ball(play_ball):
