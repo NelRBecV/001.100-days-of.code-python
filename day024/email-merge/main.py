@@ -1,11 +1,11 @@
 import os
 
-with open("/input/invited_names.txt") as names:
+with open("/input/names/invited_names.txt") as names:
     name_list = names.readlines()# Reads every single line in a txt file
     name_list
     names.close()
 
-with open("/input/starting_letter.txt") as letter:
+with open("/input/letters/starting_letter.txt") as letter:
     letter_content = letter.read()# Read all the content in a txt file
     letter.close()
     
