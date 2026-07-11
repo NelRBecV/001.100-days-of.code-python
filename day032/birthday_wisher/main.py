@@ -18,7 +18,7 @@ def create_letter(guest: str) -> str:
     return invitation
 
 # 1. Update the birthdays.csv - DONE
-data = pandas.read_csv("birthdays.csv").to_dict(orient="records")
+data = pandas.read_csv("data/birthdays.csv").to_dict(orient="records")
 date = datetime.datetime
 c_month: int = date.now().month
 c_day: int = date.now().day
