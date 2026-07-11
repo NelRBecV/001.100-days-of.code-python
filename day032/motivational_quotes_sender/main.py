@@ -4,6 +4,8 @@ import dotenv
 import os
 from random import randint
 
+load_dotenv()
+
 with open("data/quotes.txt", "r") as phrases:
     quotes = phrases.readlines()
 
