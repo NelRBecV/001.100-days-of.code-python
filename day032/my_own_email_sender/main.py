@@ -6,6 +6,8 @@ from tkinter import *
 from tkinter import messagebox
 from dotenv import load_dotenv
 
+load_dotenv()
+
 with open("data/quotes.txt","r") as phrases:
     list_quotes = phrases.readlines()
 
