@@ -1,8 +1,8 @@
-#Which tear do you want to check?
+# Which year do you want to check?
 leap = int(input())
-#Don't chang the code above
+# Don't chang the code above
 
-#Write your code below this line
+# Write your code below this line
 
 if leap % 4 == 0:
     if leap % 100 == 0:
