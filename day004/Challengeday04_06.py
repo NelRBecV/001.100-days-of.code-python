@@ -1,10 +1,9 @@
 import random
-#it's assumed the user inputs an integer number, otherwise the program will raise an error
+# it's assumed the user inputs an integer number, otherwise the program will raise an error
 print("What do you choose? Type '0' for Rock, '1' Paper and '2' for Scissors")
 human_choice = int(input())
 computer_choice = random.randint(0, 2)
-print(str(human_choice))
-print(str(computer_choice))
+
 if human_choice == 0 and computer_choice == 2:
     print('''
     _______                  _______
