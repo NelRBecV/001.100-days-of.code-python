@@ -23,26 +23,26 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 print("Welcome to the Treasure Island")
 print("Your mission is to find a hidden treasure somewhere in this island")
 
-first_choice= input("There's a crossroad ahead from you. What path do you take? Left or Right\n")
+first_choice = input("There's a crossroad ahead from you. What path do you take? Left or Right\n")
 if first_choice.lower() == "right":
     print("You've found a Cannibal village and then they eat you. Game over")
 elif first_choice.lower() == "left":
-    print("You walk through the dense jungle until dicovering a overflowed river in fron of you.")
-    second_choice= input("What do you wanna do? Wait or Swing\n")
+    print("You walk through the dense jungle until discovering a overflowed river in front of you.")
+    second_choice = input("What do you wanna do? Wait or Swing\n")
     if second_choice.lower() == "swing":
-        print("You drag downriver while trying to swing and finally drowed down. Game over")
+        print("You drag downriver while trying to swing and finally drowned down. Game over")
     elif second_choice.lower() == "wait":
-        print("the torrent of water starts slowing down afer several minutes")
+        print("the torrent of water starts slowing down after several minutes")
         print("You reached a place where there are three wooden doors. A yellow one, Blue one and Red one")
         third_choice = input("Which one do you wanna open?\n")
         if third_choice.lower() == "yellow":
-            print("Congratulations!!! You found the trasure")
-        elif third_choice.lower() == "Blue":
+            print("Congratulations!!! You found the treasure")
+        elif third_choice.lower() == "blue":
             print("You fell into a well and die. Game over")
-        elif third_choice.lower() == "Red":
-            print("A Rain of arrows are thown over your head. Game over")
+        elif third_choice.lower() == "red":
+            print("A Rain of arrows are thrown over your head. Game over")
         else:
-            print("So, you think you're very funny, Uhh. Take this... A celestial blast felt down instantanly killing you")
+            print("So, you think you're very funny, Uhh. Take this... A celestial blast falls down instantanly killing you")
             print("GAME OVER. PRICK!!!")
     else:
         print("So, you think you're very funny, Uhh. Take this... A celestial blast felt down instantanly killing you")
