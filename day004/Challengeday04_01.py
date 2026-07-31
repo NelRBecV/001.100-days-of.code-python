@@ -1,7 +1,7 @@
 import random
 from random import *
 
-random_integer = randint(0,5)
+random_integer = randint(0, 5)
 print(random_integer)
 
 random_float = random()
