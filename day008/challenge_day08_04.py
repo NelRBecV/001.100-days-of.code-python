@@ -1,8 +1,8 @@
 # Write your code below this line
 def prime_checker(number):
-    prime=0
-    for i in range(2,number+1):
-        if  number % i == 0:
+    prime = 0
+    for i in range(2, number+1):
+        if number % i == 0:
             prime += 1
 
     if prime == 1 and number != 1:
@@ -15,6 +15,7 @@ def prime_checker(number):
 # Write your code above this line
 # Define the function prime_checker() so the code below work
 # Don't change the code above
+
 
 n = int(input())
 prime_checker(number=n)
