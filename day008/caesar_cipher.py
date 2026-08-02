@@ -10,8 +10,7 @@ def caesar(direction, code_text, shift_jumps):
             if code_text[letter] in alphabet:
                 pos = alphabet.index(code_text[letter]) + shift_jumps
                 if pos > alphabet_length:
-                    jump = pos - (pos // alphabet_length) * alphabet_length
-                    pos = jump
+                    pos = pos - (pos // alphabet_length) * alphabet_length
                 output_text += alphabet[pos]
             else:
                 output_text += code_text[letter]
@@ -26,8 +25,7 @@ def caesar(direction, code_text, shift_jumps):
             if code_text[letter] in alphabet:
                 pos = alphabet.index(code_text[letter]) - shift_jumps
                 if pos < alphabet_length:
-                    jump = pos + (abs(pos) // alphabet_length) * alphabet_length
-                    pos = jump
+                    pos = pos + (abs(pos) // alphabet_length) * alphabet_length
                 output += alphabet[pos]
             else:
                 output += code_text[letter]
