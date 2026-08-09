@@ -1,65 +1,115 @@
-from winner import winner
-from draw import draw
-from endgame import endgame
 from clear import clear
 from blackjack_logo import logo
+import random
 
-def play_new_game(start_game):
+
+def get_game_deck() -> list:
+    cards_values = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
+    cards_numbers = ["A", 2, 3, 4, 5, 6, 7, 8, 9, 10, "J", "Q", "K"]
+    cards_suits = ["DIAMONDS", "HEARTS", "CLUBS", "SPADES"]
+    deck: list = []
+    for suit in range(len(cards_suits)):
+        for num in range(len(cards_values)):
+            deck.append({"suit": suit, "symbol": cards_numbers[num], "value": cards_values[num]})
+    random.shuffle(deck)
+
+    return deck
+
+
+def calculate_score(hand: list) -> int:
+    hand_count: int = 0
+    for card in hand:
+        hand_count += card['value']
+    if hand_count > 21:
+        for card in hand:
+            if card['symbol'] == "A":
+                card['value'] = 1
+                hand_count -= 10
+    return hand_count
+
+
+def draw_card(deck: list) -> dict:
+    card = random.choice(deck)
+    deck.remove(card)
+
+    return card
+
+
+def find_game_winner(player1: list, player2: list) -> int:
+    p1_cards = calculate_score(player1)
+    p2_cards = calculate_score(player2)
+
+    if p1_cards > 21:
+        return 2
+
+    if p2_cards > 21:
+        return 1
+
+    if p1_cards == p2_cards:
+        return 0
+    if p1_cards > p2_cards or p1_cards == 21:
+        return 1
+    if p2_cards > p1_cards or p2_cards == 21:
+        return 2
+    return -1
+
+
+def show_cards(hand: list) -> str:
+    cards: list = []
+    for card in hand:
+        cards.append(str(card['value']))
+
+    return " ".join(cards)
+
+
+def play_game():
+    deck: list = get_game_deck()
+    player_hand: list = [draw_card(deck) for _ in range(2)]
+    computer_hand: list = [draw_card(deck) for _ in range(2)]
+    print(f"All right, here is your hand: {show_cards(player_hand)}, score: {calculate_score(player_hand)}")
+    print(f"Here is my first card: {computer_hand[0]['value']}")
+
+    end_round = False
+    while not end_round:
+        while calculate_score(player_hand) < 21:
+            if input("Do you want another card?: ").lower() == "n":
+                break
+            player_hand.append(draw_card(deck))
+            clear()
+            print(show_cards(player_hand))
+
+        while True:
+            if calculate_score(player_hand) > 21 or calculate_score(computer_hand) >= calculate_score(player_hand):
+                break
+            computer_hand.append(draw_card(deck))
+
+        end_round = True
+
+    print(f"Your hand: {show_cards(player_hand)}, score: {calculate_score(player_hand)}")
+    print(f"Dealer's hand: {show_cards(computer_hand)}, score: {calculate_score(computer_hand)}")
+    print()
+    winner = find_game_winner(player_hand,computer_hand)
+    if winner != 0:
+        player = "Dealer has"
+        if winner == 1:
+            player = "You have"
+
+        print(f"{player} won this round.")
+    else:
+        print("There's no winner. It's a draw!")
+
+
+if __name__ == "__main__":
     logo()
     print("Welcome to the PyCharm Casino")
     print("where all your dreams come true")
     print("Tonight's game is a big night blackjack")
-    player_hand = draw(2)
-    computer_hand = draw(2)
-    sum_computer = sum(computer_hand)
-    sum_player = sum(player_hand)
-    cards = 2
-    print("All right, here is your hand")
-    print(player_hand)
-    print("Here is mine")
-    print(f"[{computer_hand[0]}]")
-    win_computer = False
-    win_player = False
+    play: bool = True
 
-  while start_game[0] == "y":
-        if sum_player != 21 and sum_computer != 21:
-            while sum_player < 21 and input("Do you want another card?: ").lower() == "y":
-                clear()
-                if cards < 6:
-                    cards += 1
-                    card = draw(1)
-                    player_hand.append(card[0])
-                    sum_player = sum(player_hand)
-                    if 11 in player_hand and sum(player_hand) > 21:
-                        player_hand[player_hand.index(11)] = 1
-                        sum_player -= 10
-                    print(player_hand)
+    while play:
+        clear()
+        play_game()
+        if input("Do you wanna play another round?: Y/N ").lower() == "n":
+            play = False
 
-            while not sum_computer > 17 and not sum_player > 21:
-                card = draw(1)
-                computer_hand.append(card[0])
-                sum_computer = sum(computer_hand)
-                if 11 in player_hand and sum(player_hand) > 21:
-                    player_hand[player_hand.index(11)] = 1
-                    sum_player -= 10
-                print(computer_hand)
-
-            print(f"Your hand: {player_hand}")
-            print(f"Dealer hand: {computer_hand}")
-
-        win = endgame(sum_player, sum_computer)
-        if win[0] == True or win[1] == True:
-            winner(win[0], win[1])
-            start_game = "n"
-
-
-start_game = input("Do you wanna play Blackjack?: Y/N ").lower()
-play_new_game(start_game[0])
-new_game = input("Do you wanna play again?: Y/N ").lower()
-
-if new_game=="y":
-    clear()
-    play_new_game(new_game[0])
-else:
-    clear()
     print("Goodbye!!!")
