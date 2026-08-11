@@ -31,7 +31,6 @@ while input("Do you want to start a new game?: ").lower()[0] == "y":
             option1 = option2
             winning_points += 1
             option2 = data_choices()
-            print(option2)
         else:
             end_game = True    
 
