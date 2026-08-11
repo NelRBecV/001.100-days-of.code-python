@@ -22,9 +22,10 @@ def calculate_score(hand: list) -> int:
         hand_count += card['value']
     if hand_count > 21:
         for card in hand:
-            if card['symbol'] == "A":
+            if card['symbol'] == "A" and card['value'] == 11:
                 card['value'] = 1
                 hand_count -= 10
+                break
     return hand_count
 
 
@@ -78,8 +79,8 @@ def play_game():
             clear()
             print(show_cards(player_hand))
 
-        while True:
-            if calculate_score(player_hand) > 21 or calculate_score(computer_hand) >= calculate_score(player_hand):
+        while calculate_score(computer_hand) < calculate_score(player_hand):
+            if calculate_score(player_hand) > 21:
                 break
             computer_hand.append(draw_card(deck))
 
@@ -109,7 +110,7 @@ if __name__ == "__main__":
     while play:
         clear()
         play_game()
-        if input("Do you wanna play another round?: Y/N ").lower() == "n":
+        if input("Do you wanna play another round? Y/N: ").lower() == "n":
             play = False
 
     print("Goodbye!!!")
