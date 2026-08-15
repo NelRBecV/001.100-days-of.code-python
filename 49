@@ -1,0 +1,242 @@
+[33m3fa87ae[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m sort characters in line 37
+[33me8ba11f[m erase prompt code from line 34
+[33me98db5e[m add a new line in row 2, remove extra space in lines 25 and 26
+[33m4934be2[m add a new line in row 2, correct misspellings in row 10, 15, 23, 34, 74, 310 and 314
+[33mf11d8c8[m add a new line in row 2, separate "hotkey" function parameters in row 6
+[33mf779500[m Add an extra condition to if-statement inside second "for" loop, add a new line in row 28, change "while" loop statement in row 82, rearrange string prompt in row 113
+[33m8c8ba7e[m correct misspelling in line 1, insert blank spaces inside lines in lines 5, 9, 12 and 16
+[33m181d618[m correct misspelling in lines 1, 5 insert blank spaces inside comment line in lines 2, 4 and 8
+[33m0500627[m correct misspelling in line 1, insert blank spaces inside comment line in line 5
+[33mca11e25[m insert blank line in row 3, remove extra space in ascii logo from lines 7 to 10, move "attempt_left" variable to line 15, modify "if" statement  and implementation in guessing_level method, reduce "finding_number" method parameters to one, erase "win" and "attempt" variables from "finding_number" method, reformat second if-statement in "finding_number" method, change return value from "finding_number" method,move "clear" and "logo" methods to lines 37 and 38, correct misspellings in lines 39, 42, 45 and 49; relocate "number_to_guess" and "lives_left" to line 39, rearrange code inside "while" loop
+[33m6533fd2[m add a new blank line in row 2, insert blank space among "hotkey" method parameters
+[33mee0348d[m Separate hash symbol from text and correct some misspelling in rows 1 and 3, add a new line in rows 5 and 24, insert blank space in rows 4, 17 and 22, rename "bonification" misspelling method to "supplement"
+[33mfbcf1d4[m remove unnecessary imports from project, reformat code from row 3 to 95, erase "play_new_game" method from line 7, Add if-statement test code in line 102, extract program header lines and main "while" loop from main function, reformat game main loop
+[33m777a542[m Add blank lines in rows 2 and 3, separate arguments in "hotkey" method in row 6
+[33m83a06e3[m erase redundant endgame.py file from project
+[33md02cc47[m erase redundant draw.py file from project
+[33ma8e22a7[m erase redundant winner.py file from project
+[33me4c550f[m separate function definitions from "import" statement. Add ASCII main image to the program. Add extra line to separate functions in rows 27, 30, 34, 44, 45. Rename "opretations" variable name to "operations". Separate assignment symbol from "operations" and dict value. Align dict values in "operations" from lines 41 to 43. Separate "done_again" value from assignment symbol. Correct misspelling in row 55. Remove extra parentheses in row 56. Split "input" prompt message and separate assignment sign from values in rows 60 and 65. Separate equality sign in row 63. Add a new line in row 69
+[33mff90491[m separate function definitions from "import" statement
+[33m10e9995[m Remove "leap" integer variable from code in row 3. Separate assignment symbol from rows 4 to 7. Remove prompt text in rows 8, 11, 13, and 16. Erase "leap" variable from rows 9, 14, and 17. Add "leap_year" variable in row 23. Rewrite "if" statement in line 24. Erase "days_month" and "g_year" from rows 24 and 25. Rename "days_month" variable to "days_of_month". Restructure "if" statement of leap year implementation. Assign a new return string value in row 32. Add some spaces in comment code in rows 37 and 38
+[33m89588ac[m Correct misspelling in row 2, erase "w_name" initialization in row 3, add an extra line in row 7, separate assignment symbol from each side in rows 9 and 10
+[33mc682a01[m Add two new blank lines in rows 2, 3 and 19, remove extra space in row 5, reduce auction function parameters to one, change variable name in rows 37 and 38, move "auction_list" variable from auction function to inside "while" loop, take "auction" out of "while" loop,
+[33m0298898[m add new blanks lines in rows 2 and 3, separate parameters in "hotkey" function
+[33m39b3d37[m create new file "clear_module_readme.txt"
+[33m1f64076[m Add some blank separators in lines 1, 2, 3, 25, 30, correct misspelling in line 19, change "visits" variable name to "number_of_visits"
+[33m088af10[m  Add some comments to code, turn code into comment from lines 4 to 13, correct some misspelling words in lines 4, 5, 9, 10, 11, 19, 21, 23
+[33m6fdec95[m rename file to challenge_day_08_04.py
+[33mbacf860[m rename file to challenge_day_08_03.py
+[33m2c97fcf[m rename file to challenge_day_08_02.py
+[33m76a83d8[m rename file to challenge_day_08_01.py
+[33ma7d75c3[m Arrange "student_scores" dictionary, move "students_grades" dictionary up to line 9 from line 12, correct misspelling in line 16, erase comment in line 26
+[33m15f944e[m remove "jump" variable in lines 13 and 28
+[33m15de2f5[m Add "alphabet_length" variable in line 4, erase "jumps" variable in line 7 and line 23, erase comment text in line 11 and 14, add "alphabet_length" variable into second "if" statement and change implementation code in it, move "output_text" variable out of statement, add some blanks in line 21 and 23, erase "jumps" from code, erase extra blanks after "for" loop statement, change code from lines 27 to 29, remove extra blanks in lines 33, 35 and 36
+[33m9405d28[m create IU main program file
+[33me32f84e[m create program logo file
+[33m4aa155e[m Add some blank spaces around assignment variable in line 3, "for" loop in line 4 and "if" statement in line 5. Insert a new blank line in line 19
+[33mc8224fe[m rename "paint_calc" local variable inside "paint_calc" function to "painting_calculation", add an extra blank line in 10, add some blank space in comment text in lines 11, 12 and 15
+[33mb21ff22[m for testing purposes. It's no longer necessary
+[33m0bbed6a[m Add some blank spaces inside line 1, add an extra line in line 7
+[33mfc858e1[m testing PyCharm-GitHub connection
+[33m0850ab5[m Add blank spaces inside comment in line 1, add an extra line in line 5, move greet() function with parameters from line 8 to 10, add another extra line in line 15
+[33m9ba49ae[m Rename file to challenge_day_07_05.py
+[33mb537d9e[m Rename file to challenge_day_07_04.py
+[33mb21e3e9[m Rename file to challenge_day_07_03.py
+[33m7b7c826[m Rename file to challenge_day_07_02.py
+[33m8e3b423[m Rename file to challenge_day_07_01.py
+[33mf6ba92b[m Rename file to challenge_day_05_05.py
+[33mdfa29a1[m Rename file to challenge_day_05_04.py
+[33mf24c5dc[m Rename file to challenge_day_05_03.py
+[33mb3c977b[m Rename file to challenge_day_05_02.py
+[33mb5d6da2[m Rename file to challenge_day_05_01.py
+[33me95d0f8[m Rename file to challenge_day_04_06.py
+[33m5349ba7[m Rename file to challenge_day_04_04.py
+[33mc518f4c[m Rename file to challenge_day_04_03.py
+[33mc2c74df[m Rename file to challenge_day_04_02.py
+[33md0861ea[m Rename file to challenge_day_04_01.py
+[33m79b14c9[m Rename file challenge_day_03_06.py
+[33m4320219[m Rename file challenge_day_03_05.py
+[33m76dfaed[m Rename file challenge_day_03_04.py
+[33m439ddae[m Rename file challenge_day_03_03.py
+[33m045116a[m Rename file challenge_day_03_02.py
+[33m063d26b[m Rename file challenge_day_03_01.py
+[33mdb476a2[m Rename file challenge_day_02_04.py
+[33m6008bb2[m Rename file challenge_day_02_03.py
+[33me556343[m Rename file challenge_day_02_02.py
+[33m64e43c9[m Rename file challenge_day_02_01.py
+[33mf94bbba[m Rename file challenge_day_01_05.py
+[33madaaf83[m Rename file challenge_day_01_04.py
+[33m54868d8[m Rename file challenge_day_01_02.py
+[33m01b1420[m Rename file challenge_day_01_01.py
+[33m87684b6[m delete file hangman_game.py
+[33mcac4214[m create file stages_logo.py
+[33mf90ace0[m create file list_words.py
+[33m24f6b55[m create file Challengeday07_05.py
+[33m9a04341[m create file Challengeday07_04.py
+[33m5a552e0[m create file Challengeday07_03.py
+[33m0b917b3[m Add comment to the beginning of file. Remove "import os" from code. Remove list_words, stages_logo imports, printing statement and word_list, and stages variables from line 4 to 9. Change name of "for" loop variable and replace len(chosen_word) for word_length. Move "guess" input from line 29 to 18. Move TODO comment and "for" loop from line 30 to 20. Erase a lot of code from line 31 to 65. Add TODO comment and "print" statement after ending "for" loop
+[33m3304916[m Add a blank space in line 1, correct first word in "word_list", move TODO-1 description from line 10 to 5, add three variables called chosen_word, word_length, and display from lines 3 and 8. Move TODO-2 from line 9 to 15. Move code from line 38 to 18
+[33m8aa7713[m Rearrange the first line of text. Write an extra line of text and rename the TXT file
+[33m87b9a0f[m separate values inside "av_letters" list in lines 2,3,4 and rearrange lines in it, separate list values in lines 5 and 6, rearrange variables in three lines from line 13 to line 15, remove extra space in line 17 and separate "randint" parameters in line 18, 20 and 21, separate assignment symbol from value in line 25, add separation spaces to equality symbol in line 32, add a blank line at the end of the file
+[33m957f186[m add a blank space between hash symbol and text
+[33md925859[m add blank spaces and change "to" word for "and" in line 1, add blank space in line 2, move comment line from line 3 to line 4, add a new line at the end of the file
+[33md8ab059[m separate hash symbol from text in line 1, add a blank line in line 5, separate hask symbol and text in line 6 and add some blank lines from lines 5 to 7, separate hash symbol to text in line 8, erase extra spacing in line 15 and line 18, move comment line to line 8
+[33ma9f5446[m add a blank space in hash comment text in line 1, add a new space line in line 2, move "total_height" initialization from line 4 to line 9 and add its variable type, add a new loop in line 11 and rearrange code from line 7 to line 13, move "total_height" increment code to line 12
+[33m43bb2d9[m add a blank between hash symbol and text in line 2, remove testing lines for player's choice prompt in lines 6 and 7
+[33mbfbd744[m move "import" statement to the beginning and add a new line in line 2, add a blank space inside lines 3, 8 and 9. Rearrange comment text in lines 5 and 6 and correct misspelling in lines 11 and 13
+[33m1b79660[m add a blank space inside lines 1, 2 and 5 and add a new line at the end of file
+[33mf43e934[m add a blank to assignment sign in line 4 and add a new line at the end of file
+[33m0155b0b[m add a blank spaces in lines 26 and 31. correct some misspelling in lines 30, 33, 35, 39, 40, 42, 43 and 45. Add a new line at the end of file
+[33m22994f2[m correct misspelling in firs print, add separation between variable name and equal sign from "name1" and "i" variables, in first equality condition, first increment variable i, in total_true variable, initializing i, last condition inside "if" statement inside "for" loop and second condition in second "if" statement.
+[33mbf63cd4[m correct misspelling in firs coment and separate hash symbol from text in comments, add a blank line at the end of file
+[33m520baa8[m Create main.py
+[33mc7d3379[m Add files via upload
+[33m53dced2[m Create main.py
+[33m4ca0e37[m Update main.py
+[33mc1886ca[m Update main.py
+[33m02a05a1[m Update main.py
+[33ma6dfb2c[m Create letter_3.txt
+[33m4e1049a[m Create letter_2.txt
+[33m2bb46b9[m Create letter_1.txt
+[33m450ecce[m Create birthdays.csv
+[33m4ee1ec5[m Create main.py
+[33mc749e7d[m Create quotes.txt
+[33m5b630d2[m Create main.py
+[33m7f45570[m Create quotes,txt
+[33m7aac72c[m Create main.py
+[33m450d546[m Delete day031/images/readme.txt
+[33m10a12d6[m Delete day031/data/readme.txt
+[33mc480bed[m Add files via upload
+[33mbe605d3[m Add files via upload
+[33m54d5658[m Create readme.txt
+[33m428a025[m Create readme.txt
+[33m8b3029a[m Create main.py
+[33m2123cd2[m Add files via upload
+[33mf92991c[m Create password_generator_v2.py
+[33m88479af[m Create nato_alphabet_v2.py
+[33me1c86de[m Create key_error_handing.py
+[33m6becfd2[m Create challenge_excercise.py
+[33mfd74aba[m Create try_except_else.py
+[33mebde10f[m Add files via upload
+[33mf036c32[m Create password_generator.py
+[33m46b058e[m Add files via upload
+[33mc616756[m Create pomodoro_timer.py
+[33m70bfd65[m Update mille_to_km_calculator.py
+[33mabc396f[m Create mille_to_km_calculator.py
+[33mfff4d5a[m Create test_other_gui_elements.py
+[33mc22c31f[m Create tkinter_objects_functionality.py
+[33me64c1a7[m Create listbox.py
+[33m32bb165[m Create kw_args.py
+[33m5d00b0b[m Create challenge.py
+[33m7c7b8e9[m Create arguments.py
+[33m719a9b2[m Create nato_alphabet_conversor.py
+[33m161f09c[m Create challenges.py
+[33m5621813[m Update main.py
+[33md870708[m Update main.py
+[33m552cc3d[m Add files via upload
+[33ma3dcb32[m Create main.py
+[33m18c50b7[m Add files via upload
+[33m4eea875[m Create main.py
+[33m6120b42[m Add files via upload
+[33mfcecb97[m Create main.py
+[33mcbb76d1[m Update main.py
+[33m4610eca[m Update main.py
+[33mf810e94[m Add files via upload
+[33m4bea354[m Create main.py
+[33m46c3956[m Create main.py
+[33mb5df35e[m Create scoreboard.py
+[33m134cbbe[m Create snake.py
+[33m3286a11[m Create food.py
+[33m8f4bd5e[m Create level.py
+[33m468ca79[m Create car.py
+[33m7c4e40e[m Create player.py
+[33m4d29240[m Create main.py
+[33m32e05fa[m Create README.md
+[33m783c131[m Delete levels
+[33m2391d24[m Update ball.py
+[33m9358d4a[m Update main.py
+[33m484a6df[m Create ball.py
+[33mfc2d31c[m Create main.py
+[33mf831d3c[m Create match.py
+[33m03b94a2[m Update paddle.py
+[33m6fa3703[m Create paddle.py
+[33mfa36e37[m Update snake.py
+[33m8033a42[m Update snake.py
+[33m392fe2e[m Create snake.py
+[33m0a6d835[m Create scoreboard.py
+[33me05a325[m Create food.py
+[33m9bdfbd7[m Create main.py
+[33m441fd40[m Create turtle_race.py
+[33m4cfbd01[m Create etch_a_sketch.py
+[33mfb9b7ea[m Create turtle_event_listener.py
+[33m0acba73[m Create hirst_painting.py
+[33mae102ab[m Create turtle_random_movement.py
+[33m0c472cf[m Create shapes.py
+[33mebc323b[m Create spirograph.py
+[33ma417efa[m Create square.py
+[33m1e23af9[m Create data.py
+[33m1019c0a[m Update quiz_brain.py
+[33mbdfdf3a[m Create question_model.py
+[33m0f5b507[m Create quiz_brain.py
+[33mc7f573a[m Create main.py
+[33m6f110be[m Create challengeday16_02.py
+[33mf5784f3[m Create challengeday16_01.py
+[33me68812d[m Create coffee_machine_project.py
+[33m4178f6a[m Create levels
+[33m6226a31[m Create hl_data.py
+[33m1f6ebdf[m Update higher_lower_game.py
+[33m642d596[m Update higher_lower_game.py
+[33m6d1840d[m Create hl_classical.py
+[33m42ee8bd[m Update higher_lower_game.py
+[33mdf60c54[m Create higher_lower_game.py
+[33mc576245[m Create clear.py
+[33m2b6748b[m Create clear.py
+[33m35f46c2[m Create challengeday13_03.py
+[33mef8b3b6[m Update challengeday13_02.py
+[33m2d63000[m Update challengeday13_01.py
+[33mec7f6b0[m Create challengeday13_02.py
+[33m0456fb7[m Create challengeday13_01.py
+[33m56c0998[m Delete day012/art.py
+[33ma611501[m Delete day012/challengeday12_03.py
+[33mf63d1bd[m Create art.py
+[33m8d0b891[m Create challengeday12_03.py
+[33m876c5ec[m Create challengeday12_02.py
+[33m8c0ddf0[m Create challengeday12_01.py
+[33m20bd706[m Create clear.py
+[33mbc6c76e[m Create draw.py
+[33ma812eb2[m Create endgame.py
+[33m816c6af[m Create winner.py
+[33m45ff0d9[m Rename logo.py to blackjack_logo.py
+[33m4c1dc19[m Create logo.py
+[33m68d42b4[m Create blackjack_game.py
+[33m575f64b[m Create clear.py
+[33m98be4e9[m Create challengeday10_03.py
+[33md9987fc[m Create challengeday10_02.py
+[33m78dab68[m Create challengeday10_01.py
+[33m3fb7312[m Create clear.py
+[33m5c5988e[m Create bidding_program.py
+[33m38b5234[m Create challengeday09_03.py
+[33m2fb56c7[m Create challengeday09_02.py
+[33mf6019e0[m Create challengeday09_01.py
+[33mfee54de[m Create caesar_cipher.py
+[33m85a237d[m Create challenge_day08_04.py
+[33m83a1831[m Create challengeday08_03.py
+[33m4cb0e8f[m Create challengeday08_02.py
+[33meea21b4[m Create challengeday08_01.py
+[33mc9b39b4[m Create hangman_game.py
+[33m0b72aa6[m Create challengeday07_02.py
+[33m322ee90[m Create challengeday07_01.py
+[33m16aa1af[m Create Readme.txt
+[33mb8fb8a1[m Add files via upload
+[33m419e664[m Add files via upload
+[33m2e52d4f[m Add files via upload
+[33mf9cc8a5[m Update Challengeday04_06.py
+[33m831c3d5[m Add files via upload
+[33m063ff78[m Add files via upload
+[33m337fe7d[m Add files via upload
+[33m516ad8f[m Add files via upload
+[33m8989076[m Delete challengeday01_01.py
+[33m65a7def[m Delete challengeday01_05.py
+[33me2b2946[m Delete Challengeday01_04.py
+[33m4ef7be5[m Add files via upload
+[33m41bc147[m Initial commit

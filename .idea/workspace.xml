@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8405eb32-d661-47e3-bf56-4ffa519305ec" name="Changes" comment="add configuration files">
+      <change afterPath="$PROJECT_DIR$/.idea/001.100-days-of.code-python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day015/coffee_machine_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/day015/coffee_machine_project.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="3HBN1FRBl7fAhdIjpsnynkoEP9A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Practica/001.100-days-of.code-python/day011&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Practica\001.100-days-of.code-python\day011" />
+      <recent name="D:\Practica\001.100-days-of.code-python\day007" />
+      <recent name="D:\Practica\001.100-days-of.code-python\day007\hangman_game" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Practica\001.100-days-of.code-python\day007" />
+      <recent name="D:\Practica\001.100-days-of.code-python\day007\hangman_game" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8405eb32-d661-47e3-bf56-4ffa519305ec" name="Changes" comment="" />
+      <created>1785337285724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785337285724</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Rename file to challenge_day_05_04.py">
+      <option name="closed" value="true" />
+      <created>1785597678311</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1785597678311</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Rename file to challenge_day_05_05.py">
+      <option name="closed" value="true" />
+      <created>1785597736554</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1785597736554</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Rename file to challenge_day_07_01.py">
+      <option name="closed" value="true" />
+      <created>1785597756309</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1785597756309</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Rename file to challenge_day_07_02.py">
+      <option name="closed" value="true" />
+      <created>1785597771563</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1785597771563</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Rename file to challenge_day_07_03.py">
+      <option name="closed" value="true" />
+      <created>1785597785974</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1785597785974</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Rename file to challenge_day_07_04.py">
+      <option name="closed" value="true" />
+      <created>1785597798895</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1785597798895</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Rename file to challenge_day_07_05.py">
+      <option name="closed" value="true" />
+      <created>1785597811049</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1785597811049</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Add blank spaces inside comment in line 1, add an extra line in line 5, move greet() function with parameters from line 8 to 10, add another extra line in line 15">
+      <option name="closed" value="true" />
+      <created>1785621855800</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1785621855800</updated>
+    </task>
+    <task id="LOCAL-00051" summary="testing PyCharm-GitHub connection">
+      <option name="closed" value="true" />
+      <created>1785622844853</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1785622844853</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Add some blank spaces inside line 1, add an extra line in line 7">
+      <option name="closed" value="true" />
+      <created>1785622985295</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1785622985295</updated>
+    </task>
+    <task id="LOCAL-00053" summary="for testing purposes. It's no longer necessary">
+      <option name="closed" value="true" />
+      <created>1785623127887</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1785623127887</updated>
+    </task>
+    <task id="LOCAL-00054" summary="rename &quot;paint_calc&quot; local variable inside &quot;paint_calc&quot; function to &quot;painting_calculation&quot;, add an extra blank line in 10, add some blank space in comment text in lines 11, 12 and 15">
+      <option name="closed" value="true" />
+      <created>1785623415591</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1785623415591</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Add some blank spaces around assignment variable in line 3, &quot;for&quot; loop in line 4 and &quot;if&quot; statement in line 5. Insert a new blank line in line 19">
+      <option name="closed" value="true" />
+      <created>1785623588057</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1785623588057</updated>
+    </task>
+    <task id="LOCAL-00056" summary="create program logo file">
+      <option name="closed" value="true" />
+      <created>1785628740804</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1785628740804</updated>
+    </task>
+    <task id="LOCAL-00057" summary="create IU main program file">
+      <option name="closed" value="true" />
+      <created>1785628803169</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1785628803169</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Add &quot;alphabet_length&quot; variable in line 4, erase &quot;jumps&quot; variable in line 7 and line 23, erase comment text in line 11 and 14, add &quot;alphabet_length&quot; variable into second &quot;if&quot; statement and change implementation code in it, move &quot;output_text&quot; variable out of statement, add some blanks in line 21 and 23, erase &quot;jumps&quot; from code, erase extra blanks after &quot;for&quot; loop statement, change code from lines 27 to 29, remove extra blanks in lines 33, 35 and 36">
+      <option name="closed" value="true" />
+      <created>1785630074237</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1785630074238</updated>
+    </task>
+    <task id="LOCAL-00059" summary="remove &quot;jump&quot; variable in lines 13 and 28">
+      <option name="closed" value="true" />
+      <created>1785633587727</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1785633587728</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Arrange &quot;student_scores&quot; dictionary, move &quot;students_grades&quot; dictionary up to line 9 from line 12, correct misspelling in line 16, erase comment in line 26">
+      <option name="closed" value="true" />
+      <created>1785634132145</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1785634132146</updated>
+    </task>
+    <task id="LOCAL-00061" summary="rename file to challenge_day_08_01.py">
+      <option name="closed" value="true" />
+      <created>1785679630050</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1785679630050</updated>
+    </task>
+    <task id="LOCAL-00062" summary="rename file to challenge_day_08_02.py">
+      <option name="closed" value="true" />
+      <created>1785679898025</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1785679898025</updated>
+    </task>
+    <task id="LOCAL-00063" summary="rename file to challenge_day_08_03.py">
+      <option name="closed" value="true" />
+      <created>1785679930044</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1785679930044</updated>
+    </task>
+    <task id="LOCAL-00064" summary="rename file to challenge_day_08_04.py">
+      <option name="closed" value="true" />
+      <created>1785679961159</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1785679961159</updated>
+    </task>
+    <task id="LOCAL-00065" summary=" Add some comments to code, turn code into comment from lines 4 to 13, correct some misspelling words in lines 4, 5, 9, 10, 11, 19, 21, 23">
+      <option name="closed" value="true" />
+      <created>1785681040926</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1785681040926</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Add some blank separators in lines 1, 2, 3, 25, 30, correct misspelling in line 19, change &quot;visits&quot; variable name to &quot;number_of_visits&quot;">
+      <option name="closed" value="true" />
+      <created>1785681355732</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1785681355732</updated>
+    </task>
+    <task id="LOCAL-00067" summary="create new file &quot;clear_module_readme.txt&quot;">
+      <option name="closed" value="true" />
+      <created>1785683082842</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1785683082842</updated>
+    </task>
+    <task id="LOCAL-00068" summary="add new blanks lines in rows 2 and 3, separate parameters in &quot;hotkey&quot; function">
+      <option name="closed" value="true" />
+      <created>1785683200600</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1785683200600</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Add two new blank lines in rows 2, 3 and 19, remove extra space in row 5, reduce auction function parameters to one, change variable name in rows 37 and 38, move &quot;auction_list&quot; variable from auction function to inside &quot;while&quot; loop, take &quot;auction&quot; out of &quot;while&quot; loop,">
+      <option name="closed" value="true" />
+      <created>1785686467506</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1785686467506</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Correct misspelling in row 2, erase &quot;w_name&quot; initialization in row 3, add an extra line in row 7, separate assignment symbol from each side in rows 9 and 10">
+      <option name="closed" value="true" />
+      <created>1785851679737</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1785851679738</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Remove &quot;leap&quot; integer variable from code in row 3. Separate assignment symbol from rows 4 to 7. Remove prompt text in rows 8, 11, 13, and 16. Erase &quot;leap&quot; variable from rows 9, 14, and 17. Add &quot;leap_year&quot; variable in row 23. Rewrite &quot;if&quot; statement in line 24. Erase &quot;days_month&quot; and &quot;g_year&quot; from rows 24 and 25. Rename &quot;days_month&quot; variable to &quot;days_of_month&quot;. Restructure &quot;if&quot; statement of leap year implementation. Assign a new return string value in row 32. Add some spaces in comment code in rows 37 and 38">
+      <option name="closed" value="true" />
+      <created>1785853993444</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1785853993444</updated>
+    </task>
+    <task id="LOCAL-00072" summary="separate function definitions from &quot;import&quot; statement">
+      <option name="closed" value="true" />
+      <created>1785854076902</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1785854076902</updated>
+    </task>
+    <task id="LOCAL-00073" summary="separate function definitions from &quot;import&quot; statement. Add ASCII main image to the program. Add extra line to separate functions in rows 27, 30, 34, 44, 45. Rename &quot;opretations&quot; variable name to &quot;operations&quot;. Separate assignment symbol from &quot;operations&quot; and dict value. Align dict values in &quot;operations&quot; from lines 41 to 43. Separate &quot;done_again&quot; value from assignment symbol. Correct misspelling in row 55. Remove extra parentheses in row 56. Split &quot;input&quot; prompt message and separate assignment sign from values in rows 60 and 65. Separate equality sign in row 63. Add a new line in row 69">
+      <option name="closed" value="true" />
+      <created>1785855158497</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1785855158497</updated>
+    </task>
+    <task id="LOCAL-00074" summary="erase redundant winner.py file from project">
+      <option name="closed" value="true" />
+      <created>1786153598260</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1786153598262</updated>
+    </task>
+    <task id="LOCAL-00075" summary="erase redundant draw.py file from project">
+      <option name="closed" value="true" />
+      <created>1786153645852</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1786153645853</updated>
+    </task>
+    <task id="LOCAL-00076" summary="erase redundant endgame.py file from project">
+      <option name="closed" value="true" />
+      <created>1786153672409</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1786153672409</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Add blank lines in rows 2 and 3, separate arguments in &quot;hotkey&quot; method in row 6">
+      <option name="closed" value="true" />
+      <created>1786280879844</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1786280879845</updated>
+    </task>
+    <task id="LOCAL-00078" summary="remove unnecessary imports from project, reformat code from row 3 to 95, erase &quot;play_new_game&quot; method from line 7, Add if-statement test code in line 102, extract program header lines and main &quot;while&quot; loop from main function, reformat game main loop">
+      <option name="closed" value="true" />
+      <created>1786281647200</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1786281647200</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Separate hash symbol from text and correct some misspelling in rows 1 and 3, add a new line in rows 5 and 24, insert blank space in rows 4, 17 and 22, rename &quot;bonification&quot; misspelling method to &quot;supplement&quot;">
+      <option name="closed" value="true" />
+      <created>1786285096572</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1786285096572</updated>
+    </task>
+    <task id="LOCAL-00080" summary="add a new blank line in row 2, insert blank space among &quot;hotkey&quot; method parameters">
+      <option name="closed" value="true" />
+      <created>1786285213831</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1786285213831</updated>
+    </task>
+    <task id="LOCAL-00081" summary="insert blank line in row 3, remove extra space in ascii logo from lines 7 to 10, move &quot;attempt_left&quot; variable to line 15, modify &quot;if&quot; statement  and implementation in guessing_level method, reduce &quot;finding_number&quot; method parameters to one, erase &quot;win&quot; and &quot;attempt&quot; variables from &quot;finding_number&quot; method, reformat second if-statement in &quot;finding_number&quot; method, change return value from &quot;finding_number&quot; method,move &quot;clear&quot; and &quot;logo&quot; methods to lines 37 and 38, correct misspellings in lines 39, 42, 45 and 49; relocate &quot;number_to_guess&quot; and &quot;lives_left&quot; to line 39, rearrange code inside &quot;while&quot; loop">
+      <option name="closed" value="true" />
+      <created>1786288584237</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1786288584237</updated>
+    </task>
+    <task id="LOCAL-00082" summary="correct misspelling in line 1, insert blank spaces inside comment line in line 5">
+      <option name="closed" value="true" />
+      <created>1786288800156</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1786288800157</updated>
+    </task>
+    <task id="LOCAL-00083" summary="correct misspelling in lines 1, 5 insert blank spaces inside comment line in lines 2, 4 and 8">
+      <option name="closed" value="true" />
+      <created>1786288896632</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1786288896632</updated>
+    </task>
+    <task id="LOCAL-00084" summary="correct misspelling in line 1, insert blank spaces inside lines in lines 5, 9, 12 and 16">
+      <option name="closed" value="true" />
+      <created>1786288976911</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1786288976911</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Add an extra condition to if-statement inside second &quot;for&quot; loop, add a new line in row 28, change &quot;while&quot; loop statement in row 82, rearrange string prompt in row 113">
+      <option name="closed" value="true" />
+      <created>1786408740816</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1786408740817</updated>
+    </task>
+    <task id="LOCAL-00086" summary="add a new line in row 2, separate &quot;hotkey&quot; function parameters in row 6">
+      <option name="closed" value="true" />
+      <created>1786410603418</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1786410603418</updated>
+    </task>
+    <task id="LOCAL-00087" summary="add a new line in row 2, correct misspellings in row 10, 15, 23, 34, 74, 310 and 314">
+      <option name="closed" value="true" />
+      <created>1786411560816</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1786411560817</updated>
+    </task>
+    <task id="LOCAL-00088" summary="add a new line in row 2, correct misspellings in row 10, 15, 23, 34, 74, 310 and 314">
+      <option name="closed" value="true" />
+      <created>1786411580483</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1786411580483</updated>
+    </task>
+    <task id="LOCAL-00089" summary="add a new line in row 2, remove extra space in lines 25 and 26">
+      <option name="closed" value="true" />
+      <created>1786411762131</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1786411762132</updated>
+    </task>
+    <task id="LOCAL-00090" summary="erase prompt code from line 34">
+      <option name="closed" value="true" />
+      <created>1786411854130</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1786411854131</updated>
+    </task>
+    <task id="LOCAL-00091" summary="sort characters in line 37">
+      <option name="closed" value="true" />
+      <created>1786412056992</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1786412056992</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create new file &quot;clear_module_readme.txt&quot;" />
+    <MESSAGE value="add new blanks lines in rows 2 and 3, separate parameters in &quot;hotkey&quot; function" />
+    <MESSAGE value="Add two new blank lines in rows 2, 3 and 19, remove extra space in row 5, reduce auction function parameters to one, change variable name in rows 37 and 38, move &quot;auction_list&quot; variable from auction function to inside &quot;while&quot; loop, take &quot;auction&quot; out of &quot;while&quot; loop," />
+    <MESSAGE value="Correct misspelling in row 2, erase &quot;w_name&quot; initialization in row 3, add an extra line in row 7, separate assignment symbol from each side in rows 9 and 10" />
+    <MESSAGE value="Remove &quot;leap&quot; integer variable from code in row 3. Separate assignment symbol from rows 4 to 7. Remove prompt text in rows 8, 11, 13, and 16. Erase &quot;leap&quot; variable from rows 9, 14, and 17. Add &quot;leap_year&quot; variable in row 23. Rewrite &quot;if&quot; statement in line 24. Erase &quot;days_month&quot; and &quot;g_year&quot; from rows 24 and 25. Rename &quot;days_month&quot; variable to &quot;days_of_month&quot;. Restructure &quot;if&quot; statement of leap year implementation. Assign a new return string value in row 32. Add some spaces in comment code in rows 37 and 38" />
+    <MESSAGE value="separate function definitions from &quot;import&quot; statement" />
+    <MESSAGE value="separate function definitions from &quot;import&quot; statement. Add ASCII main image to the program. Add extra line to separate functions in rows 27, 30, 34, 44, 45. Rename &quot;opretations&quot; variable name to &quot;operations&quot;. Separate assignment symbol from &quot;operations&quot; and dict value. Align dict values in &quot;operations&quot; from lines 41 to 43. Separate &quot;done_again&quot; value from assignment symbol. Correct misspelling in row 55. Remove extra parentheses in row 56. Split &quot;input&quot; prompt message and separate assignment sign from values in rows 60 and 65. Separate equality sign in row 63. Add a new line in row 69" />
+    <MESSAGE value="erase redundant winner.py file from project" />
+    <MESSAGE value="erase redundant draw.py file from project" />
+    <MESSAGE value="erase redundant endgame.py file from project" />
+    <MESSAGE value="Add blank lines in rows 2 and 3, separate arguments in &quot;hotkey&quot; method in row 6" />
+    <MESSAGE value="remove unnecessary imports from project, reformat code from row 3 to 95, erase &quot;play_new_game&quot; method from line 7, Add if-statement test code in line 102, extract program header lines and main &quot;while&quot; loop from main function, reformat game main loop" />
+    <MESSAGE value="Separate hash symbol from text and correct some misspelling in rows 1 and 3, add a new line in rows 5 and 24, insert blank space in rows 4, 17 and 22, rename &quot;bonification&quot; misspelling method to &quot;supplement&quot;" />
+    <MESSAGE value="add a new blank line in row 2, insert blank space among &quot;hotkey&quot; method parameters" />
+    <MESSAGE value="insert blank line in row 3, remove extra space in ascii logo from lines 7 to 10, move &quot;attempt_left&quot; variable to line 15, modify &quot;if&quot; statement  and implementation in guessing_level method, reduce &quot;finding_number&quot; method parameters to one, erase &quot;win&quot; and &quot;attempt&quot; variables from &quot;finding_number&quot; method, reformat second if-statement in &quot;finding_number&quot; method, change return value from &quot;finding_number&quot; method,move &quot;clear&quot; and &quot;logo&quot; methods to lines 37 and 38, correct misspellings in lines 39, 42, 45 and 49; relocate &quot;number_to_guess&quot; and &quot;lives_left&quot; to line 39, rearrange code inside &quot;while&quot; loop" />
+    <MESSAGE value="correct misspelling in line 1, insert blank spaces inside comment line in line 5" />
+    <MESSAGE value="correct misspelling in lines 1, 5 insert blank spaces inside comment line in lines 2, 4 and 8" />
+    <MESSAGE value="correct misspelling in line 1, insert blank spaces inside lines in lines 5, 9, 12 and 16" />
+    <MESSAGE value="Add an extra condition to if-statement inside second &quot;for&quot; loop, add a new line in row 28, change &quot;while&quot; loop statement in row 82, rearrange string prompt in row 113" />
+    <MESSAGE value="add a new line in row 2, separate &quot;hotkey&quot; function parameters in row 6" />
+    <MESSAGE value="add a new line in row 2, correct misspellings in row 10, 15, 23, 34, 74, 310 and 314" />
+    <MESSAGE value="add a new line in row 2, remove extra space in lines 25 and 26" />
+    <MESSAGE value="erase prompt code from line 34" />
+    <MESSAGE value="sort characters in line 37" />
+    <MESSAGE value="add configuration files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add configuration files" />
+  </component>
+</project>
