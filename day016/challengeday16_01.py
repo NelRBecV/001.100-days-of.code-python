@@ -1,5 +1,7 @@
 from turtle import Turtle, Screen
 
+
+# Simple demonstration what 'turtle' package can do
 timmy = Turtle()
 print(timmy)
 
