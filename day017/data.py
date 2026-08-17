@@ -1,3 +1,5 @@
+import random
+
 question_data = [{"type": "boolean", "difficulty": "easy", "category": "General Knowledge",
   "question": "A pasodoble is a type of Italian pasta sauce.",
   "correct_answer": "False", "incorrect_answers": ["True"]},
@@ -59,3 +61,5 @@ question_data = [{"type": "boolean", "difficulty": "easy", "category": "General 
   "question": "Nutella is produced by the German company Ferrero.",
   "correct_answer": "False", "incorrect_answers": ["True"]}
 ]
+
+random.shuffle(question_data)
