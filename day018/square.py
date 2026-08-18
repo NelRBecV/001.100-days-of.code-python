@@ -7,7 +7,6 @@ timmy_the_turtle = Turtle()
 timmy_the_turtle.screen.bgcolor('white')
 timmy_the_turtle.shape('turtle')
 
-
 # As she did
 # for _ in range(10):
     # timmy_the_turtle.left(45)
