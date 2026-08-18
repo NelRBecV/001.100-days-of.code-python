@@ -7,9 +7,7 @@ def move_forward():
 
 timmy = Turtle()
 scr = Screen()
-
 scr.listen()
 scr.onkey(move_forward, 'space')
-
 
 scr.exitonclick()
