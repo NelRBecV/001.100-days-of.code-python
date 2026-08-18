@@ -1,10 +1,10 @@
-'''
+"""
 Press 'W' to move forward
 Press 'S' to move backward
 Press 'A' to move left
 Press 'D' to move right
 Press 'C' to erase what you drew 
-'''
+"""
 
 from turtle import Turtle, Screen
 
@@ -43,6 +43,5 @@ board.onkey(move_backward, 's')
 board.onkey(move_left, 'a')
 board.onkey(move_right, 'd')
 board.onkey(clear_scn, 'c')
-
 
 board.exitonclick()
