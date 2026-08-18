@@ -68,7 +68,7 @@ if user_guess:
     contender = {leo: "blue", ralph: 'red', timmy: 'gray', mike: 'orange', don: 'purple'}
     finish = None
 
-    #delimit the finish line by placing it 6% less over general window width
+    # delimit the finish line by placing it 6% less over general window width
     goal = round((track.window_width() / 2) - (track.window_width() * 0.06))
 
     while not finish:
