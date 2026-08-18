@@ -11,17 +11,16 @@ def random_color():
     r_color = (red, green, blue)
     return r_color
 
+
 def random_walk():
     if random.randint(1, 2) == 1:
         timmy_the_turtle.left(90)
     else:
-        timmy_the_turtle.right(90
-        
+        timmy_the_turtle.right(90)
 
 
 # tim = t
-#
-laps = 0
+laps: int = 0
 timmy_the_turtle = Turtle()
 timmy_the_turtle.screen.bgcolor('white')
 timmy_the_turtle.shape('turtle')
@@ -33,8 +32,7 @@ while laps < 500:
     random_walk()
     timmy_the_turtle.forward(25)
 
-
-#As she did it
+# As she did it
 # colors = ["CornflowerBlue", "DarkOrchid", "IndianRed", "DeepSkyBlue", "LightSeaGreen", "wheat", "SlateGray", "SeaGreen"]
 # directions = [0, 90, 180, 270]
 # timmy_the_turtle = Turtle()
