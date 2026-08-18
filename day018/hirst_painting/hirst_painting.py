@@ -1,6 +1,6 @@
 import random
 from turtle import Turtle, Screen
-# from turtle import Turtle as turtle_Module
+# from turtle import Turtle as turtle_module
 # from turtle import Screen
 import colorgram
 
@@ -27,16 +27,16 @@ for pos in range(-270, 280, 40):
         timmy.forward(30)
         
 # As she did
-# tim = turtle_Module()
+# tim = turtle_module()
 # tim.screen.colormode(255)
 # tim.speed('fastest')
 # tim.penup()
 # tim.hideturtle()
-# tim.setheading(125)
-# tim.forward(200)
+# tim.setheading(225)
+# tim.forward(300)
 # tim.setheading(0)
 # number_of_dots = 100
-# for dot_counts in range(10):
+# for dot_counts in range(1, number_of_dots):
 #     tim.dot(20, random.choice(palette))
 #     tim.forward(50)
 #     if dot_counts % 10 == 0:
