@@ -13,32 +13,27 @@ my_points = 0
 points = Scoreboard()
 my_snake = Snake()
 start = True
-f_snake = Food()
+s_food = Food()
 scn.listen()
-my_snake.body[0].write = ("Score: ", False, "center", "Times New Roman")
+points.score_game(my_points)
 
 while start:
-    scn.update()  #refresh display screen
-    time.sleep(0.1)  #delay function "moving by 1 milisecond"
-    my_snake.moving()
-    
-    #detect collision with f (food)
-    pos = my_snake.body[0].pos()
-    
+    scn.update()  # refresh display screen
+    time.sleep(0.1)  # delay function "moving by 1 millisecond"
+    my_snake.move_forward()
+    height = scn.window_height() // 2
+    width = scn.window_width() // 2
     # detect collision with the wall or tail
-    if points.crash_wall(pos): #or points.crash_tail(my_snake):
+    if my_snake.crash_tail() or my_snake.crash_wall(width, height):
+        points.game_over()
         start = False
-    
-    # detect collision with the tail
-    if points.crash_tail(my_snake.body):
-        start = False
-        
-    if f_snake.distance(my_snake.body[0].pos()) < 20:
-        f_snake.refresh()
-        my_snake.segments()
+
+    # detect collision with s_food (snake food)
+    if s_food.is_eaten(my_snake.get_location()):
+        s_food.refresh()
+        my_snake.add_segment()
         my_points += 1
         points.score_game(my_points)
-
 
     scn.onkey(my_snake.move_up, "w")
     scn.onkey(my_snake.move_down, "s")
