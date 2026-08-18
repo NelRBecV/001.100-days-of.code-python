@@ -24,8 +24,7 @@ while (laps + 6) > 0:
     timmy_the_turtle.pencolor(random_color())
     laps -= 1
 
-
-#As she did
+# As she did
 # def random_color():
 #     r = round(random.random(), 2)
 #     g = round(random.random(), 2)
