@@ -23,7 +23,8 @@ for i in range(2, 10):  # Draw a lot of shapes
         timmy_the_turtle.right(ang)
 
 # As she did it
-# colors = ["CornflowerBlue", "DarkOrchid", "IndianRed", "DeepSkyBlue", "LightSeaGreen", "wheat", "SlateGray", "SeaGreen"]
+# colors = ["CornflowerBlue", "DarkOrchid", "IndianRed", "DeepSkyBlue", "LightSeaGreen",
+#           "wheat", "SlateGray", "SeaGreen"]
 # def draw_shapes(num_sides):
 #     angle = 360 / num_sides
 #     for _ in range(num_sides):
