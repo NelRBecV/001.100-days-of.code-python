@@ -36,7 +36,7 @@ class Level:
         self.player_score += 1
 
     def is_endgame(self, player: Turtle):
-        """Checks if the turtle was hit bya any car."""
+        """Checks if the turtle was hit by any car."""
         for car in self.enemies_level:
             if car.hit_turtle(player):
                 self.g_over.write("GAME OVER!", False, "center",
