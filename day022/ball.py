@@ -12,20 +12,16 @@ class Ball(Turtle):
         self.penup()
 
     def move(self, x_move, y_move):
-
         if self.ycor() >= 290:
             self.move_y = -1
-
         if self.ycor() <= -280:
             self.move_y = 1
 
         x = self.xcor() + x_move
         y = self.ycor() + (self.move_y * y_move)
-
         self.goto(x, y)
 
     def reset_position(self):
         self.hideturtle()
-        self.goto(x, y)
+        self.goto(0, 0)
         self.showturtle()
-      
