@@ -1,5 +1,6 @@
 import random
-from match import Field
+from field import Field
+from match import Match
 from turtle import Screen
 from paddle import Paddle
 from ball import Ball
@@ -10,16 +11,20 @@ field.colormode(255)
 field.bgcolor('black')
 field.setup(width=1000, height=600)
 field.tracer()
-field_elements = Field()
-field_elements.net()
+field_elements = Match()
+net = Field()
 field_elements.scores()
 field.listen()
-winner = False
+winner = 0
 paddle1 = Paddle(-480, 0)
 paddle2 = Paddle(475, 0)
 play_ball = Ball()
 speed_x = 1
 speed_y = 1
+field.onkeypress(paddle1.move_up, "w")
+field.onkeypress(paddle2.move_up, "Up")
+field.onkeypress(paddle1.move_down, "s")
+field.onkeypress(paddle2.move_down, "Down")
 while not winner:
     play_ball.reset_position()
     field.update()
@@ -33,13 +38,10 @@ while not winner:
             speed_y = random.randint(1, 10)
 
         play_ball.move(speed_x, speed_y)
-
-        field.onkeypress(paddle1.move_up, "w")
-        field.onkeypress(paddle2.move_up, "Up")
-        field.onkeypress(paddle1.move_down, "s")
-        field.onkeypress(paddle2.move_down, "Down")
-
     field_elements.keeping_scores(play_ball.xcor())
+    speed_y //= abs(speed_y)
+    speed_x //= abs(speed_x)
     winner = field_elements.check_winner()
 
+field_elements.show_winner()
 field.exitonclick()
