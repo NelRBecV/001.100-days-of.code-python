@@ -16,7 +16,6 @@ class Paddle(Turtle):
             self.goto(x, y)
             self.showturtle()
 
-
     def move_up(self):
         if self.ycor() < 260:
             self.forward(10)
@@ -26,10 +25,6 @@ class Paddle(Turtle):
             self.backward(10)
 
     def impact_ball(self, ball):
-        if self.distance(ball.xcor(), ball.ycor() - 20) < 20:
+        if self.distance(ball.xcor(), ball.ycor() - 20) < 20 or self.distance(ball.xcor(), ball.ycor() + 20) < 20:
             return True
-
-        if self.distance(ball.xcor(), ball.ycor() + 20) < 20:
-            return True
-
         return False
