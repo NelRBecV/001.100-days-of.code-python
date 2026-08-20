@@ -23,6 +23,7 @@ class Car(Turtle):
         self.showturtle()
 
     def move_forward(self, car_speed: int):
+        """Sets car position to go forward."""
         if self.xcor() < -300:
             self.setx(280)
         else:
@@ -30,7 +31,7 @@ class Car(Turtle):
             self.speed('fastest')
 
     def hit_turtle(self, player: Turtle):
+        """Checks if this car hit the turtle."""
         if abs(self.xcor() - player.xcor()) <= 25 and abs(self.ycor() - player.ycor()) <= 20:
             return True
-
         return False
