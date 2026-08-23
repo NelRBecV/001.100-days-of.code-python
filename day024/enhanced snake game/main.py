@@ -9,14 +9,13 @@ scn: Screen = Screen()
 scn.setup(width=600, height=600)
 scn.bgcolor('black')
 scn.title("My own Snake Game")
-my_points: int = 0
 points: Scoreboard = Scoreboard()
+points.reset_scoreboard()
 my_snake: Snake = Snake()
-start: bool = True
 food_snake: Food = Food()
-
+start: bool = True
+my_points: int = 0
 scn.listen()
-points.reset_game()
 scn.onkey(my_snake.move_up, "w")
 scn.onkey(my_snake.move_down, "s")
 scn.onkey(my_snake.move_left, "a")
@@ -29,14 +28,15 @@ while start:
 
     # detect collision with food
     if food_snake.is_eaten(my_snake):
-        points.clear_scores()
-        food_snake.refresh()
-        my_snake.segments()
         points.increasing_points()
+        points.show_score_game()
+        points.show_highscore()
+        food_snake.refresh()
+        my_snake.add_segment()
 
     # detect collision with the wall or its own tail
-    if points.crash(my_snake):
-        points.reset_game()
-        my_snake.new_game()    
-  
+    if my_snake.is_crashed():
+        points.reset_scoreboard()
+        my_snake.reset_snake_body(scn)
+
 scn.exitonclick()
