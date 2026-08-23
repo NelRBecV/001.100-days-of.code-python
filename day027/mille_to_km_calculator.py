@@ -32,7 +32,7 @@ l_equal = Label()
 l_equal.config(text="is equal to", font=FONT)
 l_equal.grid(column=0, row=1)
 
-l_quantity= Label()
+l_quantity = Label()
 l_quantity.config(text="0", font=FONT)
 l_quantity.grid(column=1, row=1)
 
