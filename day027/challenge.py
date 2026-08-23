@@ -5,7 +5,7 @@ my_win.title("Grid Challenge")
 my_win.minsize(width=300, height=300)
 my_win.maxsize(width=800, height=800)
 my_win.config(padx=20, pady=50)
-#padx and pady configures padding box in the window
+# padx and pady configures padding box in the window
 
 
 my_label = Label()
