@@ -25,7 +25,7 @@ mon_temp_2 = str(data.temp[data.day == "Monday"]).split()  # method 2
 
 print(mon_temp)
 print(mon_temp_2)
-mon_temp_fahr = int(mon_temp[1]) * (9/5) + 32
+mon_temp_fahr = int(mon_temp_2[1]) * (9/5) + 32
 print(f"Monday's temperature in Fahrenheit: {mon_temp_fahr}F")
 
 data_dict = {"students": ["Amy", "James", "Angela"],
