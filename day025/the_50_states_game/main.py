@@ -8,9 +8,8 @@ us_map.title("US States Game")
 us_img = "blank_states_img.gif"
 us_map.addshape(us_img)
 us_map.setup(730,500)
-map=turtle.Turtle()
+map = turtle.Turtle()
 map.shape(us_img)
-
 play = True
 
 states = pandas.read_csv("50_states.csv")
@@ -35,9 +34,3 @@ while states_count != 50:
         ms = pandas.DataFrame({"missing states": remaining_states})
         ms.to_csv("missing_states.cvs")
         break
-
-
-
-
-
-
