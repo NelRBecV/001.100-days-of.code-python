@@ -3,8 +3,9 @@ class Dish:
         self.cook_time = kw.get("cook_time")
         self.ingredients = kw.get("ingredients")
       
-        #if argument doesn't come along with "get" function, the code will raise an error
-        #in case a ration argument hasn't been given
+        # if argument doesn't come along with "get" function, the code will raise an error
+        # in case a "ration" argument hasn't been given
+        # self.rations = kw["ration"]
         self.rations = kw["rations"]
 
     def recipe(self):
@@ -12,5 +13,7 @@ class Dish:
         print(self.ingredients)
         print(self.rations)
 
-food = Dish(rations=2, cook_time=35, ingredients="Flour")
-food.recipe()
+
+if __name__ == '__main__':
+    food = Dish(rations=2, cook_time=35, ingredients="Flour")
+    food.recipe()
