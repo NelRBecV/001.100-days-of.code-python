@@ -7,6 +7,7 @@ def button_clicked():
     message.config(text="You got clicked me", anchor="ne")
     message.pack()
 
+
 def show_text():
     text: str = my_text.get()
     if not text:
@@ -19,12 +20,12 @@ def change_label():
     my_label["text"] = "I changed"
     
     
-#Create a window
+# Create a window
 my_window = tkinter.Tk()
 my_window.minsize(200,200)
 my_window.maxsize(700,700)
 
-#Create window elements
+# Create window elements
 my_label = tkinter.Label(text="My first Label", justify="center", font=("Arial", 20, "bold") )
 my_label.pack()
 
