@@ -3,19 +3,22 @@ import pandas
 import smtplib
 import datetime
 import os
-from dotenv import load_dotenv()
+from dotenv import load_dotenv
 from random import randint
 
 load_dotenv()
 
-# 3. If step 2 is true, pick a random letter from letter templates and replace the [NAME] with the person's actual name from birthdays.csv - DONE
+
+# 3. If step 2 is true, pick a random letter from letter templates and replace the [NAME] with the person's actual name
+# from birthdays.csv - DONE
 def create_letter(guest: str) -> str:
     letter_body: list = []    
-    for letter in range(1,4):
-        with open(f"letter_templates\letter_{letter}.txt", "r") as inv_letter:
+    for letter_template in range(1, 4):
+        with open(f"letter_templates/letter_{letter_template}.txt", "r") as inv_letter:
             letter_body.append(inv_letter.read())
     invitation: str = str(letter_body[randint(0,2)]).replace("[NAME]", guest)
     return invitation
+
 
 # 1. Update the birthdays.csv - DONE
 data = pandas.read_csv("data/birthdays.csv").to_dict(orient="records")
