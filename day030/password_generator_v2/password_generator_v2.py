@@ -106,7 +106,7 @@ main_window.title("Password Manager")
 main_window.config(background=BACKGROUND_COLOR, width=200, height=200, padx=40, pady=40)
 
 bg_pict = Canvas(background=BACKGROUND_COLOR, width=200, height=180, highlightthickness=0)
-bg_img = PhotoImage(file="logo.png")
+bg_img = PhotoImage(file="images/logo.png")
 bg_pict.create_image(60, 80, image=bg_img)
 bg_pict.grid(column=1, row=1, columnspan=2)
 
