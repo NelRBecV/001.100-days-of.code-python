@@ -7,19 +7,18 @@ ENTRY_FONT: tuple = ("Arial", 10, "normal")
 BACKGROUND_COLOR: str = "#fefff8"
 BORDER: int = 2
 
-# -------------------------------- PASWORD GENERATOR ----------------------------------------#
-ALPHABETH: list = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T',
-                   'U', 'V', 'W', 'X', 'Y', 'Z',
-                   'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't',
-                   'u', 'v', 'w', 'x', 'y', 'z']
+# -------------------------------- PASSWORD GENERATOR ----------------------------------------#
+ALPHABET: list = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T',
+                  'U', 'V', 'W', 'X', 'Y', 'Z',
+                  'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't',
+                  'u', 'v', 'w', 'x', 'y', 'z']
 NUMBERS: list = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 SYMBOLS: list = ["°", "!", '"', "#", "$", "%", "&", "/", "(", ")", "=", "?", "¡", "¨", "+", "}", "{", "-", ".", ","]
-CHARACTERS: list = ALPHABETH + NUMBERS + SYMBOLS
+CHARACTERS: list = ALPHABET + NUMBERS + SYMBOLS
 
 
 def generate_password():
-    """creates a random password"""
-
+    """creates a random password."""
     pwrd: str = ""
     e_password.delete(0, END)
     for i in range(20):
@@ -29,8 +28,7 @@ def generate_password():
 
 # ---------------------------------- SAVE PASSWORD ------------------------------------------#
 def verify_input():
-    """checks if all fields are filled by user"""
-
+    """checks if all fields are filled by user."""
     user_web: str = e_website.get()
     user_email: str = e_email.get()
     user_pass: str = e_password.get()
@@ -45,19 +43,17 @@ def verify_input():
         new_entry()
 
 
-def save_data(user, email, psswd):
-    """storages user inorfmation into a database"""
+def save_data(user, email, password):
+    """storages user information into a database."""
 
-    savedata: dict = {f"{user}": {"e-mail": f"{email}", "password": f"{psswd}"}}
-    my_record: str = ""
-    userdata: str = ""
+    data_saved: dict = {f"{user}": {"e-mail": f"{email}", "password": f"{password}"}}
     try:
         with open("data.json", "r") as my_data:
             my_records = json.load(my_data)
-            my_records.update(savedata)
+            my_records.update(data_saved)
             write_data(my_records)
     except FileNotFoundError:
-        write_data(savedata)
+        write_data(data_saved)
     finally:
         messagebox.showinfo("Save", "Data saved successfully")
 
@@ -80,14 +76,10 @@ def new_entry():
 
 def search_data():
     """
-       looks for a user into the main database.
-
-       The program retrieve info related to him/her if the record does exist,
-       otherwise it will raise an exception.
+       Looks for a user into the main database.
     """
 
     record: str = e_website.get()
-    found: dict = {}
     try:
         with open("data.json") as file_search:
             search = json.load(file_search)
@@ -106,6 +98,7 @@ def search_data():
     finally:
         e_email.delete(0, END)
         e_password.delete(0, END)
+
 
 # ------------------------------------- UI SETUP --------------------------------------------#
 main_window = Tk()
@@ -136,10 +129,10 @@ l_password = Label(text="Password: ", background=BACKGROUND_COLOR)
 l_password.grid(column=0, row=4, padx=5, pady=2)
 
 e_password = Entry(width=20, justify="left", font=ENTRY_FONT, border=BORDER)
-e_password.grid(column=1, row=4, padx=0, pady=5)  # place(x=118, y=240, height=25)
+e_password.grid(column=1, row=4, padx=0, pady=5)
 
 b_gen_pass = Button(text="Generate Password", justify="right", width=16, command=generate_password)
-b_gen_pass.grid(column=2, row=4, pady=5, sticky="w")  # place(x=280, y=238, height=25)#
+b_gen_pass.grid(column=2, row=4, pady=5, sticky="w")
 
 b_add = Button(text="add", width=38, command=verify_input)
 b_add.grid(column=1, row=5, padx=3, pady=8, columnspan=2)
