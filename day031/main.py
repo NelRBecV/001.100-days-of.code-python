@@ -17,7 +17,7 @@ def arrange_cards_info(data):
 
 
 def generate_words_list():
-    test_words = pandas.read_csv("data/few_french_words.csv")
+    test_words = pandas.read_csv("data/french_words.csv")
     words: list = []
 
     try:
