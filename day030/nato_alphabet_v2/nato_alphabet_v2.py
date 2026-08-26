@@ -1,7 +1,7 @@
 import pandas
 
 
-nato_res = pandas.read_csv("nato_alphabet.csv")
+nato_res = pandas.read_csv("data/nato_alphabet.csv")
 # nato_alphabet = {row.letter: row.code for (index, row) in nato_res.iterrows()}
 # iterrows, as its name says, iterate over DataFrame rows as (index, Series) pairs.
 
