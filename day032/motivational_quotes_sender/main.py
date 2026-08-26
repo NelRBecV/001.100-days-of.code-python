@@ -4,14 +4,14 @@ import dotenv
 import os
 from random import randint
 
-load_dotenv()
+dotenv.load_dotenv()
 
 with open("data/quotes.txt", "r") as phrases:
     quotes = phrases.readlines()
 
 quote_day = quotes[randint(0, len(quotes)-1)]
-todays_date = datetime.datetime.now()
-if todays_date.weekday() == 6:
+today_date = datetime.datetime.now()
+if today_date.weekday() == 6:
     with smtplib.SMTP("smtp.gmail.com", 587) as gmail_server:
         user = os.getenv("USER_MAIL")
         password = os.getenv("PSWD_MAIL")
