@@ -15,6 +15,7 @@ EMAIL_SERVERS = ['Gmail', 'Yahoo']
 
 
 def clear_screen():
+    """Resets all form entries to blank."""
     e_subjet.delete(END)
     e_destination.delete(END)
     t_message.delete(END)
@@ -22,6 +23,7 @@ def clear_screen():
 
 
 def reformat_email_body(user) -> dict:
+    """Reshapes text message to fit into email format."""
     subject: str = e_subjet.get()
     message: str = t_message.get("1.0",
                                  "end-1c")  # watch the stackoverflow screenshot in "Fireshot" folder for explanation
@@ -30,6 +32,7 @@ def reformat_email_body(user) -> dict:
 
 
 def configure_smtp_server() -> dict:
+    """Gets all necessary parameters to be able to send the recently created mail."""
     serv_choice = sp_email_servers.get().upper()
     if serv_choice:
         user = os.getenv(f"USER_{serv_choice}")
@@ -40,6 +43,7 @@ def configure_smtp_server() -> dict:
     
 
 def send_email():
+    """Sends the email by using the selected configuration."""
     server = configure_smtp_server()
     email_body = reformat_email_body(server['user'])
     if not server:
