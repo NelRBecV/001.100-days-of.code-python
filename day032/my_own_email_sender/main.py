@@ -16,10 +16,10 @@ EMAIL_SERVERS = ['Gmail', 'Yahoo']
 
 def clear_screen():
     """Resets all form entries to blank."""
-    e_subjet.delete(END)
-    e_destination.delete(END)
-    t_message.delete(END)
-    e_subjet.focus_set()
+    e_subjet.delete(0, END)
+    e_destination.delete(0, END)
+    t_message.delete("1.0", "end-1c")
+    e_destination.focus_set()
 
 
 def reformat_email_body(user) -> dict:
@@ -54,11 +54,11 @@ def send_email():
             serv_connection.ehlo("localhost")
             serv_connection.starttls()
             serv_connection.login(user=server['user'], password=server['password'])
-            sender = serv_connection.sendmail(from_addr=server['user'], to_addrs=email_body['destination'],
-                                              msg=email_body['message'])
-            if not sender:
-                messagebox.showinfo("Message sent", "Message was successfully sent.")
-                clear_screen()
+            serv_connection.sendmail(from_addr=server['user'], to_addrs=email_body['destination'],
+                                     msg=email_body['message'])
+            clear_screen()
+            messagebox.showinfo("Message sent", "Message was successfully sent.")
+
     except smtplib.SMTPException as e:
         messagebox.showwarning("Error", f"The program was unable to send email.\n{e}")
 
