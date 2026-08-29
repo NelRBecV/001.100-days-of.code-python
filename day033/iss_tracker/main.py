@@ -60,7 +60,7 @@ def iss_locator():
                     email_conn.sendmail(from_addr=user, to_addrs=dest, msg=message)
             else:
                 print("It's daylight. You won't be able to see anything.")
-        time.sleep(60)
+        time.sleep(10)
 
 
 if __name__ == "__main__":
