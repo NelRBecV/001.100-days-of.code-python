@@ -27,4 +27,6 @@ jobs:
           PSWD_MAIL: ${{ secrets.PSWD_MAIL }}
           SERV_MAIL: ${{ secrets.SERV_MAIL }}
           PORT_MAIL: ${{ secrets.PORT_MAIL }}
+          HOME_LAT: ${{ secrets.HOME_LAT }}
+          HOME_LONG: ${{ secrets.HOME_LONG }}
         run: python day033/iss_tracker/main.py
