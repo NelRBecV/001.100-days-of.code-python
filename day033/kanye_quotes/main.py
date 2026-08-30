@@ -26,8 +26,8 @@ win = Tk()
 win.title("Kanye's Quotes")
 win.config(height=600, width=500)
 
-b_ground = PhotoImage(file="background.png")
-kanye_photo = PhotoImage(file="kanye.png")
+b_ground = PhotoImage(file="images/background.png")
+kanye_photo = PhotoImage(file="images/kanye.png")
 image = Canvas(height=570, width=400)
 quote_bg = image.create_image(200, 225, image=b_ground)
 quote_text = image.create_text(200, 210, text="Kanye's quotes go here", fill="white", font=("Arial", 22, "bold"),
