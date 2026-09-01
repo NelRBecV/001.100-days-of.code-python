@@ -1,4 +1,3 @@
-import time
 import requests
 from datetime import datetime
 import smtplib
@@ -36,6 +35,7 @@ def get_local_daylight(parameters: dict) -> tuple:
 
 def iss_locator():
     """Delivers an email when ISS is overhead the given position."""
+    # Main loop for this script works is configured by a YAML file inside GitHub to run every 10 minutes
     iss_latitude, iss_longitude = get_iss_location()
     # Your position is within +5 and -5 degrees of the ISS position
     if (MY_LAT + 5) > iss_latitude > (MY_LAT - 5) and (MY_LONG - 5) < iss_longitude < (MY_LONG + 5):
@@ -59,7 +59,6 @@ def iss_locator():
                 email_conn.sendmail(from_addr=user, to_addrs=dest, msg=message)
         else:
             print("It's daylight. You won't be able to see anything.")
-    time.sleep(10)
 
 
 if __name__ == "__main__":
