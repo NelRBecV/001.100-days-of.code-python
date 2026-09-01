@@ -29,38 +29,37 @@ def get_local_daylight(parameters: dict) -> tuple:
     response = requests.get("https://api.sunrise-sunset.org/json", params=parameters)
     response.raise_for_status()
     data = response.json()
-    sunrise = int(data["results"]["sunrise"].split("T")[1].split(":")[0])
-    sunset = int(data["results"]["sunset"].split("T")[1].split(":")[0])
+    sunrise = int(data["results"]["sunrise"].split("T")[1].split(":")[0]) - 3
+    sunset = int(data["results"]["sunset"].split("T")[1].split(":")[0]) - 3
     return sunrise, sunset
 
 
 def iss_locator():
     """Delivers an email when ISS is overhead the given position."""
-    while True:
-        iss_latitude, iss_longitude = get_iss_location()
-        # Your position is within +5 and -5 degrees of the ISS position
-        if (MY_LAT + 5) > iss_latitude > (MY_LAT - 5) and (MY_LONG - 5) < iss_longitude < (MY_LONG + 5):
-            parameters = {
-                "lat": MY_LAT,
-                "lng": MY_LONG,
-                "formatted": 0,
-            }
-            sunrise, sunset = get_local_daylight(parameters)
-            my_hour = datetime.now().hour
-            if sunrise > my_hour > sunset:
-                user = os.getenv("USER_MAIL")
-                pw = os.getenv("PSWD_MAIL")
-                serv = os.getenv("SERV_MAIL")
-                port = int(os.getenv("PORT_MAIL"))
-                dest = "raulbvillamizar@gmail.com"
-                message = f"Subject: Hey, look up!!!\n\n The ISS is right now over your head."
-                with smtplib.SMTP(serv, port) as email_conn:
-                    email_conn.starttls()
-                    email_conn.login(user, pw)
-                    email_conn.sendmail(from_addr=user, to_addrs=dest, msg=message)
-            else:
-                print("It's daylight. You won't be able to see anything.")
-        time.sleep(10)
+    iss_latitude, iss_longitude = get_iss_location()
+    # Your position is within +5 and -5 degrees of the ISS position
+    if (MY_LAT + 5) > iss_latitude > (MY_LAT - 5) and (MY_LONG - 5) < iss_longitude < (MY_LONG + 5):
+        parameters = {
+            "lat": MY_LAT,
+            "lng": MY_LONG,
+            "formatted": 0,
+        }
+        sunrise, sunset = get_local_daylight(parameters)
+        my_hour = datetime.now().hour
+        if sunrise > my_hour or sunset < my_hour:
+            user = os.getenv("USER_MAIL")
+            pw = os.getenv("PSWD_MAIL")
+            serv = os.getenv("SERV_MAIL")
+            port = int(os.getenv("PORT_MAIL"))
+            dest = "raulbvillamizar@gmail.com"
+            message = f"Subject: Hey, look up!!!\n\n The ISS is right now over your head."
+            with smtplib.SMTP(serv, port) as email_conn:
+                email_conn.starttls()
+                email_conn.login(user, pw)
+                email_conn.sendmail(from_addr=user, to_addrs=dest, msg=message)
+        else:
+            print("It's daylight. You won't be able to see anything.")
+    time.sleep(10)
 
 
 if __name__ == "__main__":
