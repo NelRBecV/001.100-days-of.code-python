@@ -15,7 +15,7 @@ PIXELA_PARAMS = {"username":USERNAME,
 
 }
 
-#see pixela's API docs page
+# see pixela's API docs page
 endpoint_graph = f"{endpoint}/{USERNAME}/graphs"
 head = {"X-USER-TOKEN": U_TOKEN}
 my_graphs_id = "my-first-graph"
@@ -30,7 +30,7 @@ PIXELA_GRAPH_P = {
 my_graph = f"{endpoint_graph}/{my_graphs_id}"
 current_date = datetime(day=1, month=4, year=2025)
 date_activity = current_date.strftime('%Y%m%d')
-#strftime accepts any other date separator you wanna use (i.e. .strftime('%Y-%m-%'))
+# strftime accepts any other date separator you wanna use (i.e. .strftime('%Y-%m-%'))
 quantity = "5"
 activity = {
             'quantity':quantity
