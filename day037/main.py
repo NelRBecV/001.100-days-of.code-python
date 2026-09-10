@@ -8,10 +8,10 @@ load_dotenv()
 USERNAME = ""
 U_TOKEN = ""
 endpoint = "https://pixe.la/v1/users"
-PIXELA_PARAMS = {"username":USERNAME,
-                 "token":U_TOKEN,
-                 "agreeTermsOfService":"yes",
-                 "notMinor":"yes",
+PIXELA_PARAMS = {"username": USERNAME,
+                 "token": U_TOKEN,
+                 "agreeTermsOfService": "yes",
+                 "notMinor": "yes",
 
 }
 
@@ -21,10 +21,10 @@ head = {"X-USER-TOKEN": U_TOKEN}
 my_graphs_id = "my-first-graph"
 PIXELA_GRAPH_P = {
                   "id": my_graphs_id,
-                  "name":"first-graph",
-                  "unit":"meters",
-                  "type":"float",
-                  "color":"sora"}#'blue' in japanesse
+                  "name": "first-graph",
+                  "unit": "meters",
+                  "type": "float",
+                  "color": "sora"}#'blue' in japanesse
 
 
 my_graph = f"{endpoint_graph}/{my_graphs_id}"
@@ -33,7 +33,7 @@ date_activity = current_date.strftime('%Y%m%d')
 # strftime accepts any other date separator you wanna use (i.e. .strftime('%Y-%m-%'))
 quantity = "5"
 activity = {
-            'quantity':quantity
+            'quantity': quantity
             }
 
 
