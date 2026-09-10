@@ -1,0 +1,1955 @@
+,Airport/City,IATA Code,Country,Alpha-2 Code,Alpha-3 Code
+0,Jalalabad,JAA,Afghanistan,AF,AFG
+1,Kabul - Khwaja Rawash Airport,KBL,Afghanistan,AF,AFG
+2,Uruzgan,URZ,Afghanistan,AF,AFG
+3,Tirana - Rinas,TIA,Albania,AL,ALB
+4,"Algiers, Houari Boumediene Airport",ALG,Algeria,DZ,DZA
+5,Annaba,AAE,Algeria,DZ,DZA
+6,Constantine,CZL,Algeria,DZ,DZA
+7,Jijel,GJL,Algeria,DZ,DZA
+8,Oran (Ouahran),ORN,Algeria,DZ,DZA
+9,Apia - Faleolo International Airport,APW,American Samoa,AS,ASM
+10,Pago Pago,PPG,American Samoa,AS,ASM
+11,Andorra La Vella - Heliport,ALV,Andorra,AD,AND
+12,Benguela,BUG,Angola,AO,AGO
+13,Cabinda,CAB,Angola,AO,AGO
+14,Jamba,JMB,Angola,AO,AGO
+15,Luanda - 4 de Fevereiro,LAD,Angola,AO,AGO
+16,Uige,UGO,Angola,AO,AGO
+17,Anguilla,AXA,Anguilla,AI,AIA
+18,"Antigua, V.C. Bird International",ANU,Antigua and Barbuda,AG,ATG
+19,Buenos Aires,BUE,Argentina,AR,ARG
+20,"Buenos Aires, Ezeiza International Airport",EZE,Argentina,AR,ARG
+21,"Buenos Aires, Jorge Newbery",AEP,Argentina,AR,ARG
+22,Cordoba,COR,Argentina,AR,ARG
+23,"Iguazu, Cataratas",IGR,Argentina,AR,ARG
+24,Jose De San Martin,JSM,Argentina,AR,ARG
+25,Jujuy - El Cadillal Airport,JUJ,Argentina,AR,ARG
+26,Junin,JNI,Argentina,AR,ARG
+27,Mar del Plata,MDQ,Argentina,AR,ARG
+28,Mendoza,MDZ,Argentina,AR,ARG
+29,Rosario,ROS,Argentina,AR,ARG
+30,"Salta, Gen Belgrano",SLA,Argentina,AR,ARG
+31,San Carlos de Bariloche,BRC,Argentina,AR,ARG
+32,Santa Rosa,RSA,Argentina,AR,ARG
+33,Ushuaia - Islas Malvinas Airport,USH,Argentina,AR,ARG
+34,"Eriwan (Yerevan, Jerevan)",EVN,Armenia,AM,ARM
+35,"Aruba - Reina Beatrix International, Oranjestad",AUA,Aruba,AW,ABW
+36,Oranjestad - Reina Beatrix International,AUA,Aruba,AW,ABW
+37,Adelaide,ADL,Australia,AU,AUS
+38,Albany,ALH,Australia,AU,AUS
+39,Albury,ABX,Australia,AU,AUS
+40,Alice Springs,ASP,Australia,AU,AUS
+41,Ayers Rock - Connellan,AYQ,Australia,AU,AUS
+42,Ayr,AYR,Australia,AU,AUS
+43,Ballina,BNK,Australia,AU,AUS
+44,Bamaga,ABM,Australia,AU,AUS
+45,Blackwater,BLT,Australia,AU,AUS
+46,Bowen,ZBO,Australia,AU,AUS
+47,Brampton Island,BMP,Australia,AU,AUS
+48,Brisbane,BNE,Australia,AU,AUS
+49,Broken Hill,BHQ,Australia,AU,AUS
+50,Broome,BME,Australia,AU,AUS
+51,Bundaberg,BDB,Australia,AU,AUS
+52,Burnie (Wynyard),BWT,Australia,AU,AUS
+53,Cairns,CNS,Australia,AU,AUS
+54,Canberra - Canberra Airport,CBR,Australia,AU,AUS
+55,Carnarvon,CVQ,Australia,AU,AUS
+56,Casino,CSI,Australia,AU,AUS
+57,Ceduna,CED,Australia,AU,AUS
+58,Cessnock,CES,Australia,AU,AUS
+59,Charters Towers,CXT,Australia,AU,AUS
+60,Clermont,CMQ,Australia,AU,AUS
+61,Coffs Harbour,CFS,Australia,AU,AUS
+62,Collinsville,KCE,Australia,AU,AUS
+63,Coober Pedy,CPD,Australia,AU,AUS
+64,Cooktown,CTN,Australia,AU,AUS
+65,Cooma,OOM,Australia,AU,AUS
+66,Dalby,DBY,Australia,AU,AUS
+67,Darwin,DRW,Australia,AU,AUS
+68,Daydream Island,DDI,Australia,AU,AUS
+69,Derby,DRB,Australia,AU,AUS
+70,Devonport,DPO,Australia,AU,AUS
+71,Dubbo,DBO,Australia,AU,AUS
+72,Dunk Island,DKI,Australia,AU,AUS
+73,Dysart,DYA,Australia,AU,AUS
+74,Emerald,EDR,Australia,AU,AUS
+75,Emerald,EMD,Australia,AU,AUS
+76,Esperance,EPR,Australia,AU,AUS
+77,Geelong,GEX,Australia,AU,AUS
+78,Geraldton,GET,Australia,AU,AUS
+79,Gladstone,GLT,Australia,AU,AUS
+80,Gold Coast,OOL,Australia,AU,AUS
+81,Goondiwindi,GOO,Australia,AU,AUS
+82,Gove (Nhulunbuy),GOV,Australia,AU,AUS
+83,Great Keppel Island,GKL,Australia,AU,AUS
+84,Griffith,GFF,Australia,AU,AUS
+85,Groote Eylandt - Alyangula,GTE,Australia,AU,AUS
+86,Gympie,GYP,Australia,AU,AUS
+87,Hamilton,HLT,Australia,AU,AUS
+88,Hamilton Island,HTI,Australia,AU,AUS
+89,Hayman Island,HIS,Australia,AU,AUS
+90,Hervey Bay,HVB,Australia,AU,AUS
+91,Hinchinbrook Island,HNK,Australia,AU,AUS
+92,Hobart,HBA,Australia,AU,AUS
+93,Home Hill,HMH,Australia,AU,AUS
+94,Ingham,IGH,Australia,AU,AUS
+95,Innisfail,IFL,Australia,AU,AUS
+96,Jandakot,JAD,Australia,AU,AUS
+97,Julia Creek,JCK,Australia,AU,AUS
+98,Jundah,JUN,Australia,AU,AUS
+99,Kalgoorlie,KGI,Australia,AU,AUS
+100,Karratha,KTA,Australia,AU,AUS
+101,Karumba,KRB,Australia,AU,AUS
+102,Katherine,KTR,Australia,AU,AUS
+103,Kingscote,KGC,Australia,AU,AUS
+104,Kowanyama,KWM,Australia,AU,AUS
+105,Kununurra,KNX,Australia,AU,AUS
+106,Launceston,LST,Australia,AU,AUS
+107,Laverton,LVO,Australia,AU,AUS
+108,Learmouth (Exmouth),LEA,Australia,AU,AUS
+109,Leinster,LER,Australia,AU,AUS
+110,Leonora,LNO,Australia,AU,AUS
+111,Lindeman Island,LDC,Australia,AU,AUS
+112,Lismore,LSY,Australia,AU,AUS
+113,Lizard Island,LZR,Australia,AU,AUS
+114,Lockhart River,IRG,Australia,AU,AUS
+115,Longreach,LRE,Australia,AU,AUS
+116,Mackay,MKY,Australia,AU,AUS
+117,Maitland,MTL,Australia,AU,AUS
+118,Maryborough,MBH,Australia,AU,AUS
+119,Meekatharra,MKR,Australia,AU,AUS
+120,Melbourne - Melbourne Airport (Tullamarine),MEL,Australia,AU,AUS
+121,Merimbula,MIM,Australia,AU,AUS
+122,Middlemount,MMM,Australia,AU,AUS
+123,Mildura,MQL,Australia,AU,AUS
+124,Moranbah,MOV,Australia,AU,AUS
+125,Moree,MRZ,Australia,AU,AUS
+126,Moruya,MYA,Australia,AU,AUS
+127,Mount Gambier,MGB,Australia,AU,AUS
+128,Mount Magnet,MMG,Australia,AU,AUS
+129,Mt. Isa,ISA,Australia,AU,AUS
+130,Narrabri,NAA,Australia,AU,AUS
+131,Narrandera,NRA,Australia,AU,AUS
+132,Newcastle - Belmont,BEO,Australia,AU,AUS
+133,Newcastle - Williamtown,NTL,Australia,AU,AUS
+134,Newman,ZNE,Australia,AU,AUS
+135,Noosa,NSA,Australia,AU,AUS
+136,Norfolk Island,NLK,Australia,AU,AUS
+137,Olympic Dam,OLP,Australia,AU,AUS
+138,Orange,OAG,Australia,AU,AUS
+139,Orpheus Island,ORS,Australia,AU,AUS
+140,Paraburdoo,PBO,Australia,AU,AUS
+141,Perth International,PER,Australia,AU,AUS
+142,Port Augusta,PUG,Australia,AU,AUS
+143,Port Hedland,PHE,Australia,AU,AUS
+144,Port Lincoln,PLO,Australia,AU,AUS
+145,Port Macquarie,PQQ,Australia,AU,AUS
+146,Portland,PTJ,Australia,AU,AUS
+147,Prosperpine,PPP,Australia,AU,AUS
+148,Queenstown,UEE,Australia,AU,AUS
+149,Rockhampton,ROK,Australia,AU,AUS
+150,Scone,NSO,Australia,AU,AUS
+151,Shute Harbour,JHQ,Australia,AU,AUS
+152,Singleton,SIX,Australia,AU,AUS
+153,South Molle Island,SOI,Australia,AU,AUS
+154,Streaky Bay,KBY,Australia,AU,AUS
+155,Sunshine Coast,MCY,Australia,AU,AUS
+156,Sydney - Sydney Airport,SYD,Australia,AU,AUS
+157,Tamworth,TMW,Australia,AU,AUS
+158,Taree,TRO,Australia,AU,AUS
+159,Temora,TEM,Australia,AU,AUS
+160,Tennant Creek,TCA,Australia,AU,AUS
+161,Thursday Island,TIS,Australia,AU,AUS
+162,Tom Price,TPR,Australia,AU,AUS
+163,Toowoomba,TWB,Australia,AU,AUS
+164,Townsville,TSV,Australia,AU,AUS
+165,Wagga,WGA,Australia,AU,AUS
+166,Warrnambool,WMB,Australia,AU,AUS
+167,Weipa,WEI,Australia,AU,AUS
+168,Whitsunday Resort,HAP,Australia,AU,AUS
+169,Whyalla,WYA,Australia,AU,AUS
+170,Wickham,WHM,Australia,AU,AUS
+171,Wiluna,WUN,Australia,AU,AUS
+172,Wollongong,WOL,Australia,AU,AUS
+173,Woomera,UMR,Australia,AU,AUS
+174,Wyndham,WYN,Australia,AU,AUS
+175,Graz,GRZ,Austria,AT,AUT
+176,Innsbruck - Kranebitten,INN,Austria,AT,AUT
+177,Klagenfurt,KLU,Austria,AT,AUT
+178,Linz - Hoersching,LNZ,Austria,AT,AUT
+179,Salzburg - W.A. Mozart,SZG,Austria,AT,AUT
+180,Wien (Vienna) - Vienna International,VIE,Austria,AT,AUT
+181,Baku - Heydar Aliyev International Airport,BAK,Azerbaijan,AZ,AZE
+182,Nakhichevan,NAJ,Azerbaijan,AZ,AZE
+183,Chub Cay,CCZ,Bahamas (the),BS,BHS
+184,Freeport - Grand Bahama International Airport,FPO,Bahamas (the),BS,BHS
+185,Govenors Harbour,GHB,Bahamas (the),BS,BHS
+186,Grand Bahama International,FPO,Bahamas (the),BS,BHS
+187,Marsh Harbour,MHH,Bahamas (the),BS,BHS
+188,Nassau,NAS,Bahamas (the),BS,BHS
+189,North Eleuthera,ELH,Bahamas (the),BS,BHS
+190,Rock Sound,RSD,Bahamas (the),BS,BHS
+191,San Salvador,ZSA,Bahamas (the),BS,BHS
+192,Treasure Cay,TCB,Bahamas (the),BS,BHS
+193,Bahrain - Bahrain International Airport,BAH,Bahrain,BH,BHR
+194,Barisal,BZL,Bangladesh,BD,BGD
+195,Chittagong,CGP,Bangladesh,BD,BGD
+196,Dhaka - Zia International Airport,DAC,Bangladesh,BD,BGD
+197,Jessore - Jessore Airport,JSR,Bangladesh,BD,BGD
+198,Sylhet,ZYL,Bangladesh,BD,BGD
+199,Bridgetown - Grantley Adams International,BGI,Barbados,BB,BRB
+200,"Minsk, International",MSQ,Belarus,BY,BLR
+201,Antwerp,ANR,Belgium,BE,BEL
+202,Brussels - Brussels Airport,BRU,Belgium,BE,BEL
+203,Ghent (Gent),GNE,Belgium,BE,BEL
+204,Liege,LGG,Belgium,BE,BEL
+205,Belize City - Philip S.W.Goldson International,BZE,Belize,BZ,BLZ
+206,Cotonou - Cotonou Cadjehoun Airport,COO,Benin,BJ,BEN
+207,Bermuda - L.F. Wade International Airport,BDA,Bermuda,BM,BMU
+208,Paro,PBH,Bhutan,BT,BTN
+209,Cochabamba,CBB,Bolivia (Plurinational State of),BO,BOL
+210,La Paz - El Alto,LPB,Bolivia (Plurinational State of),BO,BOL
+211,Santa Cruz de la Sierra,SRZ,Bolivia (Plurinational State of),BO,BOL
+212,Santa Rosa,SRB,Bolivia (Plurinational State of),BO,BOL
+213,Mostar,OMO,Bosnia and Herzegovina,BA,BIH
+214,Sarajevo,SJJ,Bosnia and Herzegovina,BA,BIH
+215,Francistown,FRW,Botswana,BW,BWA
+216,Gaborone - Sir Seretse Khama International Airport,GBE,Botswana,BW,BWA
+217,Jwaneng,JWA,Botswana,BW,BWA
+218,Maun,MUB,Botswana,BW,BWA
+219,Selibi Phikwe,PKW,Botswana,BW,BWA
+220,Aracaju,AJU,Brazil,BR,BRA
+221,Belem - Val de Cans International Airport,BEL,Brazil,BR,BRA
+222,Belo Horizonte - Tancredo Neves International Airport,CNF,Brazil,BR,BRA
+223,Boa Vista,BVB,Brazil,BR,BRA
+224,Brasilia - President Juscelino Kubitschek International,BSB,Brazil,BR,BRA
+225,Campo Grande,CGR,Brazil,BR,BRA
+226,Cuiaba - Marechal Rondon International Airport,CGB,Brazil,BR,BRA
+227,Curitiba - Afonso Pena International Airport,CWB,Brazil,BR,BRA
+228,Florianopolis,FLN,Brazil,BR,BRA
+229,Fortaleza - Pinto Martins Airport,FOR,Brazil,BR,BRA
+230,"Goiania, Santa Genoveva Airport",GYN,Brazil,BR,BRA
+231,Jacobina,JCM,Brazil,BR,BRA
+232,Jales,JLS,Brazil,BR,BRA
+233,Januaria,JNA,Brazil,BR,BRA
+234,Jatai,JTI,Brazil,BR,BRA
+235,Joacaba,JCB,Brazil,BR,BRA
+236,Joao Pessoa - Castro Pinto Airport,JPA,Brazil,BR,BRA
+237,Joinville - Cubatao Airport,JOI,Brazil,BR,BRA
+238,Juiz De Fora - Francisco De Assis Airport,JDF,Brazil,BR,BRA
+239,Macapa - Alberto Alcolumbre International Airport,MCP,Brazil,BR,BRA
+240,Maceio - Zumbi dos Palmares International Airport,MCZ,Brazil,BR,BRA
+241,Manaus - Eduardo Gomes International Airport,MAO,Brazil,BR,BRA
+242,Montenegro,QGF,Brazil,BR,BRA
+243,Natal - Augusto Severo International Airport,NAT,Brazil,BR,BRA
+244,Palmas,PMW,Brazil,BR,BRA
+245,Porto Alegre - Salgado Filho International Airport,POA,Brazil,BR,BRA
+246,Porto Velho,PVH,Brazil,BR,BRA
+247,Recife - Guararapes-Gilberto Freyre International,REC,Brazil,BR,BRA
+248,Rio Branco - Plácido de Castro International Airport,RBR,Brazil,BR,BRA
+249,Rio de Janeiro,RIO,Brazil,BR,BRA
+250,Rio de Janeiro - Galeao,GIG,Brazil,BR,BRA
+251,Rio de Janeiro - Santos Dumont,SDU,Brazil,BR,BRA
+252,Salvador - Salvador International Airport,SSA,Brazil,BR,BRA
+253,Santa Rosa,SRA,Brazil,BR,BRA
+254,Sao Luis - Marechal Cunha Machado International,SLZ,Brazil,BR,BRA
+255,Sao Paulo,SAO,Brazil,BR,BRA
+256,Sao Paulo - Congonhas,CGH,Brazil,BR,BRA
+257,Sao Paulo - Guarulhos,GRU,Brazil,BR,BRA
+258,Sao Paulo - Guarulhos International,GRU,Brazil,BR,BRA
+259,Sao Paulo - Viracopos,VCP,Brazil,BR,BRA
+260,Teresina,THE,Brazil,BR,BRA
+261,Uberaba,UBA,Brazil,BR,BRA
+262,Uberlandia - Eduardo Gomes Airport,UDI,Brazil,BR,BRA
+263,Urubupunga - Ernesto Pochler Airport,URB,Brazil,BR,BRA
+264,Uruguaiana - Ruben Berta Airport,URG,Brazil,BR,BRA
+265,Vitoria - Eurico de Aguiar Salles Airport,VIX,Brazil,BR,BRA
+266,Ahmedabad,AMD,British Indian Ocean Territory (the),IO,IOT
+267,Amritsar,ATQ,British Indian Ocean Territory (the),IO,IOT
+268,Anand,QNB,British Indian Ocean Territory (the),IO,IOT
+269,Bagdogra,IXB,British Indian Ocean Territory (the),IO,IOT
+270,Bangalore,BLR,British Indian Ocean Territory (the),IO,IOT
+271,Baroda,BDQ,British Indian Ocean Territory (the),IO,IOT
+272,Belgaum,IXG,British Indian Ocean Territory (the),IO,IOT
+273,Bhopal,BHO,British Indian Ocean Territory (the),IO,IOT
+274,Bhubaneswar,BBI,British Indian Ocean Territory (the),IO,IOT
+275,Bombay (Mumbai) - Chhatrapati Shivaji International,BOM,British Indian Ocean Territory (the),IO,IOT
+276,Calcutta (Kolkata) - Netaji Subhas Chandra,CCU,British Indian Ocean Territory (the),IO,IOT
+277,Calicut,CCJ,British Indian Ocean Territory (the),IO,IOT
+278,Chandigarh - Chandigarh International Airport,IXC,British Indian Ocean Territory (the),IO,IOT
+279,Chennai (Madras),MAA,British Indian Ocean Territory (the),IO,IOT
+280,Cochin,COK,British Indian Ocean Territory (the),IO,IOT
+281,Coimbatore,CJB,British Indian Ocean Territory (the),IO,IOT
+282,Delhi - Indira Gandhi International Airport,DEL,British Indian Ocean Territory (the),IO,IOT
+283,Goa,GOI,British Indian Ocean Territory (the),IO,IOT
+284,Guwahati,GAU,British Indian Ocean Territory (the),IO,IOT
+285,Hyderabad - Rajiv Gandhi International Airport,HYD,British Indian Ocean Territory (the),IO,IOT
+286,Jagdalpur,JGB,British Indian Ocean Territory (the),IO,IOT
+287,Jaipur - Sanganeer,JAI,British Indian Ocean Territory (the),IO,IOT
+288,Jaisalmer,JSA,British Indian Ocean Territory (the),IO,IOT
+289,Jalandhar,JLR,British Indian Ocean Territory (the),IO,IOT
+290,Jammu - Satwari,IXJ,British Indian Ocean Territory (the),IO,IOT
+291,Jamnagar - Govardhanpur,JGA,British Indian Ocean Territory (the),IO,IOT
+292,Jamshedpur - Sonari Airport,IXW,British Indian Ocean Territory (the),IO,IOT
+293,Jeypore - Jeypore Airport,PYB,British Indian Ocean Territory (the),IO,IOT
+294,Jodhpur,JDH,British Indian Ocean Territory (the),IO,IOT
+295,Jorhat - Rowriah Airport,JRH,British Indian Ocean Territory (the),IO,IOT
+296,Kanpur,KNU,British Indian Ocean Territory (the),IO,IOT
+297,Kolkata (Calcutta) - Netaji Subhas Chandra,CCU,British Indian Ocean Territory (the),IO,IOT
+298,Lucknow,LKO,British Indian Ocean Territory (the),IO,IOT
+299,Madras (Chennai) - Chennai International Airport,MAA,British Indian Ocean Territory (the),IO,IOT
+300,Mysore,MYQ,British Indian Ocean Territory (the),IO,IOT
+301,Nagpur,NAG,British Indian Ocean Territory (the),IO,IOT
+302,Patna,PAT,British Indian Ocean Territory (the),IO,IOT
+303,Rajkot,RAJ,British Indian Ocean Territory (the),IO,IOT
+304,Ranchi,IXR,British Indian Ocean Territory (the),IO,IOT
+305,Srinagar,SXR,British Indian Ocean Territory (the),IO,IOT
+306,Surat,STV,British Indian Ocean Territory (the),IO,IOT
+307,Thiruvananthapuram,TRV,British Indian Ocean Territory (the),IO,IOT
+308,Tiruchirapally,TRZ,British Indian Ocean Territory (the),IO,IOT
+309,Udaipur - Dabok Airport,UDR,British Indian Ocean Territory (the),IO,IOT
+310,Varanasi,VNS,British Indian Ocean Territory (the),IO,IOT
+311,Bandar Seri Begawan - Brunei International Airport,BWN,Brunei Darussalam,BN,BRN
+312,Bourgas/Burgas,BOJ,Bulgaria,BG,BGR
+313,Gorna,GOZ,Bulgaria,BG,BGR
+314,Jambol,JAM,Bulgaria,BG,BGR
+315,Ruse,ROU,Bulgaria,BG,BGR
+316,Silistra,SLS,Bulgaria,BG,BGR
+317,Sofia - Vrazhdebna,SOF,Bulgaria,BG,BGR
+318,Targovishte,TGV,Bulgaria,BG,BGR
+319,Varna,VAR,Bulgaria,BG,BGR
+320,Vidin,VID,Bulgaria,BG,BGR
+321,Bobo/Dioulasso,BOY,Burkina Faso,BF,BFA
+322,Ouagadougou,OUA,Burkina Faso,BF,BFA
+323,Bujumbura - Bujumbura International Airport,BJM,Burundi,BI,BDI
+324,Phnom Penh - Pochentong,PNH,Cambodia,KH,KHM
+325,Douala,DLA,Cameroon,CM,CMR
+326,Garoua,GOU,Cameroon,CM,CMR
+327,Maroua,MVR,Cameroon,CM,CMR
+328,N'Gaoundere,NGE,Cameroon,CM,CMR
+329,Yaounde,YAO,Cameroon,CM,CMR
+330,"Attawapiskat, NT",YAT,Canada,CA,CAN
+331,"Bonaventure, PQ",YVB,Canada,CA,CAN
+332,Calgary - Calgary International Airport,YYC,Canada,CA,CAN
+333,Cambridge Bay,YCB,Canada,CA,CAN
+334,Churchill,YYQ,Canada,CA,CAN
+335,Deer Lake/Corner Brook,YDF,Canada,CA,CAN
+336,Edmonton,YEA,Canada,CA,CAN
+337,"Edmonton, International",YEG,Canada,CA,CAN
+338,"Edmonton, Municipal",YXD,Canada,CA,CAN
+339,Flin Flon,YFO,Canada,CA,CAN
+340,Fort Albert,YFA,Canada,CA,CAN
+341,Fort McMurray,YMM,Canada,CA,CAN
+342,Fort Smith,YSM,Canada,CA,CAN
+343,Fort St. John,YXJ,Canada,CA,CAN
+344,Fredericton,YFC,Canada,CA,CAN
+345,Gander,YQX,Canada,CA,CAN
+346,Gillam,YGX,Canada,CA,CAN
+347,Goose Bay,YYR,Canada,CA,CAN
+348,Halifax International,YHZ,Canada,CA,CAN
+349,Hall Beach,YUX,Canada,CA,CAN
+350,Hamilton,YHM,Canada,CA,CAN
+351,"Harrington Harbour, PQ",YHR,Canada,CA,CAN
+352,Inuvik,YEV,Canada,CA,CAN
+353,Iqaluit (Frobisher Bay),YFB,Canada,CA,CAN
+354,"Kamloops, BC",YKA,Canada,CA,CAN
+355,"Kaschechawan, PQ",ZKE,Canada,CA,CAN
+356,"Kelowna, BC",YLW,Canada,CA,CAN
+357,Kuujjuaq (FortChimo),YVP,Canada,CA,CAN
+358,Kuujjuarapik,YGW,Canada,CA,CAN
+359,La Grande,YGL,Canada,CA,CAN
+360,"Lac Brochet, MB",XLB,Canada,CA,CAN
+361,Leaf Rapids,YLR,Canada,CA,CAN
+362,London,YXU,Canada,CA,CAN
+363,Moncton,YQM,Canada,CA,CAN
+364,Montreal,YMQ,Canada,CA,CAN
+365,Montreal - Dorval (Montréal-Trudeau),YUL,Canada,CA,CAN
+366,Montreal - Mirabel,YMX,Canada,CA,CAN
+367,Nanisivik,YSR,Canada,CA,CAN
+368,Norman Wells,YVQ,Canada,CA,CAN
+369,Ottawa - Hull,YOW,Canada,CA,CAN
+370,"Port Menier, PQ",YPN,Canada,CA,CAN
+371,Prince George,YXS,Canada,CA,CAN
+372,Prince Rupert/Digby Island,YPR,Canada,CA,CAN
+373,Pukatawagan,XPK,Canada,CA,CAN
+374,Quebec - Quebec International,YQB,Canada,CA,CAN
+375,"Rainbow Lake, AB",YOP,Canada,CA,CAN
+376,Regina,YQR,Canada,CA,CAN
+377,Resolute Bay,YRB,Canada,CA,CAN
+378,Saint John,YSJ,Canada,CA,CAN
+379,Sandspit,YZP,Canada,CA,CAN
+380,Saskatoon,YXE,Canada,CA,CAN
+381,"Shamattawa, MB",ZTM,Canada,CA,CAN
+382,Smithers,YYD,Canada,CA,CAN
+383,"South Indian Lake, MB",XSI,Canada,CA,CAN
+384,"St. Augustin, PQ",YIF,Canada,CA,CAN
+385,St. John's,YYT,Canada,CA,CAN
+386,"St. Pierre, NF",FSP,Canada,CA,CAN
+387,Terrace,YXT,Canada,CA,CAN
+388,The Pas,YQD,Canada,CA,CAN
+389,Thompson,YTH,Canada,CA,CAN
+390,Thunder Bay,YQT,Canada,CA,CAN
+391,Toronto,YTO,Canada,CA,CAN
+392,Toronto - Billy Bishop Toronto City Airport,YTZ,Canada,CA,CAN
+393,Toronto - Toronto Pearson International Airport,YYZ,Canada,CA,CAN
+394,Umiujaq,YUD,Canada,CA,CAN
+395,Uranium City,YBE,Canada,CA,CAN
+396,Val d'Or,YVO,Canada,CA,CAN
+397,Vancouver - Vancouver International,YVR,Canada,CA,CAN
+398,Victoria,YYJ,Canada,CA,CAN
+399,Wabush,YWK,Canada,CA,CAN
+400,"Whale Cove, NT",YXN,Canada,CA,CAN
+401,Whitehorse,YXY,Canada,CA,CAN
+402,Windsor Ontario,YQG,Canada,CA,CAN
+403,Winnipeg International,YWG,Canada,CA,CAN
+404,Yellowknife,YZF,Canada,CA,CAN
+405,Grand Cayman - Owen Roberts International,GCM,Cayman Islands (the),KY,CYM
+406,Bambari,BBY,Central African Republic (the),CF,CAF
+407,Bangassou,BGU,Central African Republic (the),CF,CAF
+408,Bangui - M'Poko International Airport,BGF,Central African Republic (the),CF,CAF
+409,Berberati,BBT,Central African Republic (the),CF,CAF
+410,Biraro,IRO,Central African Republic (the),CF,CAF
+411,Bria,BIV,Central African Republic (the),CF,CAF
+412,Carnot,CRF,Central African Republic (the),CF,CAF
+413,Ouadda,ODA,Central African Republic (the),CF,CAF
+414,Abeche,AEH,Chad,TD,TCD
+415,Moundou,MQQ,Chad,TD,TCD
+416,N'Djamena,NDJ,Chad,TD,TCD
+417,Calama - El Loa,CJC,Chile,CL,CHL
+418,Easter Island,IPC,Chile,CL,CHL
+419,Punta Arenas - Presidente Carlos Ibáñez del Campo,PUQ,Chile,CL,CHL
+420,Santiago de Chile - Arturo Merino Benitez,SCL,Chile,CL,CHL
+421,Valparaiso,VAP,Chile,CL,CHL
+422,Beijing,PEK,China,CN,CHN
+423,Beijing - Nanyuan Airport,NAY,China,CN,CHN
+424,Shanghai - Hongqiao,SHA,China,CN,CHN
+425,Shanghai - Pu Dong,PVG,China,CN,CHN
+426,Tianjin,TSN,China,CN,CHN
+427,Barranquilla,BAQ,Colombia,CO,COL
+428,Bogota - El Nuevo Dorado International Airport,BOG,Colombia,CO,COL
+429,Bucaramanga,BGA,Colombia,CO,COL
+430,Cali,CLO,Colombia,CO,COL
+431,Cartagena - Rafael Núñez International Airport,CTG,Colombia,CO,COL
+432,Medellin - José María Córdova International,MDE,Colombia,CO,COL
+433,Pereira,PEI,Colombia,CO,COL
+434,San Andres,ADZ,Colombia,CO,COL
+435,Santa Rosalia,SSL,Colombia,CO,COL
+436,Rarotonga,RAR,Cook Islands (the),CK,COK
+437,San Jose,SJO,Costa Rica,CR,CRI
+438,Upala,UPL,Costa Rica,CR,CRI
+439,Cienfuegos - Jaime González Airport,CFG,Cuba,CU,CUB
+440,Havana - José Martí International,HAV,Cuba,CU,CUB
+441,Holguin,HOG,Cuba,CU,CUB
+442,Santiago - Antonio Maceo Airport,SCU,Cuba,CU,CUB
+443,Varadero,VRA,Cuba,CU,CUB
+444,Akrotiri - RAF,AKT,Cyprus,CY,CYP
+445,Larnaca,LCA,Cyprus,CY,CYP
+446,Limassol,QLI,Cyprus,CY,CYP
+447,Nicosia,NIC,Cyprus,CY,CYP
+448,Paphos,PFO,Cyprus,CY,CYP
+449,Yamoussoukro,ASK,Côte d'Ivoire,CI,CIV
+450,Aarhus,AAR,Denmark,DK,DNK
+451,Alborg,AAL,Denmark,DK,DNK
+452,Billund,BLL,Denmark,DK,DNK
+453,Copenhagen - Copenhagen Airport,CPH,Denmark,DK,DNK
+454,Esbjerg,EBJ,Denmark,DK,DNK
+455,Faroer - Vágar Airport,FAE,Denmark,DK,DNK
+456,Karup,KRP,Denmark,DK,DNK
+457,Odense,ODE,Denmark,DK,DNK
+458,Roenne,RNN,Denmark,DK,DNK
+459,Skrydstrup,SKS,Denmark,DK,DNK
+460,Soenderborg,SGD,Denmark,DK,DNK
+461,Thisted,TED,Denmark,DK,DNK
+462,Djibouti (city) - Djibouti-Ambouli International Airport,JIB,Djibouti,DJ,DJI
+463,Melville Hall,DOM,Dominica,DM,DMA
+464,Casa de Campo - La Romana International Airport,LRM,Dominican Republic (the),DO,DOM
+465,Melville Hall,DOM,Dominican Republic (the),DO,DOM
+466,Puerto Plata,POP,Dominican Republic (the),DO,DOM
+467,Punta Cana - Punta Cana International,PUJ,Dominican Republic (the),DO,DOM
+468,Samana - Samaná El Catey International Airport,AZS,Dominican Republic (the),DO,DOM
+469,Santo Domingo,SDQ,Dominican Republic (the),DO,DOM
+470,Guayaquil - Simon Bolivar,GYE,Ecuador,EC,ECU
+471,Jipijapa,JIP,Ecuador,EC,ECU
+472,Quito - Mariscal Sucre International Airport,UIO,Ecuador,EC,ECU
+473,Salinas,SNC,Ecuador,EC,ECU
+474,Abu Rudeis,AUE,Egypt,EG,EGY
+475,Abu Simbel,ABS,Egypt,EG,EGY
+476,Al Arish,AAC,Egypt,EG,EGY
+477,Alexandria - Borg el Arab Airport,HBH,Egypt,EG,EGY
+478,Alexandria - El Nhouza Airport,ALY,Egypt,EG,EGY
+479,Assiut,ATZ,Egypt,EG,EGY
+480,Aswan - Daraw Airport,ASW,Egypt,EG,EGY
+481,Cairo - Cairo International Airport,CAI,Egypt,EG,EGY
+482,El Minya,EMY,Egypt,EG,EGY
+483,Hurghada International,HRG,Egypt,EG,EGY
+484,Kharga - New Valley,UVL,Egypt,EG,EGY
+485,Luxor,LXR,Egypt,EG,EGY
+486,Marsa Alam,RMF,Egypt,EG,EGY
+487,Marsa Matrah (Marsa Matruh),MUH,Egypt,EG,EGY
+488,New Valley - Kharga,UVL,Egypt,EG,EGY
+489,Port Said,PSD,Egypt,EG,EGY
+490,Santa Katarina - Mount Sinai,SKV,Egypt,EG,EGY
+491,Sharm El Sheikh,SSH,Egypt,EG,EGY
+492,Siwa,SEW,Egypt,EG,EGY
+493,San Salvador,SAL,El Salvador,SV,SLV
+494,Conakry - Conakry International Airport,CKY,Equatorial Guinea,GQ,GNQ
+495,Labe,LEK,Equatorial Guinea,GQ,GNQ
+496,Malabo - Malabo International Airport,SSG,Equatorial Guinea,GQ,GNQ
+497,Asmara - Asmara International,ASM,Eritrea,ER,ERI
+498,Tallinn - Pirita Harbour,QUF,Estonia,EE,EST
+499,Tallinn - Ulemiste,TLL,Estonia,EE,EST
+500,Addis Ababa - Bole International Airport,ADD,Ethiopia,ET,ETH
+501,Jijiga,JIJ,Ethiopia,ET,ETH
+502,Jimma,JIM,Ethiopia,ET,ETH
+503,Jinka - Baco/Jinka Airport,BCO,Ethiopia,ET,ETH
+504,Castaway,CST,Fiji,FJ,FJI
+505,Nadi,NAN,Fiji,FJ,FJI
+506,Suva - Nausori Airport (Luvuluvu),SUV,Fiji,FJ,FJI
+507,Enontekioe,ENF,Finland,FI,FIN
+508,Helsinki - Vantaa,HEL,Finland,FI,FIN
+509,Ivalo,IVL,Finland,FI,FIN
+510,Joensuu,JOE,Finland,FI,FIN
+511,Jyväskylä (Jyvaskyla),JYV,Finland,FI,FIN
+512,Kajaani,KAJ,Finland,FI,FIN
+513,Kauhajoki,KHJ,Finland,FI,FIN
+514,Kemi/Tornio,KEM,Finland,FI,FIN
+515,Kittilä,KTT,Finland,FI,FIN
+516,Kokkola/Pietarsaari,KOK,Finland,FI,FIN
+517,Kuopio,KUO,Finland,FI,FIN
+518,Kuusamo,KAO,Finland,FI,FIN
+519,Lappeenranta,LPP,Finland,FI,FIN
+520,Mariehamn (Maarianhamina),MHQ,Finland,FI,FIN
+521,Mikkeli,MIK,Finland,FI,FIN
+522,Oulu,OUL,Finland,FI,FIN
+523,Pori,POR,Finland,FI,FIN
+524,Rovaniemi,RVN,Finland,FI,FIN
+525,Savonlinna,SVL,Finland,FI,FIN
+526,Seinaejoki,SJY,Finland,FI,FIN
+527,Sodankylae,SOT,Finland,FI,FIN
+528,Tampere,TMP,Finland,FI,FIN
+529,Turku,TKU,Finland,FI,FIN
+530,Vaasa,VAA,Finland,FI,FIN
+531,Varkaus,VRK,Finland,FI,FIN
+532,Ajaccio,AJA,France,FR,FRA
+533,Albi,LBI,France,FR,FRA
+534,Annecy,NCY,France,FR,FRA
+535,Aurillac,AUR,France,FR,FRA
+536,Bastia,BIA,France,FR,FRA
+537,Bergerac - Roumanieres,EGC,France,FR,FRA
+538,Biarritz,BIQ,France,FR,FRA
+539,Bordeaux - Bordeaux Airport,BOD,France,FR,FRA
+540,Brest,BES,France,FR,FRA
+541,Calvi,CLY,France,FR,FRA
+542,Cannes – Mandelieu Airport,CEQ,France,FR,FRA
+543,Chambery,CMF,France,FR,FRA
+544,Clermont Ferrand,CFE,France,FR,FRA
+545,Dinard,DNR,France,FR,FRA
+546,Disneyland Paris,DLP,France,FR,FRA
+547,Figari,FSC,France,FR,FRA
+548,Frejus,FRJ,France,FR,FRA
+549,Grenoble,GNB,France,FR,FRA
+550,La Rochelle,LRH,France,FR,FRA
+551,Lannion,LAI,France,FR,FRA
+552,Lille - Lille Airport,LIL,France,FR,FRA
+553,Limoges,LIG,France,FR,FRA
+554,Lorient,LRT,France,FR,FRA
+555,Lourdes/Tarbes,LDE,France,FR,FRA
+556,Lyon - Lyon-Saint Exupéry Airport,LYS,France,FR,FRA
+557,Marseille - Marseille Provence Airport,MRS,France,FR,FRA
+558,Metz - Frescaty,MZM,France,FR,FRA
+559,Metz/Nancy Metz-Nancy-Lorraine,ETZ,France,FR,FRA
+560,Montpellier - Montpellier–Méditerranée Airport,MPL,France,FR,FRA
+561,Mulhouse,MLH,France,FR,FRA
+562,Nancy,ENC,France,FR,FRA
+563,Nantes - Nantes Atlantique Airport,NTE,France,FR,FRA
+564,Nice - Cote D'Azur Airport,NCE,France,FR,FRA
+565,Nimes,FNI,France,FR,FRA
+566,Paris,PAR,France,FR,FRA
+567,Paris - Charles de Gaulle,CDG,France,FR,FRA
+568,Paris - Le Bourget,LBG,France,FR,FRA
+569,Paris - Orly,ORY,France,FR,FRA
+570,Pau,PUF,France,FR,FRA
+571,Perpignan,PGF,France,FR,FRA
+572,Poitiers - Biard,PIS,France,FR,FRA
+573,Quimper,UIP,France,FR,FRA
+574,Rennes,RNS,France,FR,FRA
+575,Roanne,RNE,France,FR,FRA
+576,Rodez,RDZ,France,FR,FRA
+577,Saint Brieuc,SBK,France,FR,FRA
+578,St. Etienne,EBU,France,FR,FRA
+579,Strasbourg - Strasbourg Airport,SXB,France,FR,FRA
+580,Toulouse - Blagnac Airport,TLS,France,FR,FRA
+581,Cayenne - Cayenne-Rochambeau Airport,CAY,French Guiana,GF,GUF
+582,Bora Bora,BOB,French Polynesia,PF,PYF
+583,Huahine,HUH,French Polynesia,PF,PYF
+584,Manihi,XMH,French Polynesia,PF,PYF
+585,Maupiti,MAU,French Polynesia,PF,PYF
+586,Moorea,MOZ,French Polynesia,PF,PYF
+587,Raiatea,RFP,French Polynesia,PF,PYF
+588,Rangiroa,RGI,French Polynesia,PF,PYF
+589,Ua Huka,UAH,French Polynesia,PF,PYF
+590,Ua Pou,UAP,French Polynesia,PF,PYF
+591,Lambarene,LBQ,Gabon,GA,GAB
+592,Libreville,LBV,Gabon,GA,GAB
+593,Moanda,MFF,Gabon,GA,GAB
+594,Mouila,MJL,Gabon,GA,GAB
+595,Mvengue,MVB,Gabon,GA,GAB
+596,Port Gentil,POG,Gabon,GA,GAB
+597,Banjul - Banjul International Airport (Yundum International),BJL,Gambia (the),GM,GMB
+598,Tbilisi - Novo Alexeyevka,TBS,Georgia,GE,GEO
+599,Augsburg - Augsbur gAirport,AGB,Germany,DE,DEU
+600,Bayreuth - Bindlacher-Berg,BYU,Germany,DE,DEU
+601,Berlin,BER,Germany,DE,DEU
+602,"Berlin, Schoenefeld",SXF,Germany,DE,DEU
+603,"Berlin, Tegel",TXL,Germany,DE,DEU
+604,"Berlin, Tempelhof (ceased operating in 2008)",THF,Germany,DE,DEU
+605,Bremen - Bremen Airport (Flughafen Bremen),BRE,Germany,DE,DEU
+606,Cologne - Cologne Airport (Flughafen Köln/Bonn),CGN,Germany,DE,DEU
+607,Cottbus - Cottbus-Drewitz Airport,CBU,Germany,DE,DEU
+608,Dortmund,DTM,Germany,DE,DEU
+609,Dresden - Dresden Airport,DRS,Germany,DE,DEU
+610,Duesseldorf - Düsseldorf International Airport,DUS,Germany,DE,DEU
+611,Erfurt - Erfurt Airport (Flughafen Erfurt),ERF,Germany,DE,DEU
+612,Frankfurt/Hahn,HHN,Germany,DE,DEU
+613,Frankfurt/Main - Frankfurt Airport (Rhein-Main-Flughafen),FRA,Germany,DE,DEU
+614,Friedrichshafen - Bodensee-Airport Friedrichshafen,FDH,Germany,DE,DEU
+615,Guettin,GTI,Germany,DE,DEU
+616,Hamburg - Fuhlsbuettel,HAM,Germany,DE,DEU
+617,Hannover,HAJ,Germany,DE,DEU
+618,Hof,HOQ,Germany,DE,DEU
+619,Juist (island),JUI,Germany,DE,DEU
+620,Karlsruhe-Baden - Soellingen,FKB,Germany,DE,DEU
+621,Kiel - Holtenau,KEL,Germany,DE,DEU
+622,"Köln, Köln/Bonn",CGN,Germany,DE,DEU
+623,Leipzig,LEJ,Germany,DE,DEU
+624,Muenchen (Munich) - Franz Josef Strauss,MUC,Germany,DE,DEU
+625,Muenster/Osnabrueck,FMO,Germany,DE,DEU
+626,Nürnberg (Nuremberg),NUE,Germany,DE,DEU
+627,Paderborn/Lippstadt,PAD,Germany,DE,DEU
+628,Saarbruecken,SCN,Germany,DE,DEU
+629,Stuttgart - Echterdingen,STR,Germany,DE,DEU
+630,"Westerland, Sylt Airport",GWT,Germany,DE,DEU
+631,"Wiesbaden, Air Base",WIE,Germany,DE,DEU
+632,Accra - Kotoka International Airport,ACC,Ghana,GH,GHA
+633,Gibraltar,GIB,Gibraltar,GI,GIB
+634,Araxos,GPA,Greece,GR,GRC
+635,Athens - Elefthérios Venizélos International Airport,ATH,Greece,GR,GRC
+636,"Athens, Hellinikon Airport",HEW,Greece,GR,GRC
+637,Chania,CHQ,Greece,GR,GRC
+638,Chios,JKH,Greece,GR,GRC
+639,Corfu,CFU,Greece,GR,GRC
+640,Heraklion,HER,Greece,GR,GRC
+641,Kalamata,KLX,Greece,GR,GRC
+642,Karpathos,AOK,Greece,GR,GRC
+643,Kavalla,KVA,Greece,GR,GRC
+644,Kos,KGS,Greece,GR,GRC
+645,Mykonos,JMK,Greece,GR,GRC
+646,Mytilene (Lesbos),MJT,Greece,GR,GRC
+647,Naxos - Naxos Airport,JNX,Greece,GR,GRC
+648,Preveza/Lefkas,PVK,Greece,GR,GRC
+649,Rhodos,RHO,Greece,GR,GRC
+650,Saloniki,SKG,Greece,GR,GRC
+651,Samos,SMI,Greece,GR,GRC
+652,Skiathos,JSI,Greece,GR,GRC
+653,Thessaloniki - Makedonia Apt.,SKG,Greece,GR,GRC
+654,Thira,JTR,Greece,GR,GRC
+655,Zakynthos,ZTH,Greece,GR,GRC
+656,Narsarsuaq,UAK,Greenland,GL,GRL
+657,Soendre Stroemfjord,SFJ,Greenland,GL,GRL
+658,Upernavik - Upernavik Heliport,JUV,Greenland,GL,GRL
+659,Uummannaq,UMD,Greenland,GL,GRL
+660,Grenada - Point Salines Airport also Maurice Bishop,GND,Grenada,GD,GRD
+661,Basse-Terre - Pointe-à-Pitre International Airport,PTP,Guadeloupe,GP,GLP
+662,Pointe a Pitre,PTP,Guadeloupe,GP,GLP
+663,Agana (Hagåtña),SUM,Guam,GU,GUM
+664,Guam,GUM,Guam,GU,GUM
+665,Hagåtña - Guam International Airport,GUM,Guam,GU,GUM
+666,Guatemala City - La Aurora International Airport,GUA,Guatemala,GT,GTM
+667,Conakry - Conakry International Airport,CKY,Guinea,GN,GIN
+668,Labe,LEK,Guinea,GN,GIN
+669,Bissau - Osvaldo Vieiro International Airport,BXO,Guinea-Bissau,GW,GNB
+670,Conakry - Conakry International Airport,CKY,Guinea-Bissau,GW,GNB
+671,Labe,LEK,Guinea-Bissau,GW,GNB
+672,Georgetown - Cheddi Jagan International Airport,GEO,Guyana,GY,GUY
+673,Jacmel,JAK,Haiti,HT,HTI
+674,Jeremie - Jeremie Airport,JEE,Haiti,HT,HTI
+675,Port au Prince,PAP,Haiti,HT,HTI
+676,Juticalpa,JUT,Honduras,HN,HND
+677,Roatan,RTB,Honduras,HN,HND
+678,San Pedro Sula,SAP,Honduras,HN,HND
+679,"Santa Rosa, Copan",SDH,Honduras,HN,HND
+680,Tegucigalpa,TGU,Honduras,HN,HND
+681,Utila,UII,Honduras,HN,HND
+682,Hong Kong - Chek Lap Kok,ZJK,Hong Kong,HK,HKG
+683,Hong Kong - International Airport (HKIA),HKG,Hong Kong,HK,HKG
+684,Budapest - Budapest Ferihegy International Airport,BUD,Hungary,HU,HUN
+685,Egilsstadir,EGS,Iceland,IS,ISL
+686,Reykjavik - Keflavik International,KEF,Iceland,IS,ISL
+687,Reykjavik - Metropolitan Area,REK,Iceland,IS,ISL
+688,Ahmedabad,AMD,India,IN,IND
+689,Amritsar,ATQ,India,IN,IND
+690,Anand,QNB,India,IN,IND
+691,Bagdogra,IXB,India,IN,IND
+692,Bangalore,BLR,India,IN,IND
+693,Baroda,BDQ,India,IN,IND
+694,Belgaum,IXG,India,IN,IND
+695,Bhopal,BHO,India,IN,IND
+696,Bhubaneswar,BBI,India,IN,IND
+697,Bombay (Mumbai) - Chhatrapati Shivaji International,BOM,India,IN,IND
+698,Calcutta (Kolkata) - Netaji Subhas Chandra,CCU,India,IN,IND
+699,Calicut,CCJ,India,IN,IND
+700,Chandigarh - Chandigarh International Airport,IXC,India,IN,IND
+701,Chennai (Madras),MAA,India,IN,IND
+702,Cochin,COK,India,IN,IND
+703,Coimbatore,CJB,India,IN,IND
+704,Delhi - Indira Gandhi International Airport,DEL,India,IN,IND
+705,Goa,GOI,India,IN,IND
+706,Guwahati,GAU,India,IN,IND
+707,Hyderabad - Rajiv Gandhi International Airport,HYD,India,IN,IND
+708,Jagdalpur,JGB,India,IN,IND
+709,Jaipur - Sanganeer,JAI,India,IN,IND
+710,Jaisalmer,JSA,India,IN,IND
+711,Jalandhar,JLR,India,IN,IND
+712,Jammu - Satwari,IXJ,India,IN,IND
+713,Jamnagar - Govardhanpur,JGA,India,IN,IND
+714,Jamshedpur - Sonari Airport,IXW,India,IN,IND
+715,Jeypore - Jeypore Airport,PYB,India,IN,IND
+716,Jodhpur,JDH,India,IN,IND
+717,Jorhat - Rowriah Airport,JRH,India,IN,IND
+718,Kanpur,KNU,India,IN,IND
+719,Kolkata (Calcutta) - Netaji Subhas Chandra,CCU,India,IN,IND
+720,Lucknow,LKO,India,IN,IND
+721,Madras (Chennai) - Chennai International Airport,MAA,India,IN,IND
+722,Mysore,MYQ,India,IN,IND
+723,Nagpur,NAG,India,IN,IND
+724,Patna,PAT,India,IN,IND
+725,Rajkot,RAJ,India,IN,IND
+726,Ranchi,IXR,India,IN,IND
+727,Srinagar,SXR,India,IN,IND
+728,Surat,STV,India,IN,IND
+729,Thiruvananthapuram,TRV,India,IN,IND
+730,Tiruchirapally,TRZ,India,IN,IND
+731,Udaipur - Dabok Airport,UDR,India,IN,IND
+732,Varanasi,VNS,India,IN,IND
+733,Ayawasi,AYW,Indonesia,ID,IDN
+734,Bandung - Husein Sastranegara International Airport,BDO,Indonesia,ID,IDN
+735,Denpasar/Bali,DPS,Indonesia,ID,IDN
+736,Jakarta - Halim Perdana Kusuma,HLP,Indonesia,ID,IDN
+737,Jakarta - Metropolitan Area,JKT,Indonesia,ID,IDN
+738,Jakarta - Soekarno-Hatta International,CGK,Indonesia,ID,IDN
+739,Jambi - Sultan Taha Syarifudn,DJB,Indonesia,ID,IDN
+740,Jayapura - Sentani,DJJ,Indonesia,ID,IDN
+741,Manado,MDC,Indonesia,ID,IDN
+742,Medan - Kualanamu International,KNO,Indonesia,ID,IDN
+743,Medan - Polania Int'l (now Soewondo AFB),MES,Indonesia,ID,IDN
+744,Surabaya - Juanda,SUB,Indonesia,ID,IDN
+745,Tioman,TOD,Indonesia,ID,IDN
+746,Ujung Pandang - Hasanudin Airport,UPG,Indonesia,ID,IDN
+747,Abadan,ABD,Iran (Islamic Republic of),IR,IRN
+748,Tehran (Teheran) - Mehrabad,THR,Iran (Islamic Republic of),IR,IRN
+749,Urmiehm (Orumieh),OMH,Iran (Islamic Republic of),IR,IRN
+750,Bagdad - Baghdad International Airport,BGW,Iraq,IQ,IRQ
+751,"Basra, Basrah",BSR,Iraq,IQ,IRQ
+752,Kirkuk,KIK,Iraq,IQ,IRQ
+753,Mosul,OSM,Iraq,IQ,IRQ
+754,Cork,ORK,Ireland,IE,IRL
+755,Donegal (Carrickfin),CFN,Ireland,IE,IRL
+756,Dublin - Dublin International Airport,DUB,Ireland,IE,IRL
+757,Galway,GWY,Ireland,IE,IRL
+758,Kerry County,KIR,Ireland,IE,IRL
+759,Knock,NOC,Ireland,IE,IRL
+760,Shannon (Limerick),SNN,Ireland,IE,IRL
+761,Sligo,SXL,Ireland,IE,IRL
+762,Elat,ETH,Israel,IL,ISR
+763,"Elat, Ovula",VDA,Israel,IL,ISR
+764,Haifa,HFA,Israel,IL,ISR
+765,Jerusalem - Atarot Airport (closed),JRS,Israel,IL,ISR
+766,Tel Aviv - Ben Gurion International,TLV,Israel,IL,ISR
+767,Alghero Sassari,AHO,Italy,IT,ITA
+768,Ancona - Ancona Falconara Airport,AOI,Italy,IT,ITA
+769,Bari,BRI,Italy,IT,ITA
+770,Bergamo/Milan - Orio Al Serio,BGY,Italy,IT,ITA
+771,Bologna,BLQ,Italy,IT,ITA
+772,"Brescia, Montichiari",VBS,Italy,IT,ITA
+773,Brindisi,BDS,Italy,IT,ITA
+774,Cagliari,CAG,Italy,IT,ITA
+775,Catania,CTA,Italy,IT,ITA
+776,"Elba Island, Marina Di Campo",EBA,Italy,IT,ITA
+777,Florence (Firenze) - Peretola Airport,FLR,Italy,IT,ITA
+778,Genoa,GOA,Italy,IT,ITA
+779,Lamezia Terme,SUF,Italy,IT,ITA
+780,Lampedusa,LMP,Italy,IT,ITA
+781,Milan,MIL,Italy,IT,ITA
+782,Milan - Linate,LIN,Italy,IT,ITA
+783,Milan - Malpensa,MXP,Italy,IT,ITA
+784,Milan - Orio Al Serio,BGY,Italy,IT,ITA
+785,Naples - Naples Capodichino Airport,NAP,Italy,IT,ITA
+786,Olbia,OLB,Italy,IT,ITA
+787,Palermo - Punta Raisi,PMO,Italy,IT,ITA
+788,Pantelleria,PNL,Italy,IT,ITA
+789,Perugia,PEG,Italy,IT,ITA
+790,Pescara,PSR,Italy,IT,ITA
+791,Pisa - Galileo Galilei,PSA,Italy,IT,ITA
+792,Reggio Calabria,REG,Italy,IT,ITA
+793,Rimini,RMI,Italy,IT,ITA
+794,Rome,ROM,Italy,IT,ITA
+795,Rome - Ciampino,CIA,Italy,IT,ITA
+796,Rome - Fuimicino,FCO,Italy,IT,ITA
+797,Trapani,TPS,Italy,IT,ITA
+798,Treviso,TSF,Italy,IT,ITA
+799,Trieste,TRS,Italy,IT,ITA
+800,Turin,TRN,Italy,IT,ITA
+801,Venice - Marco Polo,VCE,Italy,IT,ITA
+802,Verona,VRN,Italy,IT,ITA
+803,Verona (Brescia) Montichiari,VBS,Italy,IT,ITA
+804,Kingston - Norman Manley,KIN,Jamaica,JM,JAM
+805,Montego Bay - Sangster International,MBJ,Jamaica,JM,JAM
+806,Akita,AXT,Japan,JP,JPN
+807,Amami,ASJ,Japan,JP,JPN
+808,Aomori,AOJ,Japan,JP,JPN
+809,Chiba City,QCB,Japan,JP,JPN
+810,Fukuoka,FUK,Japan,JP,JPN
+811,Fukushima - Fukushima Airport,FKS,Japan,JP,JPN
+812,Hachijo Jima,HAC,Japan,JP,JPN
+813,Hakodate,HKD,Japan,JP,JPN
+814,Hiroshima International,HIJ,Japan,JP,JPN
+815,Ishigaki - New Ishigaki Airport,ISG,Japan,JP,JPN
+816,Kagoshima,KOJ,Japan,JP,JPN
+817,Kobe,UKB,Japan,JP,JPN
+818,Kochi,KCZ,Japan,JP,JPN
+819,Komatsu,KMQ,Japan,JP,JPN
+820,Kumamoto,KMJ,Japan,JP,JPN
+821,Kushiro,KUH,Japan,JP,JPN
+822,Kyoto,UKY,Japan,JP,JPN
+823,"Matsumoto, Nagano",MMJ,Japan,JP,JPN
+824,Matsuyama,MYJ,Japan,JP,JPN
+825,Miyako Jima (Ryuku Islands) - Hirara,MMY,Japan,JP,JPN
+826,Miyazaki,KMI,Japan,JP,JPN
+827,"Morioka, Hanamaki",HNA,Japan,JP,JPN
+828,Nagasaki,NGS,Japan,JP,JPN
+829,Nagoya - Komaki AFB,NGO,Japan,JP,JPN
+830,Niigata,KIJ,Japan,JP,JPN
+831,Oita,OIT,Japan,JP,JPN
+832,Okayama,OKJ,Japan,JP,JPN
+833,"Okinawa, Ryukyo Island - Naha",OKA,Japan,JP,JPN
+834,Osaka - Itami,ITM,Japan,JP,JPN
+835,Osaka - Kansai International Airport,KIX,Japan,JP,JPN
+836,"Osaka, Metropolitan Area",OSA,Japan,JP,JPN
+837,Sado Shima,SDS,Japan,JP,JPN
+838,Sapporo - New Chitose Airport,CTS,Japan,JP,JPN
+839,Sapporo - New Chitose Airport,CTS,Japan,JP,JPN
+840,Sendai,SDJ,Japan,JP,JPN
+841,Takamatsu,TAK,Japan,JP,JPN
+842,Tokushima,TKS,Japan,JP,JPN
+843,Tokyo,TYO,Japan,JP,JPN
+844,Tokyo - Haneda,HND,Japan,JP,JPN
+845,Tokyo - Narita,NRT,Japan,JP,JPN
+846,Toyama,TOY,Japan,JP,JPN
+847,Ube,UBJ,Japan,JP,JPN
+848,"Yamagata, Junmachi",GAJ,Japan,JP,JPN
+849,Yokohama,YOK,Japan,JP,JPN
+850,Amman - Amman-Marka International Airport,ADJ,Jordan,JO,JOR
+851,Amman - Queen Alia International Airport,AMM,Jordan,JO,JOR
+852,Aqaba,AQJ,Jordan,JO,JOR
+853,Almaty (Alma Ata) - Almaty International Airport,ALA,Kazakhstan,KZ,KAZ
+854,Astana - Astana International Airport,TSE,Kazakhstan,KZ,KAZ
+855,Malindi,MYD,Kenya,KE,KEN
+856,Mombasa - Moi International,MBA,Kenya,KE,KEN
+857,Nairobi,NBO,Kenya,KE,KEN
+858,Kiritimati (island) - Cassidy International Airport,CXI,Kiribati,KI,KIR
+859,Kuwait - Kuwait International,KWI,Kuwait,KW,KWT
+860,Bishkek - Manas International Airport,FRU,Kyrgyzstan,KG,KGZ
+861,Riga,RIX,Latvia,LV,LVA
+862,Beirut - Beirut Rafic Hariri International Airport,BEY,Lebanon,LB,LBN
+863,Maseru - Moshoeshoe International,MSU,Lesotho,LS,LSO
+864,Monrovia - Metropolitan Area,MLW,Liberia,LR,LBR
+865,Monrovia - Roberts International,ROB,Liberia,LR,LBR
+866,Benghazi (Bengasi),BEN,Libya,LY,LBY
+867,Sehba,SEB,Libya,LY,LBY
+868,Tripoli - Tripoli International,TIP,Libya,LY,LBY
+869,Vilnius,VNO,Lithuania,LT,LTU
+870,Wilna (Vilnius),VNO,Lithuania,LT,LTU
+871,Luxembourg,LUX,Luxembourg,LU,LUX
+872,Antananarivo (Tanannarive) - Ivato International Airport,TNR,Madagascar,MG,MDG
+873,Majunga,MJN,Madagascar,MG,MDG
+874,Blantyre (Mandala) - Chileka International Airport,BLZ,Malawi,MW,MWI
+875,Lilongwe - Lilongwe International,LLW,Malawi,MW,MWI
+876,Bintulu,BTU,Malaysia,MY,MYS
+877,Johor Bahru - Sultan Ismail International,JHB,Malaysia,MY,MYS
+878,Kota Kinabalu,BKI,Malaysia,MY,MYS
+879,Kuala Lumpur - International Airport,KUL,Malaysia,MY,MYS
+880,Kuala Lumpur - Sultan Abdul Aziz Shah,SZB,Malaysia,MY,MYS
+881,Kuantan,KUA,Malaysia,MY,MYS
+882,Kuching,KCH,Malaysia,MY,MYS
+883,Labuan,LBU,Malaysia,MY,MYS
+884,Langkawi (islands),LGK,Malaysia,MY,MYS
+885,Miri,MYY,Malaysia,MY,MYS
+886,Penang International,PEN,Malaysia,MY,MYS
+887,Sibu,SBW,Malaysia,MY,MYS
+888,Tawau,TWU,Malaysia,MY,MYS
+889,Bamako - Bamako-Sénou International Airport,BKO,Mali,ML,MLI
+890,Luga,MLA,Malta,MT,MLT
+891,Jaluit Island,UIT,Marshall Islands (the),MH,MHL
+892,Fort de France - Martinique Aimé Césaire International,FDF,Martinique,MQ,MTQ
+893,Nouadhibou,NDB,Mauritania,MR,MRT
+894,Nouakchott,NKC,Mauritania,MR,MRT
+895,Zouerate,OUZ,Mauritania,MR,MRT
+896,Mauritius - S.Seewoosagur Ram International,MRU,Mauritius,MU,MUS
+897,Rodrigues Island,RRG,Mauritius,MU,MUS
+898,Dzaoudzi,DZA,Mayotte,YT,MYT
+899,Acapulco,ACA,Mexico,MX,MEX
+900,Aguascaliente,AGU,Mexico,MX,MEX
+901,Cancun,CUN,Mexico,MX,MEX
+902,Chichen Itza,CZA,Mexico,MX,MEX
+903,Chihuahua - Gen Fierro Villalobos,CUU,Mexico,MX,MEX
+904,Ciudad Del Carmen,CME,Mexico,MX,MEX
+905,Ciudad Juarez,CJS,Mexico,MX,MEX
+906,Ciudad Obregon,CEN,Mexico,MX,MEX
+907,Ciudad Victoria,CVM,Mexico,MX,MEX
+908,Colima,CLQ,Mexico,MX,MEX
+909,Cozmel,CZM,Mexico,MX,MEX
+910,Culiacan,CUL,Mexico,MX,MEX
+911,Guadalajara,GDL,Mexico,MX,MEX
+912,Hermosillo - Gen. Pesqueira Garcia,HMO,Mexico,MX,MEX
+913,Huatulco,HUX,Mexico,MX,MEX
+914,Ixtapa/Zihuatenejo,ZIH,Mexico,MX,MEX
+915,Jalapa,JAL,Mexico,MX,MEX
+916,La Paz - Leon,LAP,Mexico,MX,MEX
+917,Lazaro Cardenas,LZC,Mexico,MX,MEX
+918,Leon,BJX,Mexico,MX,MEX
+919,Loreto,LTO,Mexico,MX,MEX
+920,Los Cabos,SJD,Mexico,MX,MEX
+921,Los Mochis,LMM,Mexico,MX,MEX
+922,Manzanillo,ZLO,Mexico,MX,MEX
+923,Mazatlan,MZT,Mexico,MX,MEX
+924,Merida,MID,Mexico,MX,MEX
+925,Mexicali,MXL,Mexico,MX,MEX
+926,Mexico City - Atizapan,AZP,Mexico,MX,MEX
+927,Mexico City - Juarez International,MEX,Mexico,MX,MEX
+928,Mexico City - Mexico City International Airport,MEX,Mexico,MX,MEX
+929,Mexico City - Santa Lucia,NLU,Mexico,MX,MEX
+930,Minatitlan,MTT,Mexico,MX,MEX
+931,Monterrey - Aeropuerto Del Norte,NTR,Mexico,MX,MEX
+932,Monterrey - Gen. Mariano Escobedo,MTY,Mexico,MX,MEX
+933,Morelia,MLM,Mexico,MX,MEX
+934,Nuevo Laredo,NLD,Mexico,MX,MEX
+935,Oaxaca - Xoxocotlan,OAX,Mexico,MX,MEX
+936,Puebla,PBC,Mexico,MX,MEX
+937,Puerto Escondido,PXM,Mexico,MX,MEX
+938,Puerto Vallarta,PVR,Mexico,MX,MEX
+939,San Jose Cabo,SJD,Mexico,MX,MEX
+940,San Luis Potosi,SLP,Mexico,MX,MEX
+941,Santa Rosalia,SRL,Mexico,MX,MEX
+942,Tampico - Gen. F. Javier Mina,TAM,Mexico,MX,MEX
+943,Tijuana - Rodriguez,TIJ,Mexico,MX,MEX
+944,Tuxtla Gutierrez,TGZ,Mexico,MX,MEX
+945,Uruapan,UPN,Mexico,MX,MEX
+946,Veracruz,VER,Mexico,MX,MEX
+947,Villahermosa,VSA,Mexico,MX,MEX
+948,Zacatecas,ZCL,Mexico,MX,MEX
+949,Pohnpei,PNI,Micronesia (Federated States of),FM,FSM
+950,Chisinau - Chişinău International Airport,KIV,Moldova (the Republic of),MD,MDA
+951,Ulaanbaatar - Buyant Uhaa Airport,ULN,Mongolia,MN,MNG
+952,Podgorica,TGD,Montenegro,ME,MNE
+953,Tivat,TIV,Montenegro,ME,MNE
+954,Agadir,AGA,Morocco,MA,MAR
+955,Al Hoceima,AHU,Morocco,MA,MAR
+956,Casablanca,CAS,Morocco,MA,MAR
+957,"Casablanca, Mohamed V",CMN,Morocco,MA,MAR
+958,Fes,FEZ,Morocco,MA,MAR
+959,Marrakesh - Menara Airport,RAK,Morocco,MA,MAR
+960,Ouarzazate,OZZ,Morocco,MA,MAR
+961,Oujda,OUD,Morocco,MA,MAR
+962,Rabat - Rabat-Salé Airport,RBA,Morocco,MA,MAR
+963,Tangier - Boukhalef,TNG,Morocco,MA,MAR
+964,Beira,BEW,Mozambique,MZ,MOZ
+965,Maputo - Maputo International,MPM,Mozambique,MZ,MOZ
+966,Mandalay - Mandalay-Annisaton Airport,MDL,Myanmar,MM,MMR
+967,Rangoon (Yangon) - Mingaladon,RGN,Myanmar,MM,MMR
+968,Yangon (Rangoon) - Mingaladon,RGN,Myanmar,MM,MMR
+969,Katima Mulilo/Mpacha,MPA,Namibia,NA,NAM
+970,Keetmanshoop,KMP,Namibia,NA,NAM
+971,Luederitz,LUD,Namibia,NA,NAM
+972,Mokuti,OKU,Namibia,NA,NAM
+973,Ondangwa,OND,Namibia,NA,NAM
+974,Oranjemund,OMD,Namibia,NA,NAM
+975,Rundu,NDU,Namibia,NA,NAM
+976,Swakopmund,SWP,Namibia,NA,NAM
+977,Tsumeb,TSB,Namibia,NA,NAM
+978,Windhoek - Hosea Kutako International,WDH,Namibia,NA,NAM
+979,Windhoek - Eros,ERS,Namibia,NA,NAM
+980,Janakpur,JKR,Nepal,NP,NPL
+981,Jiri,JIR,Nepal,NP,NPL
+982,Jomsom,JMO,Nepal,NP,NPL
+983,Jumla,JUM,Nepal,NP,NPL
+984,Kathmandu - Tribhuvan International Airport,KTM,Nepal,NP,NPL
+985,Amsterdam - Amsterdam Airport Schiphol,AMS,Netherlands (the),NL,NLD
+986,Den Haag (The Hague),HAG,Netherlands (the),NL,NLD
+987,Eindhoven,EIN,Netherlands (the),NL,NLD
+988,Groningen - Eelde,GRQ,Netherlands (the),NL,NLD
+989,Lelystad,LEY,Netherlands (the),NL,NLD
+990,Maastricht/Aachen,MST,Netherlands (the),NL,NLD
+991,Rotterdam,RTM,Netherlands (the),NL,NLD
+992,Uden - Volkel Airport,UDE,Netherlands (the),NL,NLD
+993,Ile des Pins,ILP,New Caledonia,NC,NCL
+994,Ile Ouen,IOU,New Caledonia,NC,NCL
+995,Mare,MEE,New Caledonia,NC,NCL
+996,Noumea,NOU,New Caledonia,NC,NCL
+997,Touho,TOU,New Caledonia,NC,NCL
+998,Auckland - Auckland International Airport,AKL,New Zealand,NZ,NZL
+999,Blenheim,BHE,New Zealand,NZ,NZL
+1000,Christchurch,CHC,New Zealand,NZ,NZL
+1001,Dunedin,DUD,New Zealand,NZ,NZL
+1002,Hamilton,HLZ,New Zealand,NZ,NZL
+1003,Incercargill,IVC,New Zealand,NZ,NZL
+1004,Invercargill,IVC,New Zealand,NZ,NZL
+1005,Milford Sound,MFN,New Zealand,NZ,NZL
+1006,Mount Cook,GTN,New Zealand,NZ,NZL
+1007,Nelson,NSN,New Zealand,NZ,NZL
+1008,Palmerston North,PMR,New Zealand,NZ,NZL
+1009,Queenstown,ZQN,New Zealand,NZ,NZL
+1010,Rotorua,ROT,New Zealand,NZ,NZL
+1011,Te Anau,TEU,New Zealand,NZ,NZL
+1012,Wellington,WLG,New Zealand,NZ,NZL
+1013,Whakatane,WHK,New Zealand,NZ,NZL
+1014,Whangarei,WRE,New Zealand,NZ,NZL
+1015,Managua - Augusto C Sandino,MGA,Nicaragua,NI,NIC
+1016,Agades,AJY,Niger (the),NE,NER
+1017,Arlit,RLT,Niger (the),NE,NER
+1018,Maradi,MFQ,Niger (the),NE,NER
+1019,Niamey,NIM,Niger (the),NE,NER
+1020,Zinder,ZND,Niger (the),NE,NER
+1021,Abuja - Nnamdi Azikiwe International Airport,ABV,Nigeria,NG,NGA
+1022,Agades,AJY,Nigeria,NG,NGA
+1023,Arlit,RLT,Nigeria,NG,NGA
+1024,Jos,JOS,Nigeria,NG,NGA
+1025,Kano,KAN,Nigeria,NG,NGA
+1026,Lagos - Murtala Muhammed Airport,LOS,Nigeria,NG,NGA
+1027,Maradi,MFQ,Nigeria,NG,NGA
+1028,Niamey,NIM,Nigeria,NG,NGA
+1029,Port Harcourt,PHC,Nigeria,NG,NGA
+1030,Zinder,ZND,Nigeria,NG,NGA
+1031,Saipan,SPN,Northern Mariana Islands (the),MP,MNP
+1032,Alesund,AES,Norway,NO,NOR
+1033,Alta,ALF,Norway,NO,NOR
+1034,Bardufoss,BDU,Norway,NO,NOR
+1035,Bergen,BGO,Norway,NO,NOR
+1036,Bodo,BOO,Norway,NO,NOR
+1037,Broennoeysund,BNN,Norway,NO,NOR
+1038,Evenes,EVE,Norway,NO,NOR
+1039,Floro,FRO,Norway,NO,NOR
+1040,Hammerfest,HFT,Norway,NO,NOR
+1041,Haugesund,HAU,Norway,NO,NOR
+1042,Kirkenes,KKN,Norway,NO,NOR
+1043,Kristiansand,KRS,Norway,NO,NOR
+1044,Kristiansund,KSU,Norway,NO,NOR
+1045,Lakselv,LKL,Norway,NO,NOR
+1046,Oslo - Fornebu,FBU,Norway,NO,NOR
+1047,"Oslo - Oslo Airport, Gardermoen",OSL,Norway,NO,NOR
+1048,Oslo - Sandefjord,TRF,Norway,NO,NOR
+1049,Sogndal,SOG,Norway,NO,NOR
+1050,Stavanger,SVG,Norway,NO,NOR
+1051,Tromsoe,TOS,Norway,NO,NOR
+1052,Trondheim,TRD,Norway,NO,NOR
+1053,Muscat - Seeb,MCT,Oman,OM,OMN
+1054,Salalah,SLL,Oman,OM,OMN
+1055,Bahawalpur,BHV,Pakistan,PK,PAK
+1056,Bannu,BNP,Pakistan,PK,PAK
+1057,Chitral,CJL,Pakistan,PK,PAK
+1058,Dera Ismail Khan - Dera Ismail Khan Airport,DSK,Pakistan,PK,PAK
+1059,Faisalabad,LYP,Pakistan,PK,PAK
+1060,Gilgit,GIL,Pakistan,PK,PAK
+1061,Gwadar,GWD,Pakistan,PK,PAK
+1062,Hyderabad,HDD,Pakistan,PK,PAK
+1063,Islamabad - Benazir Bhutto International Airport,ISB,Pakistan,PK,PAK
+1064,Jacobabad,JAG,Pakistan,PK,PAK
+1065,Jiwani,JIW,Pakistan,PK,PAK
+1066,Karachi - Jinnah International Airport,KHI,Pakistan,PK,PAK
+1067,Khuzdar,KDD,Pakistan,PK,PAK
+1068,Kohat,OHT,Pakistan,PK,PAK
+1069,Lahore,LHE,Pakistan,PK,PAK
+1070,Mianwali,MWD,Pakistan,PK,PAK
+1071,Mirpur,QML,Pakistan,PK,PAK
+1072,Moenjodaro,MJD,Pakistan,PK,PAK
+1073,Multan,MUX,Pakistan,PK,PAK
+1074,Muzaffarabad,MFG,Pakistan,PK,PAK
+1075,Nawab Shah,WNS,Pakistan,PK,PAK
+1076,Panjgur,PJG,Pakistan,PK,PAK
+1077,Pasni,PSI,Pakistan,PK,PAK
+1078,Peshawar,PEW,Pakistan,PK,PAK
+1079,Quetta,UET,Pakistan,PK,PAK
+1080,Rahim Yar Khan - Shaikh Zayed International Airport,RYK,Pakistan,PK,PAK
+1081,Rawala Kot,RAZ,Pakistan,PK,PAK
+1082,Rawalpindi,RWP,Pakistan,PK,PAK
+1083,Saidu Sharif,SDT,Pakistan,PK,PAK
+1084,Sindhri,MPD,Pakistan,PK,PAK
+1085,Skardu,KDU,Pakistan,PK,PAK
+1086,Sui,SUL,Pakistan,PK,PAK
+1087,Sukkur,SKZ,Pakistan,PK,PAK
+1088,Turbat,TUK,Pakistan,PK,PAK
+1089,Zhob,PZH,Pakistan,PK,PAK
+1090,Jaque,JQE,Panama,PA,PAN
+1091,Panama City - Tocumen International,PTY,Panama,PA,PAN
+1092,Aiyura,AYU,Papua New Guinea,PG,PNG
+1093,Amazon Bay,AZB,Papua New Guinea,PG,PNG
+1094,Conakry - Conakry International Airport,CKY,Papua New Guinea,PG,PNG
+1095,Jacquinot Bay,JAQ,Papua New Guinea,PG,PNG
+1096,Labe,LEK,Papua New Guinea,PG,PNG
+1097,Lae - Lae Nadzab Airport,LAE,Papua New Guinea,PG,PNG
+1098,Manguna,MFO,Papua New Guinea,PG,PNG
+1099,Port Moresby - Jackson Field,POM,Papua New Guinea,PG,PNG
+1100,Asuncion - Asunción International Airport,ASU,Paraguay,PY,PRY
+1101,Iquitos,IQT,Peru,PE,PER
+1102,Jauja,JAU,Peru,PE,PER
+1103,Juanjui,JJI,Peru,PE,PER
+1104,Juliaca,JUL,Peru,PE,PER
+1105,Lima - J Chavez International,LIM,Peru,PE,PER
+1106,Cebu City - Mactan-Cebu International,CEB,Philippines (the),PH,PHL
+1107,Cuyo,CYU,Philippines (the),PH,PHL
+1108,Jolo,JOL,Philippines (the),PH,PHL
+1109,Mactan Island - Nab,NOP,Philippines (the),PH,PHL
+1110,Manila - Ninoy Aquino International,MNL,Philippines (the),PH,PHL
+1111,Gdansk,GDN,Poland,PL,POL
+1112,Krakow (Cracow) - John Paul II International Airport,KRK,Poland,PL,POL
+1113,"Poznan, Lawica",POZ,Poland,PL,POL
+1114,Stettin,SZZ,Poland,PL,POL
+1115,Warsaw - Frédéric Chopin,WAW,Poland,PL,POL
+1116,Faro,FAO,Portugal,PT,PRT
+1117,Funchal,FNC,Portugal,PT,PRT
+1118,Horta,HOR,Portugal,PT,PRT
+1119,Lisbon - Lisboa,LIS,Portugal,PT,PRT
+1120,Ponta Delgada,PDL,Portugal,PT,PRT
+1121,Porto,OPO,Portugal,PT,PRT
+1122,Porto Santo,PXO,Portugal,PT,PRT
+1123,Santa Maria,SMA,Portugal,PT,PRT
+1124,Terceira,TER,Portugal,PT,PRT
+1125,Aguadilla,BQN,Puerto Rico,PR,PRI
+1126,Mayaguez,MAZ,Puerto Rico,PR,PRI
+1127,Ponce,PSE,Puerto Rico,PR,PRI
+1128,San Juan - Luis Munoz Marin International Airport,SJU,Puerto Rico,PR,PRI
+1129,Doha - Doha International Airport,DOH,Qatar,QA,QAT
+1130,Ohrid,OHD,Republic of North Macedonia,MK,MKD
+1131,Skopje,SKP,Republic of North Macedonia,MK,MKD
+1132,Bucharest,BUH,Romania,RO,ROU
+1133,Bucharest - Henri Coandă International Airport,OTP,Romania,RO,ROU
+1134,Constanta (Constanța) - Constanta Int'l Airport,CND,Romania,RO,ROU
+1135,Adler/Sochi,AER,Russian Federation (the),RU,RUS
+1136,Arkhangelsk,ARH,Russian Federation (the),RU,RUS
+1137,Chabarovsk (Khabarovsk),KHV,Russian Federation (the),RU,RUS
+1138,Chita (Tschita),HTA,Russian Federation (the),RU,RUS
+1139,Irkutsk,IKT,Russian Federation (the),RU,RUS
+1140,Kaliningrad,KGD,Russian Federation (the),RU,RUS
+1141,Kazan - Kazan International Airport,KZN,Russian Federation (the),RU,RUS
+1142,Mineralnye Vody,MRV,Russian Federation (the),RU,RUS
+1143,Moscow - Domodedovo,DME,Russian Federation (the),RU,RUS
+1144,Moscow - Metropolitan Area,MOW,Russian Federation (the),RU,RUS
+1145,Moscow - Sheremetyevo,SVO,Russian Federation (the),RU,RUS
+1146,Moscow - Vnukovo,VKO,Russian Federation (the),RU,RUS
+1147,Murmansk,MMK,Russian Federation (the),RU,RUS
+1148,Nizhny Novgorod - Strigino International Airport,GOJ,Russian Federation (the),RU,RUS
+1149,Novosibirsk - Tolmachevo Airport,OVB,Russian Federation (the),RU,RUS
+1150,Rostov-on-Don - Platov International Airport,ROV,Russian Federation (the),RU,RUS
+1151,Rostov-on-Don - Rostov-on-Don Airport,RVI,Russian Federation (the),RU,RUS
+1152,Samara - Kurumoch International Airport,KUF,Russian Federation (the),RU,RUS
+1153,Saransk - Saransk Airport,SKX,Russian Federation (the),RU,RUS
+1154,St. Petersburg (Leningrad) - Pulkovo,LED,Russian Federation (the),RU,RUS
+1155,Ufa,UFA,Russian Federation (the),RU,RUS
+1156,Ukhta,UCT,Russian Federation (the),RU,RUS
+1157,Ulan-Ude,UUD,Russian Federation (the),RU,RUS
+1158,Velikiye Luki (Welikije Luki),VLU,Russian Federation (the),RU,RUS
+1159,Yakutsk,YKS,Russian Federation (the),RU,RUS
+1160,Yekaterinburg - Koltsovo Airport,SVX,Russian Federation (the),RU,RUS
+1161,Kigali - Gregoire Kayibanda,KGL,Rwanda,RW,RWA
+1162,Basseterre - Robert L. Bradshaw International Airport,SKB,Saint Kitts and Nevis,KN,KNA
+1163,Castries - George F. L. Charles Airport,SLU,Saint Lucia,LC,LCA
+1164,St. Lucia Hewanorra,UVF,Saint Lucia,LC,LCA
+1165,St. Lucia Vigle,SLU,Saint Lucia,LC,LCA
+1166,Kingstown - E. T. Joshua Airport,SVD,Saint Vincent and the Grenadines,VC,VCT
+1167,St. Vincent,SVD,Saint Vincent and the Grenadines,VC,VCT
+1168,Union Island,UNI,Saint Vincent and the Grenadines,VC,VCT
+1169,Apia - Faleolo International Airport,APW,Samoa,WS,WSM
+1170,Dhahran,DHA,Saudi Arabia,SA,SAU
+1171,Jeddah - King Abdulaziz International,JED,Saudi Arabia,SA,SAU
+1172,Jouf,AJF,Saudi Arabia,SA,SAU
+1173,Khamis Mushayat,AHB,Saudi Arabia,SA,SAU
+1174,Madinah (Medina) - Mohammad Bin Abdulaziz,MED,Saudi Arabia,SA,SAU
+1175,Medina,MED,Saudi Arabia,SA,SAU
+1176,Riyadh - King Khaled International,RUH,Saudi Arabia,SA,SAU
+1177,Tabuk,TUU,Saudi Arabia,SA,SAU
+1178,Taif,TIF,Saudi Arabia,SA,SAU
+1179,Yanbu,YNB,Saudi Arabia,SA,SAU
+1180,Dakar - Léopold Sédar Senghor International Airport,DKR,Senegal,SN,SEN
+1181,Belgrad (Beograd) - Belgrade Nikola Tesla International,BEG,Serbia,RS,SRB
+1182,Nis,INI,Serbia,RS,SRB
+1183,Novi Sad,QND,Serbia,RS,SRB
+1184,Pristina,PRN,Serbia,RS,SRB
+1185,Mahe - Seychelles International,SEZ,Seychelles,SC,SYC
+1186,Freetown - Freetown-Lungi International Airport,FNA,Sierra Leone,SL,SLE
+1187,Singapore - Changi,SIN,Singapore,SG,SGP
+1188,Singapore - Paya Lebar,QPG,Singapore,SG,SGP
+1189,Singapore - Seletar,XSP,Singapore,SG,SGP
+1190,Bratislava - M. R. Štefánik Airport,BTS,Slovakia,SK,SVK
+1191,Ljubljana - Brnik,LJU,Slovenia,SI,SVN
+1192,Maribor,MBX,Slovenia,SI,SVN
+1193,Guadalcanal,GSI,Solomon Islands,SB,SLB
+1194,Honiara Henderson International,HIR,Solomon Islands,SB,SLB
+1195,Mogadishu,MGQ,Somalia,SO,SOM
+1196,Aggeneys,AGZ,South Africa,ZA,ZAF
+1197,Alexander Bay - Kortdoorn,ALJ,South Africa,ZA,ZAF
+1198,Alldays,ADY,South Africa,ZA,ZAF
+1199,Bloemfontein - Bloemfontein Airport,BFN,South Africa,ZA,ZAF
+1200,Cape Town - Cape Town International Airport,CPT,South Africa,ZA,ZAF
+1201,Durban,DUR,South Africa,ZA,ZAF
+1202,East London,ELS,South Africa,ZA,ZAF
+1203,Ellisras,ELL,South Africa,ZA,ZAF
+1204,George,GRJ,South Africa,ZA,ZAF
+1205,Johannesburg - OR Tambo International Airport,JNB,South Africa,ZA,ZAF
+1206,Kimberley,KIM,South Africa,ZA,ZAF
+1207,Kleinsee,KLZ,South Africa,ZA,ZAF
+1208,Lanseria,HLA,South Africa,ZA,ZAF
+1209,Lusisiki,LUJ,South Africa,ZA,ZAF
+1210,Margate,MGH,South Africa,ZA,ZAF
+1211,Messina,MEZ,South Africa,ZA,ZAF
+1212,Mkambati,MBM,South Africa,ZA,ZAF
+1213,Mossel Bay,MZY,South Africa,ZA,ZAF
+1214,Mzamba,MZF,South Africa,ZA,ZAF
+1215,Nelspruit,NLP,South Africa,ZA,ZAF
+1216,Nelspruit - Kruger Mpumalanga International Airport,MQP,South Africa,ZA,ZAF
+1217,Newcastle,NCS,South Africa,ZA,ZAF
+1218,Oudtshoorn,OUH,South Africa,ZA,ZAF
+1219,Phalaborwa,PHW,South Africa,ZA,ZAF
+1220,Pietermaritzburg,PZB,South Africa,ZA,ZAF
+1221,Pietersburg,PTG,South Africa,ZA,ZAF
+1222,Pilanesberg/Sun City,NTY,South Africa,ZA,ZAF
+1223,Plettenberg Bay,PBZ,South Africa,ZA,ZAF
+1224,Port Elizabeth,PLZ,South Africa,ZA,ZAF
+1225,Pretoria - Wonderboom Apt.,PRY,South Africa,ZA,ZAF
+1226,Richards Bay,RCB,South Africa,ZA,ZAF
+1227,Sishen,SIS,South Africa,ZA,ZAF
+1228,Skukuza,SZK,South Africa,ZA,ZAF
+1229,Springbok,SBU,South Africa,ZA,ZAF
+1230,Thaba'Nchu,TCU,South Africa,ZA,ZAF
+1231,Ulundi,ULD,South Africa,ZA,ZAF
+1232,Umtata,UTT,South Africa,ZA,ZAF
+1233,Upington,UTN,South Africa,ZA,ZAF
+1234,Vryheid,VYD,South Africa,ZA,ZAF
+1235,Walvis Bay,WVB,South Africa,ZA,ZAF
+1236,Welkom,WEL,South Africa,ZA,ZAF
+1237,Tbilisi - Novo Alexeyevka,TBS,South Georgia and the South Sandwich Islands,GS,SGS
+1238,Juba,JUB,South Sudan,SS,SSD
+1239,Kassala,KSL,South Sudan,SS,SSD
+1240,Khartoum - Khartoum International Airport,KRT,South Sudan,SS,SSD
+1241,Alicante,ALC,Spain,ES,ESP
+1242,Almeria,LEI,Spain,ES,ESP
+1243,Arrecife/Lanzarote,ACE,Spain,ES,ESP
+1244,Badajoz,BJZ,Spain,ES,ESP
+1245,Barcelona,BCN,Spain,ES,ESP
+1246,Bilbao,BIO,Spain,ES,ESP
+1247,Cordoba,ODB,Spain,ES,ESP
+1248,Fuerteventura,FUE,Spain,ES,ESP
+1249,Gerona,GRO,Spain,ES,ESP
+1250,Granada,GRX,Spain,ES,ESP
+1251,Jerez de la Frontera/Cadiz - La Parra,XRY,Spain,ES,ESP
+1252,La Coruna,LCG,Spain,ES,ESP
+1253,Las Palmas,LPA,Spain,ES,ESP
+1254,Madrid - Barajas Airport,MAD,Spain,ES,ESP
+1255,Mahon,MAH,Spain,ES,ESP
+1256,Malaga,AGP,Spain,ES,ESP
+1257,Murcia,MJV,Spain,ES,ESP
+1258,Oviedo,OVD,Spain,ES,ESP
+1259,Palma de Mallorca,PMI,Spain,ES,ESP
+1260,Reus,REU,Spain,ES,ESP
+1261,San Sebastian,EAS,Spain,ES,ESP
+1262,Santa Cruz de la Palma,SPC,Spain,ES,ESP
+1263,Santander,SDR,Spain,ES,ESP
+1264,Santiago de Compostela,SCQ,Spain,ES,ESP
+1265,Sevilla,SVQ,Spain,ES,ESP
+1266,Tenerife,TCI,Spain,ES,ESP
+1267,Tenerife - Norte Los Rodeos,TFN,Spain,ES,ESP
+1268,Tenerife - Sur Reina Sofia,TFS,Spain,ES,ESP
+1269,Valencia,VLC,Spain,ES,ESP
+1270,Valladolid,VLL,Spain,ES,ESP
+1271,Valverde,VDE,Spain,ES,ESP
+1272,Vigo,VGO,Spain,ES,ESP
+1273,Vitoria,VIT,Spain,ES,ESP
+1274,Zaragoza,ZAZ,Spain,ES,ESP
+1275,Colombo - Bandaranaike International Airport,CMB,Sri Lanka,LK,LKA
+1276,Jaffna - Kankesanturai,JAF,Sri Lanka,LK,LKA
+1277,Kassala,KSL,Sudan (the),SD,SDN
+1278,Khartoum - Khartoum International Airport,KRT,Sudan (the),SD,SDN
+1279,Paramaribo - Zanderij International,PBM,Suriname,SR,SUR
+1280,Gothenburg (Göteborg) - Landvetter,GOT,Sweden,SE,SWE
+1281,Helsingborg,JHE,Sweden,SE,SWE
+1282,Jönköping (Jonkoping) - Axamo Airport,JKG,Sweden,SE,SWE
+1283,Kalmar,KLR,Sweden,SE,SWE
+1284,Karlstad,KSD,Sweden,SE,SWE
+1285,Kiruna,KRN,Sweden,SE,SWE
+1286,Kristianstad,KID,Sweden,SE,SWE
+1287,Lidkoeping,LDK,Sweden,SE,SWE
+1288,Lulea,LLA,Sweden,SE,SWE
+1289,Malmo (Malmö) - Malmö Airport,MMX,Sweden,SE,SWE
+1290,Malmo (Malmoe),MMA,Sweden,SE,SWE
+1291,Norrkoeping,NRK,Sweden,SE,SWE
+1292,Oerebro,ORB,Sweden,SE,SWE
+1293,Ronneby,RNB,Sweden,SE,SWE
+1294,Stockholm - Arlanda,ARN,Sweden,SE,SWE
+1295,Stockholm - Bromma,BMA,Sweden,SE,SWE
+1296,Stockholm Metropolitan Area,STO,Sweden,SE,SWE
+1297,Sundsvall,SDL,Sweden,SE,SWE
+1298,Umea,UME,Sweden,SE,SWE
+1299,Vaexjoe,VXO,Sweden,SE,SWE
+1300,Vasteras,VST,Sweden,SE,SWE
+1301,Visby,VBY,Sweden,SE,SWE
+1302,Altenrhein,ACH,Switzerland,CH,CHE
+1303,Basel,BSL,Switzerland,CH,CHE
+1304,"Berne, Bern-Belp",BRN,Switzerland,CH,CHE
+1305,"Berne, Railway Service",ZDJ,Switzerland,CH,CHE
+1306,Geneva - Geneva-Cointrin International Airport,GVA,Switzerland,CH,CHE
+1307,Lugano,LUG,Switzerland,CH,CHE
+1308,Zurich (Zürich) - Kloten,ZRH,Switzerland,CH,CHE
+1309,Aleppo,ALP,Syrian Arab Republic,SY,SYR
+1310,"Damascus, International",DAM,Syrian Arab Republic,SY,SYR
+1311,Beijing,PEK,Taiwan (Province of China),TW,TWN
+1312,Beijing - Nanyuan Airport,NAY,Taiwan (Province of China),TW,TWN
+1313,Kaohsiung International,KHH,Taiwan (Province of China),TW,TWN
+1314,Makung,MZG,Taiwan (Province of China),TW,TWN
+1315,Shanghai - Hongqiao,SHA,Taiwan (Province of China),TW,TWN
+1316,Shanghai - Pu Dong,PVG,Taiwan (Province of China),TW,TWN
+1317,Taipei - Chiang Kai Shek,TPE,Taiwan (Province of China),TW,TWN
+1318,Taipei - Sung Shan,TAY,Taiwan (Province of China),TW,TWN
+1319,Tianjin,TSN,Taiwan (Province of China),TW,TWN
+1320,Dushanbe (Duschanbe) - Dushanbe Airport,DYU,Tajikistan,TJ,TJK
+1321,Arusha,ARK,"Tanzania, United Republic of",TZ,TZA
+1322,Dar es Salam (Daressalam) - Julius Nyerere Int'l,DAR,"Tanzania, United Republic of",TZ,TZA
+1323,Dodoma - Dodoma Airport,DOD,"Tanzania, United Republic of",TZ,TZA
+1324,Kilimadjaro,JRO,"Tanzania, United Republic of",TZ,TZA
+1325,"Bangkok, Don Muang",DMK,Thailand,TH,THA
+1326,"Bangkok, Suvarnabhumi International",BKK,Thailand,TH,THA
+1327,Chiang Mai - Chiang Mai International Airport,CNX,Thailand,TH,THA
+1328,Hatyai (Hat Yai),HDY,Thailand,TH,THA
+1329,Nakhon Si Thammarat,NST,Thailand,TH,THA
+1330,Pattaya,PYX,Thailand,TH,THA
+1331,Phuket,HKT,Thailand,TH,THA
+1332,Ubon Ratchathani - Muang Ubon Airport,UBP,Thailand,TH,THA
+1333,Udon Thani,UTH,Thailand,TH,THA
+1334,Utapao (Pattaya),UTP,Thailand,TH,THA
+1335,Lome,LFW,Togo,TG,TGO
+1336,Nuku'alofa - Fua'Amotu International,TBU,Tonga,TO,TON
+1337,Port of Spain - Piarco International,POS,Trinidad and Tobago,TT,TTO
+1338,Scarborough - Crown Point International,TAB,Trinidad and Tobago,TT,TTO
+1339,Tobago,TAB,Trinidad and Tobago,TT,TTO
+1340,Djerba,DJE,Tunisia,TN,TUN
+1341,Monastir,MIR,Tunisia,TN,TUN
+1342,Sfax,SFA,Tunisia,TN,TUN
+1343,Tunis - Carthage,TUN,Tunisia,TN,TUN
+1344,Adana,ADA,Turkey,TR,TUR
+1345,Adiyaman,ADF,Turkey,TR,TUR
+1346,Ankara,ANK,Turkey,TR,TUR
+1347,Ankara - Esenboğa International Airport,ESB,Turkey,TR,TUR
+1348,Antalya,AYT,Turkey,TR,TUR
+1349,Bodrum - Milas Airport,BJV,Turkey,TR,TUR
+1350,Dalaman,DLM,Turkey,TR,TUR
+1351,Denizli,DNZ,Turkey,TR,TUR
+1352,Erzincan,ERC,Turkey,TR,TUR
+1353,Erzurum,ERZ,Turkey,TR,TUR
+1354,Gaziantep,GZT,Turkey,TR,TUR
+1355,Istanbul - Istanbul Atatürk Airport,IST,Turkey,TR,TUR
+1356,Istanbul - Sabiha Gokcen,SAW,Turkey,TR,TUR
+1357,Izmir,IZM,Turkey,TR,TUR
+1358,Izmir - Adnan Menderes Airport,ADB,Turkey,TR,TUR
+1359,Kahramanmaras,KCM,Turkey,TR,TUR
+1360,Kars,KYS,Turkey,TR,TUR
+1361,Kayseri,ASR,Turkey,TR,TUR
+1362,Konya,KYA,Turkey,TR,TUR
+1363,Malatya,MLX,Turkey,TR,TUR
+1364,Maras,KCM,Turkey,TR,TUR
+1365,Mardin,MQM,Turkey,TR,TUR
+1366,Mus,MSR,Turkey,TR,TUR
+1367,Samsun,SZF,Turkey,TR,TUR
+1368,Sivas,VAS,Turkey,TR,TUR
+1369,Tekirdag - Corlu,TEQ,Turkey,TR,TUR
+1370,Trabzon,TZX,Turkey,TR,TUR
+1371,Van - Ferit Melen,VAN,Turkey,TR,TUR
+1372,Ashgabat - Saparmurat Turkmenbashy Int. Airport,ASB,Turkmenistan,TM,TKM
+1373,Entebbe - Entebbe International Airport,EBB,Uganda,UG,UGA
+1374,Gulu,ULU,Uganda,UG,UGA
+1375,Jinja,JIN,Uganda,UG,UGA
+1376,Kharkov,HRK,Ukraine,UA,UKR
+1377,Kiev - Borispol,KBP,Ukraine,UA,UKR
+1378,Kiev - Zhulhany,IEV,Ukraine,UA,UKR
+1379,"Lvov (Lwow, Lemberg)",LWO,Ukraine,UA,UKR
+1380,Nikolaev,NLV,Ukraine,UA,UKR
+1381,Odessa,ODS,Ukraine,UA,UKR
+1382,Simferopol,SIP,Ukraine,UA,UKR
+1383,Uzhgorod,UDJ,Ukraine,UA,UKR
+1384,Abu Dhabi - Abu Dhabi International,AUH,United Arab Emirates (the),AE,ARE
+1385,Al Ain,AAN,United Arab Emirates (the),AE,ARE
+1386,Alfujairah (Fujairah),FJR,United Arab Emirates (the),AE,ARE
+1387,Dubai - Dubai International Airport,DXB,United Arab Emirates (the),AE,ARE
+1388,"Fujairah, International Airport",FJR,United Arab Emirates (the),AE,ARE
+1389,Ras al Khaymah (Ras al Khaimah),RKT,United Arab Emirates (the),AE,ARE
+1390,Sharjah,SHJ,United Arab Emirates (the),AE,ARE
+1391,Aberdeen,ABZ,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1392,Barra (the famous tidal beach landing),BRR,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1393,Belfast - Belfast International Airport,BFS,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1394,Belfast - George Best Belfast City Airport,BHD,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1395,Benbecula,BEB,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1396,Birmingham - Birmingham International Airport,BHX,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1397,Blackpool,BLK,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1398,Bournemouth,BOH,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1399,Bristol,BRS,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1400,Cambrigde,CBG,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1401,Campbeltown,CAL,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1402,Cardiff - Cardiff Airport,CWL,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1403,Cork,ORK,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1404,Coventry - Baginton,CVT,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1405,Derry (Londonderry),LDY,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1406,"Doncaster/Sheffield, Robin Hood International Airport",DSA,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1407,Donegal (Carrickfin),CFN,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1408,Dublin - Dublin International Airport,DUB,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1409,Dundee,DND,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1410,Exeter,EXT,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1411,Fair Isle (Shetland),FIE,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1412,Foula (Shetland),FOU,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1413,Galway,GWY,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1414,Glasgow,GLA,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1415,"Glasgow, Prestwick",PIK,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1416,Humberside,HUY,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1417,Inverness,INV,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1418,Islay,ILY,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1419,Kent (Manston) Kent International,MSE,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1420,Kerry County,KIR,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1421,Kirkwall (Orkney),KOI,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1422,Knock,NOC,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1423,Land's End,LEQ,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1424,Leeds/Bradford,LBA,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1425,Lerwick/Tingwall (Shetland Islands),LWK,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1426,Liverpool,LPL,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1427,London - City Airport,LCY,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1428,London - Gatwick,LGW,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1429,London - Heathrow,LHR,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1430,London - Luton,LTN,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1431,London - Stansted,STN,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1432,London Metropolitan Area,LON,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1433,Londonderry - Eglinton,LDY,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1434,Lydd - Lydd International Airport,LYX,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1435,Manchester,MAN,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1436,Newcastle,NCL,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1437,Newquay,NQY,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1438,Norwich,NWI,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1439,Nottingham - East Midlands,EMA,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1440,Orkney - Kirkwall,KOI,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1441,Out Skerries (Shetland),OUK,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1442,Shannon (Limerick),SNN,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1443,"Sheffield, City Airport",SZD,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1444,"Sheffield, Doncaster, Robin Hood International Airport",DSA,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1445,Sligo,SXL,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1446,Southampton - Eastleigh,SOU,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1447,Southend (London),SEN,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1448,Stansted (London),STN,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1449,Stornway,SYY,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1450,Sumburgh (Shetland),LSI,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1451,"Teesside, Durham Tees Valley",MME,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1452,Unst (Shetland Island) - Baltasound Airport,UNT,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1453,Wick,WIC,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR
+1454,Aberdeen (SD),ABR,United States of America (the),US,USA
+1455,Abilene (TX),ABI,United States of America (the),US,USA
+1456,Akron (OH),CAK,United States of America (the),US,USA
+1457,Albany (GA),ABY,United States of America (the),US,USA
+1458,Albany (NY) - Albany International Airport,ALB,United States of America (the),US,USA
+1459,Albuquerque (NM),ABQ,United States of America (the),US,USA
+1460,Allentown (PA),ABE,United States of America (the),US,USA
+1461,Altoona (PA),AOO,United States of America (the),US,USA
+1462,Altus,AXS,United States of America (the),US,USA
+1463,Amarillo (TX),AMA,United States of America (the),US,USA
+1464,Anchorage (AK) - Ted Stevens Anchorage International,ANC,United States of America (the),US,USA
+1465,Ann Arbor (MI),ARB,United States of America (the),US,USA
+1466,Anniston (AL),ANB,United States of America (the),US,USA
+1467,Appelton/Neenah/Menasha (WI),ATW,United States of America (the),US,USA
+1468,Asheville (NC),AVL,United States of America (the),US,USA
+1469,"Aspen, (CO) - Aspen-Pitkin County Airport",ASE,United States of America (the),US,USA
+1470,Athens (GA),AHN,United States of America (the),US,USA
+1471,Athens (OH),ATO,United States of America (the),US,USA
+1472,Atlanta (GA) - Hartsfield Atlanta International Airport,ATL,United States of America (the),US,USA
+1473,Atlantic City (NJ) - Atlantic City International,ACY,United States of America (the),US,USA
+1474,Augusta (GA),AGS,United States of America (the),US,USA
+1475,Augusta (ME) - Augusta State Airport,AUG,United States of America (the),US,USA
+1476,Austin (TX) - Austin-Bergstrom Airport,AUS,United States of America (the),US,USA
+1477,Bakersfield (CA),BFL,United States of America (the),US,USA
+1478,Baltimore (MD) - Washington International Airport,BWI,United States of America (the),US,USA
+1479,Bangor (ME),BGR,United States of America (the),US,USA
+1480,Baton Rouge (LA) - Baton Rouge Metropolitan Airport,BTR,United States of America (the),US,USA
+1481,Beaumont/Pt. Arthur (TX),BPT,United States of America (the),US,USA
+1482,Beckley (WV),BKW,United States of America (the),US,USA
+1483,Bellingham (WA),BLI,United States of America (the),US,USA
+1484,Bemidji (MN),BJI,United States of America (the),US,USA
+1485,Benton Harbour (MI),BEH,United States of America (the),US,USA
+1486,Bethel (AK),BET,United States of America (the),US,USA
+1487,Billings (MT),BIL,United States of America (the),US,USA
+1488,Birmingham (AL),BHM,United States of America (the),US,USA
+1489,Bismarck (ND) - Bismarck Municipal Airport,BIS,United States of America (the),US,USA
+1490,Bloomington (IL),BMI,United States of America (the),US,USA
+1491,Bloomington (IN),BMG,United States of America (the),US,USA
+1492,Bluefield (WV),BLF,United States of America (the),US,USA
+1493,Boise (ID) - Boise Air Terminal,BOI,United States of America (the),US,USA
+1494,Borrego Springs (CA),BXS,United States of America (the),US,USA
+1495,Boston (MA) - General Edward Lawrence Logan,BOS,United States of America (the),US,USA
+1496,Bozeman (MT),BZN,United States of America (the),US,USA
+1497,Bradford/Warren (PA) /Olean (NY),BFD,United States of America (the),US,USA
+1498,Brainerd (MN),BRD,United States of America (the),US,USA
+1499,Bridgeport (CT),BDR,United States of America (the),US,USA
+1500,Brookings (SD),BKX,United States of America (the),US,USA
+1501,Brunswick (GA),BQK,United States of America (the),US,USA
+1502,Buffalo/Niagara Falls (NY),BUF,United States of America (the),US,USA
+1503,Bullhead City (NV),BHC,United States of America (the),US,USA
+1504,Burbank (CA),BUR,United States of America (the),US,USA
+1505,Burlington (VT),BTV,United States of America (the),US,USA
+1506,Burlington IA,BRL,United States of America (the),US,USA
+1507,Butte (MT),BTM,United States of America (the),US,USA
+1508,Carlsbad (CA),CLD,United States of America (the),US,USA
+1509,Carson City (NV),CSN,United States of America (the),US,USA
+1510,Casper (WY),CPR,United States of America (the),US,USA
+1511,Cedar City (UT),CDC,United States of America (the),US,USA
+1512,Cedar Rapids IA,CID,United States of America (the),US,USA
+1513,Champaign (IL),CMI,United States of America (the),US,USA
+1514,Charleston (SC),CHS,United States of America (the),US,USA
+1515,Charleston (WV) - Yeager Airport,CRW,United States of America (the),US,USA
+1516,Charlotte (NC),CLT,United States of America (the),US,USA
+1517,Charlottesville (VA),CHO,United States of America (the),US,USA
+1518,Chattanooga (TN),CHA,United States of America (the),US,USA
+1519,Cheyenne (WY) - Cheyenne Regional Airport,CYS,United States of America (the),US,USA
+1520,Chicago (IL),CHI,United States of America (the),US,USA
+1521,"Chicago (IL), Midway",MDW,United States of America (the),US,USA
+1522,"Chicago (IL), O'Hare International Airport",ORD,United States of America (the),US,USA
+1523,Chico (CA),CIC,United States of America (the),US,USA
+1524,Cincinnati (OH) - Cincinnati/Northern Kentucky Int'l,CVG,United States of America (the),US,USA
+1525,Clarksburg (WV),CKB,United States of America (the),US,USA
+1526,Cleveland (OH) - Cleveland Hopkins International,CLE,United States of America (the),US,USA
+1527,"Cleveland (OH) , Burke Lakefront",BKL,United States of America (the),US,USA
+1528,Cody/Powell/Yellowstone (WY),COD,United States of America (the),US,USA
+1529,Coffmann Cove (AK),KCC,United States of America (the),US,USA
+1530,College Station/Bryan (TX),CLL,United States of America (the),US,USA
+1531,Colorado Springs (CO),COS,United States of America (the),US,USA
+1532,Columbia (SC) - Columbia Metropolitan Airport,CAE,United States of America (the),US,USA
+1533,Columbus (GA),CSG,United States of America (the),US,USA
+1534,Columbus (OH) - Port Columbus International,CMH,United States of America (the),US,USA
+1535,Concord (CA) - Buchanan Field,CCR,United States of America (the),US,USA
+1536,Concord (NH) - Concord Municipal Airport,CON,United States of America (the),US,USA
+1537,Cordova (AK),CDV,United States of America (the),US,USA
+1538,Corpus Christi (TX),CRP,United States of America (the),US,USA
+1539,Craig (AK),CGA,United States of America (the),US,USA
+1540,Crescent City (CA),CEC,United States of America (the),US,USA
+1541,"Dallas (TX) , Love Field",DAL,United States of America (the),US,USA
+1542,Dallas/Ft. Worth (TX) - Dallas/Fort Worth International,DFW,United States of America (the),US,USA
+1543,Danville (VA),DAN,United States of America (the),US,USA
+1544,Dayton (OH),DAY,United States of America (the),US,USA
+1545,Daytona Beach (FL),DAB,United States of America (the),US,USA
+1546,Decatur (IL),DEC,United States of America (the),US,USA
+1547,Denver (CO) - Denver International Airport,DEN,United States of America (the),US,USA
+1548,Des Moines (IA) - Des Moines International Airport,DSM,United States of America (the),US,USA
+1549,"Detroit (MI) , Coleman A. Young Municipal",DET,United States of America (the),US,USA
+1550,"Detroit (MI) , Metropolitan Area",DTT,United States of America (the),US,USA
+1551,"Detroit (MI) , Wayne County Airport",DTW,United States of America (the),US,USA
+1552,Devils Lake (ND),DVL,United States of America (the),US,USA
+1553,Dillingham (AK),DLG,United States of America (the),US,USA
+1554,Dothan (AL),DHN,United States of America (the),US,USA
+1555,Dubois (PA),DUJ,United States of America (the),US,USA
+1556,Dubuque IA,DBQ,United States of America (the),US,USA
+1557,Duluth (MN) /Superior (WI),DLH,United States of America (the),US,USA
+1558,Durango (CO),DRO,United States of America (the),US,USA
+1559,Dutch Harbor (AK),DUT,United States of America (the),US,USA
+1560,Eau Clarie (WI),EAU,United States of America (the),US,USA
+1561,El Paso (TX) - El Paso International Airport,ELP,United States of America (the),US,USA
+1562,Elkhart (IN),EKI,United States of America (the),US,USA
+1563,Elko (NV),EKO,United States of America (the),US,USA
+1564,Elmira (NY),ELM,United States of America (the),US,USA
+1565,Ely (NV),ELY,United States of America (the),US,USA
+1566,Erie (PA),ERI,United States of America (the),US,USA
+1567,Escanaba (MI),ESC,United States of America (the),US,USA
+1568,Eugene (OR),EUG,United States of America (the),US,USA
+1569,Eureka (CA),ACV,United States of America (the),US,USA
+1570,Evansville (IN),EVV,United States of America (the),US,USA
+1571,Fairbanks (AK),FAI,United States of America (the),US,USA
+1572,Fargo (ND) (MN),FAR,United States of America (the),US,USA
+1573,Farmington (NM),FMN,United States of America (the),US,USA
+1574,Fayetteville (AR),FYV,United States of America (the),US,USA
+1575,Fayetteville/Ft. Bragg (NC),FAY,United States of America (the),US,USA
+1576,Flagstaff (AZ),FLG,United States of America (the),US,USA
+1577,Flint (MI),FNT,United States of America (the),US,USA
+1578,Florence (SC),FLO,United States of America (the),US,USA
+1579,Fort Dodge IA,FOD,United States of America (the),US,USA
+1580,Fort Huachuca/Sierra Vista (AZ),FHU,United States of America (the),US,USA
+1581,Fort Lauderdale/Hollywood (FL),FLL,United States of America (the),US,USA
+1582,"Fort Myers, Metropolitan Area (FL)",FMY,United States of America (the),US,USA
+1583,"Fort Myers, Southwest Florida Reg (FL)",RSW,United States of America (the),US,USA
+1584,Fort Riley (KS) - Marshall AAF,FRI,United States of America (the),US,USA
+1585,Fort Smith (AR),FSM,United States of America (the),US,USA
+1586,Fort Walton Beach (FL),VPS,United States of America (the),US,USA
+1587,Fort Wayne (IN),FWA,United States of America (the),US,USA
+1588,Fort Worth (TX) - Dallas/Fort Worth International Airport,DFW,United States of America (the),US,USA
+1589,Franklin/Oil City (PA),FKL,United States of America (the),US,USA
+1590,Fresno (CA),FAT,United States of America (the),US,USA
+1591,Gadsden (AL),GAD,United States of America (the),US,USA
+1592,Gainesville (FL),GNV,United States of America (the),US,USA
+1593,Gilette (WY),GCC,United States of America (the),US,USA
+1594,Glasgow (MT),GGW,United States of America (the),US,USA
+1595,Glendive (MT),GDV,United States of America (the),US,USA
+1596,Grand Canyon (AZ),GCN,United States of America (the),US,USA
+1597,Grand Forks (ND),GFK,United States of America (the),US,USA
+1598,Grand Junction (CO),GJT,United States of America (the),US,USA
+1599,Grand Rapids (MI),GRR,United States of America (the),US,USA
+1600,Grand Rapids (MN),GPZ,United States of America (the),US,USA
+1601,Great Falls (MT),GTF,United States of America (the),US,USA
+1602,Green Bay (WI),GRB,United States of America (the),US,USA
+1603,Greenbrier/Lewisburg (WV),LWB,United States of America (the),US,USA
+1604,Greensboro/Winston Salem (NC),GSO,United States of America (the),US,USA
+1605,Greenville (MS),GLH,United States of America (the),US,USA
+1606,Greenville (NC),PGV,United States of America (the),US,USA
+1607,Greenville/Spartanburg (SC),GSP,United States of America (the),US,USA
+1608,Groton/New London (CT),GON,United States of America (the),US,USA
+1609,Gulfport/Biloxi (MS),GPT,United States of America (the),US,USA
+1610,Gunnison/Crested Butte (CO),GUC,United States of America (the),US,USA
+1611,Haines (AK),HNS,United States of America (the),US,USA
+1612,Hancock (MI),CMX,United States of America (the),US,USA
+1613,Harlingen/South Padre Island (TX),HRL,United States of America (the),US,USA
+1614,Harrisburg (PA) - Harrisburg International,MDT,United States of America (the),US,USA
+1615,Harrisburg (PA) - Harrisburg Skyport,HAR,United States of America (the),US,USA
+1616,Hartford (CT) /Springfield (MA),BDL,United States of America (the),US,USA
+1617,Havre (MT),HVR,United States of America (the),US,USA
+1618,Helena (MT),HLN,United States of America (the),US,USA
+1619,Hibbing (MN),HIB,United States of America (the),US,USA
+1620,Hickory (NC),HKY,United States of America (the),US,USA
+1621,Hilo (HI),ITO,United States of America (the),US,USA
+1622,Hilton Head Island (SC),HHH,United States of America (the),US,USA
+1623,Homer (AK),HOM,United States of America (the),US,USA
+1624,Honolulu (HI) - Honolulu International Airport,HNL,United States of America (the),US,USA
+1625,Hoonah (AK),HNH,United States of America (the),US,USA
+1626,"Houston (TX) , Hobby",HOU,United States of America (the),US,USA
+1627,"Houston, TX - George Bush Intercontinental Airport",IAH,United States of America (the),US,USA
+1628,Huntington (WV),HTS,United States of America (the),US,USA
+1629,Huntsville (AL),HSV,United States of America (the),US,USA
+1630,Huron (SD),HON,United States of America (the),US,USA
+1631,Hyannis (MA),HYA,United States of America (the),US,USA
+1632,Hydaburg (AK),HYG,United States of America (the),US,USA
+1633,Idaho Falls (ID),IDA,United States of America (the),US,USA
+1634,Iliamna (AK),ILI,United States of America (the),US,USA
+1635,Imperial (CA),IPL,United States of America (the),US,USA
+1636,Indianapolis (IN) International,IND,United States of America (the),US,USA
+1637,International Falls (MN),INL,United States of America (the),US,USA
+1638,Inykern (CA),IYK,United States of America (the),US,USA
+1639,Ithaca/Cortland (NY),ITH,United States of America (the),US,USA
+1640,Jackson (MI) - Reynolds Municipal,JXN,United States of America (the),US,USA
+1641,Jackson (TN) - Mckellar,MKL,United States of America (the),US,USA
+1642,Jackson Hole (WY),JAC,United States of America (the),US,USA
+1643,Jackson Hole (WY),JAC,United States of America (the),US,USA
+1644,Jackson (MS) - Hawkins Field,HKS,United States of America (the),US,USA
+1645,Jackson (MS) - Jackson Internationall,JAN,United States of America (the),US,USA
+1646,"Jackson, MN",MJQ,United States of America (the),US,USA
+1647,Jacksonville (AR) Little Rock AFB,LRF,United States of America (the),US,USA
+1648,Jacksonville (IL) - Municipal Airport,IJX,United States of America (the),US,USA
+1649,Jacksonville (NC),OAJ,United States of America (the),US,USA
+1650,Jacksonville (TX),JKV,United States of America (the),US,USA
+1651,Jacksonville (FL) - Cecil Field NAS,NZC,United States of America (the),US,USA
+1652,Jacksonville (FL) - Craig Municipal,CRG,United States of America (the),US,USA
+1653,Jacksonville (FL) - International,JAX,United States of America (the),US,USA
+1654,Jacksonville (FL) Jacksonville NAS,NIP,United States of America (the),US,USA
+1655,Jamestown (ND),JMS,United States of America (the),US,USA
+1656,Jamestown (NY),JHW,United States of America (the),US,USA
+1657,Janesville (WI) - Rock County,JVL,United States of America (the),US,USA
+1658,Jefferson City (MO) - Jefferson Memorial,JEF,United States of America (the),US,USA
+1659,Johnson City (NY) - Binghamton/Endicott/Johnson,BGM,United States of America (the),US,USA
+1660,Johnston Island,JON,United States of America (the),US,USA
+1661,Johnstown (PA),JST,United States of America (the),US,USA
+1662,Jonesboro (AR) Jonesboro Airport,JBR,United States of America (the),US,USA
+1663,Joplin (MO),JLN,United States of America (the),US,USA
+1664,Juneau (AK) - Juneau International Airport,JNU,United States of America (the),US,USA
+1665,Kahului (HI),OGG,United States of America (the),US,USA
+1666,Kalamazoo/Battle Creek (MI),AZO,United States of America (the),US,USA
+1667,Kalispell (MT),FCA,United States of America (the),US,USA
+1668,Kamuela (HI),MUE,United States of America (the),US,USA
+1669,Kansas City (MO) - Kansas City International Airport,MCI,United States of America (the),US,USA
+1670,Kapalua West (HI),JHM,United States of America (the),US,USA
+1671,Kaunakakai (HI),MKK,United States of America (the),US,USA
+1672,Kenai (AK),ENA,United States of America (the),US,USA
+1673,Ketchikan (AK),KTN,United States of America (the),US,USA
+1674,Key West (FL),EYW,United States of America (the),US,USA
+1675,Killeem (TX),ILE,United States of America (the),US,USA
+1676,King Salomon (AK),AKN,United States of America (the),US,USA
+1677,Kingston (NC),ISO,United States of America (the),US,USA
+1678,Klamath Fall (OR),LMT,United States of America (the),US,USA
+1679,Klawock (AK),KLW,United States of America (the),US,USA
+1680,Knoxville (TN),TYS,United States of America (the),US,USA
+1681,Kodiak (AK),ADQ,United States of America (the),US,USA
+1682,Kona (HI),KOA,United States of America (the),US,USA
+1683,Kotzbue (AK),OTZ,United States of America (the),US,USA
+1684,La Crosse (WI),LSE,United States of America (the),US,USA
+1685,Labouchere Bay (AK),WLB,United States of America (the),US,USA
+1686,Lafayette (IN),LAF,United States of America (the),US,USA
+1687,"Lafayette, La",LFT,United States of America (the),US,USA
+1688,Lake Charles (LA),LCH,United States of America (the),US,USA
+1689,Lake Havasu City (AZ),HII,United States of America (the),US,USA
+1690,Lake Tahoe (CA),TVL,United States of America (the),US,USA
+1691,Lanai City (HI),LNY,United States of America (the),US,USA
+1692,Lancaster (PA),LNS,United States of America (the),US,USA
+1693,Lansing (MI),LAN,United States of America (the),US,USA
+1694,Laramie (WY),LAR,United States of America (the),US,USA
+1695,Laredo (TX),LRD,United States of America (the),US,USA
+1696,Las Vegas (NV),LAS,United States of America (the),US,USA
+1697,Latrobe (PA),LBE,United States of America (the),US,USA
+1698,Laurel/Hattisburg (MS),PIB,United States of America (the),US,USA
+1699,Lawton (OK),LAW,United States of America (the),US,USA
+1700,Lebanon (NH),LEB,United States of America (the),US,USA
+1701,Lewiston (ID),LWS,United States of America (the),US,USA
+1702,Lewistown (MT),LWT,United States of America (the),US,USA
+1703,Lexington (KY),LEX,United States of America (the),US,USA
+1704,Lihue (HI),LIH,United States of America (the),US,USA
+1705,Lincoln (NE),LNK,United States of America (the),US,USA
+1706,Little Rock (AR),LIT,United States of America (the),US,USA
+1707,Long Beach (CA),LGB,United States of America (the),US,USA
+1708,Long Island (AK),LIJ,United States of America (the),US,USA
+1709,"Long Island, Islip (NY) - Mac Arthur",ISP,United States of America (the),US,USA
+1710,Longview/Kilgore (TX),GGG,United States of America (the),US,USA
+1711,Los Angeles (CA) - International,LAX,United States of America (the),US,USA
+1712,Louisville (KY),SDF,United States of America (the),US,USA
+1713,Lubbock (TX),LBB,United States of America (the),US,USA
+1714,Lynchburg (VA),LYH,United States of America (the),US,USA
+1715,Lyons (KS) - Rice County Municipal,LYO,United States of America (the),US,USA
+1716,Macon (GA),MCN,United States of America (the),US,USA
+1717,Madison (WI) - Dane County Regional Airport,MSN,United States of America (the),US,USA
+1718,Manchester (NH),MHT,United States of America (the),US,USA
+1719,Marathon (FL),MTH,United States of America (the),US,USA
+1720,Marquette (MI),MQT,United States of America (the),US,USA
+1721,Martha's Vineyard (MA),MVY,United States of America (the),US,USA
+1722,Martinsburg (WV),MRB,United States of America (the),US,USA
+1723,Mason City IA,MCW,United States of America (the),US,USA
+1724,Mattoon (IL),MTO,United States of America (the),US,USA
+1725,McAllen (TX),MFE,United States of America (the),US,USA
+1726,Medford (OR),MFR,United States of America (the),US,USA
+1727,Melbourne (FL),MLB,United States of America (the),US,USA
+1728,Memphis (TN),MEM,United States of America (the),US,USA
+1729,Merced (CA),MCE,United States of America (the),US,USA
+1730,Meridian (MS),MEI,United States of America (the),US,USA
+1731,Metlakatla (AK),MTM,United States of America (the),US,USA
+1732,Miami (FL),MIA,United States of America (the),US,USA
+1733,Midland/Odessa (TX),MAF,United States of America (the),US,USA
+1734,Miles City (MT),MLS,United States of America (the),US,USA
+1735,Milwaukee (WI),MKE,United States of America (the),US,USA
+1736,Minneapolis - St. Paul International Airport (MN),MSP,United States of America (the),US,USA
+1737,Minot (ND),MOT,United States of America (the),US,USA
+1738,Missula (MT),MSO,United States of America (the),US,USA
+1739,Mitchell (SD),MHE,United States of America (the),US,USA
+1740,Mobile (AL) - Pascagoula (MS),MOB,United States of America (the),US,USA
+1741,Modesto (CA),MOD,United States of America (the),US,USA
+1742,Moline/Quad Cities (IL),MLI,United States of America (the),US,USA
+1743,Monroe (LA),MLU,United States of America (the),US,USA
+1744,Monterey (CA),MRY,United States of America (the),US,USA
+1745,Montgomery (AL) - Montgomery Regional Airport,MGM,United States of America (the),US,USA
+1746,Montrose/Tellruide (CO),MTJ,United States of America (the),US,USA
+1747,Morgantown (WV),MGW,United States of America (the),US,USA
+1748,Moses Lake (WA),MWH,United States of America (the),US,USA
+1749,Mt. McKinley (AK),MCL,United States of America (the),US,USA
+1750,Muscle Shoals (AL),MSL,United States of America (the),US,USA
+1751,Muskegon (MI),MKG,United States of America (the),US,USA
+1752,Myrtle Beach (SC) - Grand Strand Airport,CRE,United States of America (the),US,USA
+1753,Myrtle Beach (SC) - Myrtle Beach AFB,MYR,United States of America (the),US,USA
+1754,Nantucket (MA),ACK,United States of America (the),US,USA
+1755,Naples (FL),APF,United States of America (the),US,USA
+1756,Nashville (TN),BNA,United States of America (the),US,USA
+1757,New Bern (NC),EWN,United States of America (the),US,USA
+1758,New Haven (CT),HVN,United States of America (the),US,USA
+1759,"New Orleans, La",MSY,United States of America (the),US,USA
+1760,New York - John F. Kennedy (NY),JFK,United States of America (the),US,USA
+1761,New York - LaGuardia (NY),LGA,United States of America (the),US,USA
+1762,New York - Newark (NJ),EWR,United States of America (the),US,USA
+1763,New York (NY),NYC,United States of America (the),US,USA
+1764,Newburgh (NY),SWF,United States of America (the),US,USA
+1765,Newport News/Williamsburg (VA),PHF,United States of America (the),US,USA
+1766,Niagara Falls International,IAG,United States of America (the),US,USA
+1767,Nome (AK),OME,United States of America (the),US,USA
+1768,Norfolk/Virginia Beach (VA),ORF,United States of America (the),US,USA
+1769,North Bend (OR),OTH,United States of America (the),US,USA
+1770,Oakland (CA),OAK,United States of America (the),US,USA
+1771,Oklahoma City (OK) - Will Rogers World,OKC,United States of America (the),US,USA
+1772,Omaha (NE),OMA,United States of America (the),US,USA
+1773,Ontario (CA),ONT,United States of America (the),US,USA
+1774,Orange County (Santa Ana) (CA),SNA,United States of America (the),US,USA
+1775,Orlando - International Airport (FL),MCO,United States of America (the),US,USA
+1776,Orlando Metropolitan Area (FL),ORL,United States of America (the),US,USA
+1777,Oshkosh (WI),OSH,United States of America (the),US,USA
+1778,Owensboro (KY),OWB,United States of America (the),US,USA
+1779,Oxnard (CA),OXR,United States of America (the),US,USA
+1780,Paducah (KY),PAH,United States of America (the),US,USA
+1781,Page/Lake Powell (AZ),PGA,United States of America (the),US,USA
+1782,Pakersburg (WV) /Marietta (OH),PKB,United States of America (the),US,USA
+1783,Palm Springs (CA),PSP,United States of America (the),US,USA
+1784,Palmdale/Lancaster (CA),PMD,United States of America (the),US,USA
+1785,Panama City (FL),PFN,United States of America (the),US,USA
+1786,Pasco (WA),PSC,United States of America (the),US,USA
+1787,Pellston (MI),PLN,United States of America (the),US,USA
+1788,Pendelton (OR),PDT,United States of America (the),US,USA
+1789,Pensacola (FL),PNS,United States of America (the),US,USA
+1790,Peoria/Bloomington (IL),PIA,United States of America (the),US,USA
+1791,Petersburg (AK),PSG,United States of America (the),US,USA
+1792,Philadelphia (PA) - International,PHL,United States of America (the),US,USA
+1793,Phoenix (AZ) - Sky Harbor International,PHX,United States of America (the),US,USA
+1794,Pierre (SD),PIR,United States of America (the),US,USA
+1795,Pittsburgh International Airport (PA),PIT,United States of America (the),US,USA
+1796,Plattsburgh (NY),PLB,United States of America (the),US,USA
+1797,Pocatello (ID),PIH,United States of America (the),US,USA
+1798,Port Angeles (WA),CLM,United States of America (the),US,USA
+1799,Portland (ME),PWM,United States of America (the),US,USA
+1800,Portland International (OR),PDX,United States of America (the),US,USA
+1801,Poughkeepsie (NY),POU,United States of America (the),US,USA
+1802,Presque Island (ME),PQI,United States of America (the),US,USA
+1803,Providence (RI),PVD,United States of America (the),US,USA
+1804,Prudhoe Bay (AK),SCC,United States of America (the),US,USA
+1805,Pueblo (CO),PUB,United States of America (the),US,USA
+1806,Pullman (WA),PUW,United States of America (the),US,USA
+1807,Quincy (IL),UIN,United States of America (the),US,USA
+1808,Raleigh/Durham (NC),RDU,United States of America (the),US,USA
+1809,Rapid City (SD),RAP,United States of America (the),US,USA
+1810,Reading (PA),RDG,United States of America (the),US,USA
+1811,Redding (CA),RDD,United States of America (the),US,USA
+1812,Redmond (OR),RDM,United States of America (the),US,USA
+1813,Reno (NV),RNO,United States of America (the),US,USA
+1814,Rhinelander (WI),RHI,United States of America (the),US,USA
+1815,Richmond (VA),RIC,United States of America (the),US,USA
+1816,Roanoke (VA),ROA,United States of America (the),US,USA
+1817,Rochester (MN),RST,United States of America (the),US,USA
+1818,Rochester (NY),ROC,United States of America (the),US,USA
+1819,Rock Springs (WY),RKS,United States of America (the),US,USA
+1820,Rockford (IL),RFD,United States of America (the),US,USA
+1821,Rockland (ME),RKD,United States of America (the),US,USA
+1822,Rocky Mount - Wilson (NC),RWI,United States of America (the),US,USA
+1823,Sacramento (CA),SMF,United States of America (the),US,USA
+1824,Saginaw/Bay City/Midland (MI),MBS,United States of America (the),US,USA
+1825,Salem (OR),SLE,United States of America (the),US,USA
+1826,Salinas (CA),SNS,United States of America (the),US,USA
+1827,Salisbury (MD),SBY,United States of America (the),US,USA
+1828,Salt Lake City (UT),SLC,United States of America (the),US,USA
+1829,San Angelo (TX),SJT,United States of America (the),US,USA
+1830,San Antonio (TX),SAT,United States of America (the),US,USA
+1831,San Diego - Lindberg Field International (CA),SAN,United States of America (the),US,USA
+1832,"San Francisco - International Airport, SA",SFO,United States of America (the),US,USA
+1833,San Jose (CA),SJC,United States of America (the),US,USA
+1834,San Luis Obisco (CA),SBP,United States of America (the),US,USA
+1835,Santa Ana - John Wayne Airport (CA),SNA,United States of America (the),US,USA
+1836,Santa Barbara (CA),SBA,United States of America (the),US,USA
+1837,Santa Maria (CA),SMX,United States of America (the),US,USA
+1838,Santa Rosa (CA),STS,United States of America (the),US,USA
+1839,Sarasota/Bradenton (FL),SRQ,United States of America (the),US,USA
+1840,Savannah (GA),SAV,United States of America (the),US,USA
+1841,Scottsdale (AZ),SCF,United States of America (the),US,USA
+1842,Seattle/Tacoma (WA),SEA,United States of America (the),US,USA
+1843,Shenandoah Valley/Stauton (VA),SHD,United States of America (the),US,USA
+1844,Sheridan (WY),SHR,United States of America (the),US,USA
+1845,"Shreveport, La",SHV,United States of America (the),US,USA
+1846,Sidney (MT),SDY,United States of America (the),US,USA
+1847,Sioux City IA,SUX,United States of America (the),US,USA
+1848,Sioux Falls (SD),FSD,United States of America (the),US,USA
+1849,Sitka (AK),SIT,United States of America (the),US,USA
+1850,Skagway (AK),SGY,United States of America (the),US,USA
+1851,South Bend (IN),SBN,United States of America (the),US,USA
+1852,Spokane (WA),GEG,United States of America (the),US,USA
+1853,Springfield (MO),SGF,United States of America (the),US,USA
+1854,Springfield (IL),SPI,United States of America (the),US,USA
+1855,St. George (UT),SGU,United States of America (the),US,USA
+1856,St. Louis (MO) Lambert–St. Louis International Airport,STL,United States of America (the),US,USA
+1857,State College/Belefonte (PA),SCE,United States of America (the),US,USA
+1858,Steamboat Springs (CO),HDN,United States of America (the),US,USA
+1859,Stockton (CA),SCK,United States of America (the),US,USA
+1860,Sun Valley (ID),SUN,United States of America (the),US,USA
+1861,Syracuse (NY),SYR,United States of America (the),US,USA
+1862,Talkeetna (AK),TKA,United States of America (the),US,USA
+1863,Tallahassee (FL),TLH,United States of America (the),US,USA
+1864,Tampa - International (FL),TPA,United States of America (the),US,USA
+1865,Telluride (CO),TEX,United States of America (the),US,USA
+1866,Terre Haute (IN),HUF,United States of America (the),US,USA
+1867,Texarkana (AR),TXK,United States of America (the),US,USA
+1868,Thief River Falls (MN),TVF,United States of America (the),US,USA
+1869,Thorne Bay (AK),KTB,United States of America (the),US,USA
+1870,Toledo (OH),TOL,United States of America (the),US,USA
+1871,Traverse City (MI),TVC,United States of America (the),US,USA
+1872,Trenton/Princeton (NJ),TTN,United States of America (the),US,USA
+1873,Tri-Cities Regional (TN) /VA,TRI,United States of America (the),US,USA
+1874,Tucson (AZ),TUS,United States of America (the),US,USA
+1875,Tulepo (MS),TUP,United States of America (the),US,USA
+1876,Tulsa (OK),TUL,United States of America (the),US,USA
+1877,Tuscaloosa (AL),TCL,United States of America (the),US,USA
+1878,Twin Falls (ID),TWF,United States of America (the),US,USA
+1879,Tyler (TX),TYR,United States of America (the),US,USA
+1880,Ukiah (CA),UKI,United States of America (the),US,USA
+1881,Unalakleet (AK),UNK,United States of America (the),US,USA
+1882,Upolu Point (HI),UPP,United States of America (the),US,USA
+1883,Utica (NY) - Oneida County Airport,UCA,United States of America (the),US,USA
+1884,Vail (CO),EGE,United States of America (the),US,USA
+1885,Valdez (AK),VDZ,United States of America (the),US,USA
+1886,Valdosta (GA),VLD,United States of America (the),US,USA
+1887,Vernal (UT),VEL,United States of America (the),US,USA
+1888,Vero Beach/Ft. Pierce (FL),VRB,United States of America (the),US,USA
+1889,Visalia (CA),VIS,United States of America (the),US,USA
+1890,Waco (TX),ACT,United States of America (the),US,USA
+1891,Walla Walla (WA),ALW,United States of America (the),US,USA
+1892,Washington DC,WAS,United States of America (the),US,USA
+1893,Washington DC - Dulles International,IAD,United States of America (the),US,USA
+1894,Washington DC - Ronald Reagan National,DCA,United States of America (the),US,USA
+1895,Washington DC - Baltimore Washington International,BWI,United States of America (the),US,USA
+1896,Waterloo IA,ALO,United States of America (the),US,USA
+1897,Watertown (SD),ATY,United States of America (the),US,USA
+1898,Wausau/Stevens Point (WI),CWA,United States of America (the),US,USA
+1899,Wenatchee (WA),EAT,United States of America (the),US,USA
+1900,West Palm Beach (FL),PBI,United States of America (the),US,USA
+1901,West Yellowstone (MT),WYS,United States of America (the),US,USA
+1902,White Plains (NY),HPN,United States of America (the),US,USA
+1903,Wichita (KS),ICT,United States of America (the),US,USA
+1904,Wichita Falls (TX),SPS,United States of America (the),US,USA
+1905,Wilkes Barre/Scranton (PA),AVP,United States of America (the),US,USA
+1906,Williamsport (PA),IPT,United States of America (the),US,USA
+1907,Williston (ND),ISL,United States of America (the),US,USA
+1908,Wilmington (NC),ILM,United States of America (the),US,USA
+1909,Wolf Point (MT),OLF,United States of America (the),US,USA
+1910,Worcester (MA),ORH,United States of America (the),US,USA
+1911,Worland (WY),WRL,United States of America (the),US,USA
+1912,Wrangell (AK),WRG,United States of America (the),US,USA
+1913,Yakima (WA),YKM,United States of America (the),US,USA
+1914,Yakutat (AK),YAK,United States of America (the),US,USA
+1915,Yuma (AZ),YUM,United States of America (the),US,USA
+1916,Montevideo - Carrasco International Airport,MVD,Uruguay,UY,URY
+1917,Samarkand - Samarkand International Airport,SKD,Uzbekistan,UZ,UZB
+1918,Tashkent - International,TAS,Uzbekistan,UZ,UZB
+1919,Termez (Termes),TMZ,Uzbekistan,UZ,UZB
+1920,Urgench,UGC,Uzbekistan,UZ,UZB
+1921,Port Vila,VLI,Vanuatu,VU,VUT
+1922,Santo,SON,Vanuatu,VU,VUT
+1923,Ulei,ULB,Vanuatu,VU,VUT
+1924,Barcelona,BLA,Venezuela (Bolivarian Republic of),VE,VEN
+1925,Caracas - Simón Bolívar International Airport,CCS,Venezuela (Bolivarian Republic of),VE,VEN
+1926,Ciudad Guayana,CGU,Venezuela (Bolivarian Republic of),VE,VEN
+1927,Maracaibo - La Chinita International,MAR,Venezuela (Bolivarian Republic of),VE,VEN
+1928,Margerita,PMV,Venezuela (Bolivarian Republic of),VE,VEN
+1929,Puerto Ordaz,PZO,Venezuela (Bolivarian Republic of),VE,VEN
+1930,Uriman,URM,Venezuela (Bolivarian Republic of),VE,VEN
+1931,Valencia,VLN,Venezuela (Bolivarian Republic of),VE,VEN
+1932,Ho Chi Minh City (Saigon) - Tan Son Nhat International,SGN,Viet Nam,VN,VNM
+1933,Hue - Phu Bai,HUI,Viet Nam,VN,VNM
+1934,Saigon (Ho Chi Minh City) - Tan Son Nhat International,SGN,Viet Nam,VN,VNM
+1935,Beef Island - Terrance B. Lettsome,EIS,Virgin Islands (British),VG,VGB
+1936,Virgin Gorda,VIJ,Virgin Islands (British),VG,VGB
+1937,St. Croix,STX,Virgin Islands (U.S.),VI,VIR
+1938,St. Thomas,STT,Virgin Islands (U.S.),VI,VIR
+1939,Aden - Aden International Airport,ADE,Yemen,YE,YEM
+1940,Sanaa (Sana'a) - Sana'a International,SAH,Yemen,YE,YEM
+1941,Chipata,CIP,Zambia,ZM,ZMB
+1942,Kitwe,KIW,Zambia,ZM,ZMB
+1943,Lusaka - Lusaka International Airport,LUN,Zambia,ZM,ZMB
+1944,Mfuwe,MFU,Zambia,ZM,ZMB
+1945,N'Dola,NLA,Zambia,ZM,ZMB
+1946,Buffalo Range,BFO,Zimbabwe,ZW,ZWE
+1947,Bulawayo,BUQ,Zimbabwe,ZW,ZWE
+1948,Gweru,GWE,Zimbabwe,ZW,ZWE
+1949,Harare - Harare International Airport,HRE,Zimbabwe,ZW,ZWE
+1950,Hwange National Park,HWN,Zimbabwe,ZW,ZWE
+1951,Masvingo,MVZ,Zimbabwe,ZW,ZWE
+1952,Salisbury,SAY,Zimbabwe,ZW,ZWE
+1953,Victoria Falls,VFA,Zimbabwe,ZW,ZWE
