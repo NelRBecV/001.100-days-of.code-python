@@ -24,7 +24,8 @@ PIXELA_GRAPH_P = {
                   "name": "first-graph",
                   "unit": "meters",
                   "type": "float",
-                  "color": "sora"}#'blue' in japanesse
+                  "color": "sora"  # 'blue' in japanese
+                 }
 
 
 my_graph = f"{endpoint_graph}/{my_graphs_id}"
