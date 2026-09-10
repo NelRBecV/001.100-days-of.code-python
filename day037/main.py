@@ -2,6 +2,7 @@ import requests
 import webbrowser
 from datetime import datetime
 from dotenv import load_dotenv
+import os
 
 load_dotenv()
 
