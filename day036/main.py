@@ -56,6 +56,20 @@ def get_stock_news():
                           f"\nBrief: {news_search['description']}")
     return news_stock
 
+def deliver_stock_information(company_news: list, today: float, yesterday: float):
+    if len(company_news) == 0:
+        return
+
+    trend = "\u25BC" if 0 < today > yesterday else "\u25B2"
+    for news in company_news:
+        stock_message = f"{STOCK}:\n {trend}{abs(stock_liability_today)}%\n{news}"
+        my_message = client.messages.create(
+                                            from_=DELIVER_NUMBER,
+                                            body=stock_message,
+                                            to=MY_NUMBER
+        )
+        print(my_message.status)
+
 
 MY_NUMBER = '+584147533905'
 DELIVER_NUMBER = os.getenv('PHONE_SENDER')
@@ -88,14 +102,5 @@ Brief: We at Insider Monkey have gone over 821 13F filings that hedge funds and 
 """
 stock_liability_today = get_earning_percentage(daily_stock[f_period])
 stock_liability_yesterday = get_earning_percentage(daily_stock[s_period])
-trend = "\u25B2"
-if 0 < stock_liability_today > stock_liability_yesterday:
-    trend = "\u25BC"
-for news in tesla_news:
-    stock_message = f"{STOCK}:\n {trend}{abs(stock_liability_today)}%\n{news}"
-    my_message = client.messages.create(
-                                        from_=DELIVER_NUMBER,
-                                        body=stock_message,
-                                        to=MY_NUMBER
-    )
-    print(my_message.status)
+
+deliver_stock_information(tesla_news, stock_liability_today, stock_liability_yesterday)
