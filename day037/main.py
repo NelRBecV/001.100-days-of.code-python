@@ -6,8 +6,8 @@ import os
 
 load_dotenv()
 
-USERNAME = ""
-U_TOKEN = ""
+USERNAME = os.getenv('PIXELA_USR_NAM')
+U_TOKEN = os.getenv('PIXELA_USR_TKN')
 endpoint = "https://pixe.la/v1/users"
 PIXELA_PARAMS = {"username": USERNAME,
                  "token": U_TOKEN,
@@ -32,7 +32,7 @@ PIXELA_GRAPH_P = {
 my_graph = f"{endpoint_graph}/{my_graphs_id}"
 current_date = datetime(day=1, month=4, year=2025)
 date_activity = current_date.strftime('%Y%m%d')
-# strftime accepts any other date separator you wanna use (i.e. .strftime('%Y-%m-%'))
+# strftime accepts any other date separator you want to use (i.e. .strftime('%Y-%m-%'))
 quantity = "5"
 activity = {
             'quantity': quantity
