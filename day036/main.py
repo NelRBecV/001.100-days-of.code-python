@@ -71,8 +71,8 @@ def deliver_stock_information(company_news: list, today: float, yesterday: float
         print(my_message.status)
 
 
-MY_NUMBER = '+584147533905'
-DELIVER_NUMBER = os.getenv('PHONE_SENDER')
+MY_NUMBER = os.getenv('PHONE_RECEIVER')
+DELIVER_NUMBER = os.getenv('PHONE_DELIVER')
 STOCK = "TSLA"
 COMPANY_NAME = 'Tesla'
 daily_stock = get_stock_market_information()
